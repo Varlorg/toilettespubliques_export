@@ -1,0 +1,22 @@
+name: Update GPS file
+on:
+  push:
+  schedule:
+    - cron: "0 0 * * 0"
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+        # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v3
+      - name: Create toilettespubliques file
+        run:  |
+          pip install lxml
+          python toilettespubliques_export.py
+      - name: Commit toilettespubliques
+        run: |
+          git config --global user.name 'Github Action'
+          git config --global user.email 'varlorg@users.noreply.github.com'
+          git add --update
+          git diff-index --quiet HEAD || git commit -m "Automated toilettespubliques GPS export" 
+          git push
