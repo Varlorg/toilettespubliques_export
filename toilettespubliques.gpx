@@ -2736,7 +2736,7 @@
   </wpt>
   <wpt lat="46.6679779" lon="0.3646949">
     <src>10008594209</src>
-    <name>2 Boulevard L&#233;onard de Vinci 1</name>
+    <name>Futuroscope 9 1</name>
     <desc/>
   </wpt>
   <wpt lat="48.7695729" lon="-3.5847113">
@@ -3624,6 +3624,11 @@
     <name>3 Rue de la For&#234;t</name>
     <desc/>
   </wpt>
+  <wpt lat="45.4404396850337" lon="4.42177154738118">
+    <src>1007838249</src>
+    <name>40 All&#233;e Alexandre Dumas</name>
+    <desc/>
+  </wpt>
   <wpt lat="43.1261849" lon="5.9418481">
     <src>10079243105</src>
     <name>110 Chemin de la Loubiere</name>
@@ -4111,7 +4116,7 @@
   </wpt>
   <wpt lat="45.2161694" lon="6.4166889">
     <src>10106808943</src>
-    <name>Adresse inconnue Savoie 41</name>
+    <name>627 Route de la Carelle (Albanne)</name>
     <desc/>
   </wpt>
   <wpt lat="45.3985364" lon="5.2134277">
@@ -4379,14 +4384,9 @@
     <name>8 rue du T&#233;l&#233;cabine</name>
     <desc>Mo-Su 08:30-22:00</desc>
   </wpt>
-  <wpt lat="48.2566944" lon="7.4172671">
-    <src>10133052199</src>
-    <name>Cigoland 1</name>
-    <desc/>
-  </wpt>
   <wpt lat="48.2563196" lon="7.4154076">
     <src>10133093711</src>
-    <name>Cigoland 2</name>
+    <name>Cigoland 1</name>
     <desc/>
   </wpt>
   <wpt lat="46.6989303743077" lon="-1.97264021700118">
@@ -4736,12 +4736,12 @@
   </wpt>
   <wpt lat="45.6225329" lon="5.5674476">
     <src>10159627549</src>
-    <name>Walibi Rh&#244;ne-Alpes 1</name>
+    <name>Walibi Rh&#244;ne-Alpes 3 1</name>
     <desc/>
   </wpt>
   <wpt lat="45.6212608" lon="5.5720246">
     <src>10159684062</src>
-    <name>Walibi Rh&#244;ne-Alpes 2</name>
+    <name>Walibi Rh&#244;ne-Alpes 3 2</name>
     <desc/>
   </wpt>
   <wpt lat="48.5685349" lon="-1.9736633">
@@ -4986,27 +4986,27 @@
   </wpt>
   <wpt lat="48.2647449" lon="4.6147115">
     <src>10178543113</src>
-    <name>Nigloland 9 1</name>
+    <name>Nigloland 1</name>
     <desc/>
   </wpt>
   <wpt lat="48.2652509" lon="4.6155679">
     <src>10178545466</src>
-    <name>Nigloland 9 2</name>
+    <name>Nigloland 2</name>
     <desc/>
   </wpt>
   <wpt lat="48.262216" lon="4.6158002">
     <src>10178553989</src>
-    <name>Nigloland 9 3</name>
+    <name>Nigloland 3</name>
     <desc/>
   </wpt>
   <wpt lat="48.2627127" lon="4.6136015">
     <src>10178575839</src>
-    <name>Nigloland 9 4</name>
+    <name>Nigloland 4</name>
     <desc/>
   </wpt>
   <wpt lat="48.2623962" lon="4.61337">
     <src>10178583633</src>
-    <name>Nigloland 9 5</name>
+    <name>Nigloland 5</name>
     <desc/>
   </wpt>
   <wpt lat="47.6854761" lon="-0.869369">
@@ -5164,6 +5164,11 @@
     <name>74 Route de l'Oc&#233;an</name>
     <desc/>
   </wpt>
+  <wpt lat="49.0095899807208" lon="2.56181673778364">
+    <src>1019050991</src>
+    <name>1 Rue de la Haye</name>
+    <desc/>
+  </wpt>
   <wpt lat="45.4020193988761" lon="5.29243987476115">
     <src>1019222023</src>
     <name>178 All&#233;e de la Chapelle</name>
@@ -5299,7 +5304,7 @@
     <name>2b Place PAUL BENARD (ST GILLES)</name>
     <desc/>
   </wpt>
-  <wpt lat="47.5203719" lon="-3.13193">
+  <wpt lat="47.5203438" lon="-3.1319272">
     <src>1020185642</src>
     <name>Rue Curie</name>
     <desc/>
@@ -5321,7 +5326,7 @@
   </wpt>
   <wpt lat="43.6149361" lon="7.1229772">
     <src>10202382602</src>
-    <name>Kid's Island</name>
+    <name>Kid's Island 2</name>
     <desc/>
   </wpt>
   <wpt lat="47.5186866" lon="-3.1274697">
@@ -5412,7 +5417,7 @@
   <wpt lat="48.5792828635524" lon="7.73854762516736">
     <src>1020621925</src>
     <name>1 Place du Quartier Blanc</name>
-    <desc/>
+    <desc>Mo-Su 07:00-20:00</desc>
   </wpt>
   <wpt lat="47.2383192072788" lon="-2.28113997691521">
     <src>1020628243</src>
@@ -5696,7 +5701,7 @@
   </wpt>
   <wpt lat="43.2682786254014" lon="5.73131399326645">
     <src>1023307797</src>
-    <name>Adresse inconnue Bouches-du-Rh&#244;ne 6</name>
+    <name>OK Corral 1</name>
     <desc/>
   </wpt>
   <wpt lat="-20.956123" lon="55.3087588">
@@ -6704,7 +6709,7 @@
     <name>All&#233;e de la P&#233;pini&#232;re</name>
     <desc/>
   </wpt>
-  <wpt lat="45.7417075106851" lon="4.88121650797468">
+  <wpt lat="45.7417075339941" lon="4.88121659728083">
     <src>1047508029</src>
     <name>10 Avenue Rockefeller 2</name>
     <desc/>
@@ -6712,11 +6717,6 @@
   <wpt lat="45.1194560928962" lon="5.81015854644809">
     <src>104761727</src>
     <name>Impasse du Champ de Foire</name>
-    <desc/>
-  </wpt>
-  <wpt lat="45.7416112346451" lon="4.8810021682075">
-    <src>1047737364</src>
-    <name>10 Avenue Rockefeller 3</name>
     <desc/>
   </wpt>
   <wpt lat="48.2118551568574" lon="3.25773092238874">
@@ -6839,7 +6839,7 @@
     <name>1064 Route des Grandes Alpes</name>
     <desc/>
   </wpt>
-  <wpt lat="49.0799982" lon="-0.657778">
+  <wpt lat="49.0799402" lon="-0.6576734">
     <src>1051242262</src>
     <name>3 Rue des Halles</name>
     <desc/>
@@ -7036,7 +7036,7 @@
   </wpt>
   <wpt lat="44.2216766" lon="6.9233223">
     <src>10559583213</src>
-    <name>Adre Rambert Nord</name>
+    <name>Adre Rambert Nord 1</name>
     <desc/>
   </wpt>
   <wpt lat="48.591161343072" lon="7.66969693381651">
@@ -8469,14 +8469,9 @@
     <name>909 Route des 6 Chemins</name>
     <desc/>
   </wpt>
-  <wpt lat="45.7804071020421" lon="4.87062661569953">
+  <wpt lat="45.7804070891692" lon="4.87062651824302">
     <src>1074565706</src>
     <name>37 Boulevard Andr&#233; Latarjet</name>
-    <desc/>
-  </wpt>
-  <wpt lat="46.0283065" lon="0.2028075">
-    <src>10746712005</src>
-    <name>17 Rue de la Cloche</name>
     <desc/>
   </wpt>
   <wpt lat="45.7824205048133" lon="4.86647801828741">
@@ -8524,7 +8519,7 @@
     <name>23 Rue Paulhan</name>
     <desc/>
   </wpt>
-  <wpt lat="44.667858" lon="0.3993047">
+  <wpt lat="44.6678801" lon="0.3993084">
     <src>10750626894</src>
     <name>25 Boulevard National</name>
     <desc/>
@@ -8729,7 +8724,7 @@
     <name>100 Place Tricolore</name>
     <desc/>
   </wpt>
-  <wpt lat="45.7833901700555" lon="4.8713903372123">
+  <wpt lat="45.7834212819872" lon="4.87137610216687">
     <src>1076573625</src>
     <name>2 Avenue des Arts 1</name>
     <desc/>
@@ -8942,11 +8937,6 @@
   <wpt lat="46.1790862" lon="6.7080133">
     <src>10787041404</src>
     <name>42 Rue du bourg</name>
-    <desc/>
-  </wpt>
-  <wpt lat="44.7847457" lon="5.8149552">
-    <src>10787092399</src>
-    <name>Adresse inconnue Is&#232;re 5</name>
     <desc/>
   </wpt>
   <wpt lat="45.373333932475" lon="4.81216261015737">
@@ -9174,7 +9164,7 @@
     <name>8 Place du R&#233;duch</name>
     <desc/>
   </wpt>
-  <wpt lat="44.9008209" lon="6.6439139">
+  <wpt lat="44.9008364" lon="6.6439358">
     <src>107e7fd88fa949bbbf9c3f3f900d9295</src>
     <name>Avenue Vauban</name>
     <desc/>
@@ -9419,7 +9409,7 @@
     <name>63 Place de l&#8217;Eglise</name>
     <desc/>
   </wpt>
-  <wpt lat="45.129423" lon="1.304082">
+  <wpt lat="45.1294402" lon="1.3040633">
     <src>10815277013</src>
     <name>2 Rue Aristide Briand</name>
     <desc/>
@@ -9477,11 +9467,6 @@
   <wpt lat="50.6455239" lon="1.6122919">
     <src>10819707993</src>
     <name>La Claire Eau</name>
-    <desc/>
-  </wpt>
-  <wpt lat="45.2936364" lon="5.6726482">
-    <src>10819711758</src>
-    <name>4581 Route de Chalais 1</name>
     <desc/>
   </wpt>
   <wpt lat="47.9618848" lon="3.5087714">
@@ -10381,7 +10366,7 @@
   </wpt>
   <wpt lat="44.9118957584266" lon="0.932342628867361">
     <src>1087781048</src>
-    <name>339 All&#233;e Paul-Jean Souriau</name>
+    <name>Parc Le Bournat 3 1</name>
     <desc/>
   </wpt>
   <wpt lat="47.2744483" lon="-2.4238742">
@@ -10431,7 +10416,7 @@
   </wpt>
   <wpt lat="45.2275318" lon="6.4051829">
     <src>10879567408</src>
-    <name>Adresse inconnue Savoie 28</name>
+    <name>146 Impasse Plan des Colonnes</name>
     <desc/>
   </wpt>
   <wpt lat="49.2999847824341" lon="-0.0774599203680468">
@@ -10834,7 +10819,7 @@
     <name>7 Place de la Mairie 2</name>
     <desc/>
   </wpt>
-  <wpt lat="44.5812517" lon="1.9487415">
+  <wpt lat="44.5812106" lon="1.9488173">
     <src>10910925001</src>
     <name>6 Place de l' Eglise</name>
     <desc/>
@@ -11621,7 +11606,7 @@
   </wpt>
   <wpt lat="-17.49697405" lon="-149.91417285">
     <src>1096074226</src>
-    <name>Adresse inconnue 1 1</name>
+    <name>Adresse inconnue 1 1 1</name>
     <desc/>
   </wpt>
   <wpt lat="48.8547606" lon="2.2898648">
@@ -12321,7 +12306,7 @@
   </wpt>
   <wpt lat="48.26301765" lon="4.61545485">
     <src>1100904191</src>
-    <name>Nigloland 1</name>
+    <name>Nigloland 6</name>
     <desc/>
   </wpt>
   <wpt lat="48.5296602" lon="-4.4513075">
@@ -12609,11 +12594,6 @@
     <name>1 Rue du Docteur Georges Salan</name>
     <desc/>
   </wpt>
-  <wpt lat="45.7833828046194" lon="4.87139118179612">
-    <src>1102176680</src>
-    <name>2 Avenue des Arts 2</name>
-    <desc/>
-  </wpt>
   <wpt lat="46.593889" lon="-1.085478">
     <src>110220685</src>
     <name>115 le Grand Bateau</name>
@@ -12694,17 +12674,17 @@
     <name>28 Rue de la Mairie</name>
     <desc/>
   </wpt>
-  <wpt lat="45.7834085989599" lon="4.87181744137018">
+  <wpt lat="45.7834040352055" lon="4.87181918550377">
     <src>1102615698</src>
     <name>2 Avenue des Arts 3</name>
     <desc/>
   </wpt>
-  <wpt lat="45.7833200169369" lon="4.87145495331869">
+  <wpt lat="45.7833161514776" lon="4.8714566993119">
     <src>1102615699</src>
     <name>2 Avenue des Arts 4</name>
     <desc/>
   </wpt>
-  <wpt lat="45.7833105308196" lon="4.87137693300447">
+  <wpt lat="45.7833066507824" lon="4.87137878591873">
     <src>1102615700</src>
     <name>11 Avenue Gaston Berger</name>
     <desc/>
@@ -12879,7 +12859,7 @@
     <name>8 Rue de la Forge</name>
     <desc/>
   </wpt>
-  <wpt lat="45.7834663538718" lon="4.87042599784562">
+  <wpt lat="45.7834664400758" lon="4.87042599286963">
     <src>1103753922</src>
     <name>6 Avenue Gaston Berger 1</name>
     <desc/>
@@ -12889,12 +12869,12 @@
     <name>6 Avenue Gaston Berger 2</name>
     <desc/>
   </wpt>
-  <wpt lat="45.7833012614616" lon="4.87059069941577">
+  <wpt lat="45.7833010489728" lon="4.87058879878115">
     <src>1103764328</src>
     <name>6 Avenue Gaston Berger 3</name>
     <desc/>
   </wpt>
-  <wpt lat="45.7832763620957" lon="4.87060299894845">
+  <wpt lat="45.7832763732013" lon="4.87060030290983">
     <src>1103764329</src>
     <name>6 Avenue Gaston Berger 4</name>
     <desc/>
@@ -13306,7 +13286,7 @@
   </wpt>
   <wpt lat="45.205582" lon="6.4194452">
     <src>1105132294</src>
-    <name>Adresse inconnue Savoie 31</name>
+    <name>170 Route du Four</name>
     <desc/>
   </wpt>
   <wpt lat="46.5637807" lon="0.8651142">
@@ -13644,7 +13624,7 @@
     <name>Adresse inconnue Ard&#232;che 1</name>
     <desc/>
   </wpt>
-  <wpt lat="46.3325544" lon="-1.3180857">
+  <wpt lat="46.332524" lon="-1.3181075">
     <src>11062965906</src>
     <name>21 Rue du docteur pacaud</name>
     <desc/>
@@ -13771,7 +13751,7 @@
   </wpt>
   <wpt lat="46.8754635752502" lon="-2.10454318848285">
     <src>1106685573</src>
-    <name>Adresse inconnue Vend&#233;e 2</name>
+    <name>le marais nantais</name>
     <desc/>
   </wpt>
   <wpt lat="48.1219644" lon="-1.2134784">
@@ -14081,7 +14061,7 @@
   </wpt>
   <wpt lat="45.6202172067591" lon="5.57136629430488">
     <src>1107848603</src>
-    <name>1380 Route de la Corneille 2</name>
+    <name>Walibi Rh&#244;ne-Alpes 3 3</name>
     <desc/>
   </wpt>
   <wpt lat="46.2344289" lon="-1.4781734">
@@ -14276,7 +14256,7 @@
   </wpt>
   <wpt lat="-20.7843131" lon="167.1240236">
     <src>11084670332</src>
-    <name>Adresse inconnue 1 1</name>
+    <name>Adresse inconnue 1 1 2</name>
     <desc/>
   </wpt>
   <wpt lat="46.95662" lon="5.4034405">
@@ -14694,7 +14674,7 @@
     <name>7 Chemin du Val Es Fleurs</name>
     <desc/>
   </wpt>
-  <wpt lat="46.8497774" lon="0.9293503">
+  <wpt lat="46.8497744" lon="0.9293676">
     <src>11104145442</src>
     <name>790 La Gare</name>
     <desc/>
@@ -15002,7 +14982,7 @@
   <wpt lat="48.8299724" lon="2.3551635">
     <src>11112946994</src>
     <name>18a Avenue d'Italie</name>
-    <desc/>
+    <desc>Mo-Fr 08:00-20:00, Sa 08:00-21:00, Su 11:00-19:00</desc>
   </wpt>
   <wpt lat="49.1714931" lon="1.3397031">
     <src>11113622594</src>
@@ -15426,7 +15406,7 @@
   </wpt>
   <wpt lat="45.8739311" lon="6.7792424">
     <src>11128430906</src>
-    <name>Adresse inconnue Haute-Savoie 91</name>
+    <name>1 La Chalette 1</name>
     <desc/>
   </wpt>
   <wpt lat="48.8331147" lon="-3.3280966">
@@ -15509,7 +15489,7 @@
     <name>10 Rue des Clories</name>
     <desc/>
   </wpt>
-  <wpt lat="48.3677628" lon="-4.7593716">
+  <wpt lat="48.3677534" lon="-4.7591805">
     <src>11131978695</src>
     <name>28 Route de Kermorvan</name>
     <desc/>
@@ -16251,7 +16231,7 @@
   </wpt>
   <wpt lat="47.4429772" lon="-1.5603811">
     <src>11156504370</src>
-    <name>Adresse inconnue Loire-Atlantique 27</name>
+    <name>2bis le Cramezeul</name>
     <desc/>
   </wpt>
   <wpt lat="46.5098849" lon="-1.8055325">
@@ -16344,7 +16324,7 @@
     <name>6 Rue Traversi&#232;re</name>
     <desc/>
   </wpt>
-  <wpt lat="47.8006432" lon="-3.7386237">
+  <wpt lat="47.8006317" lon="-3.7386334">
     <src>11160645805</src>
     <name>2 Impasse du Phare 1</name>
     <desc/>
@@ -16601,7 +16581,7 @@
   </wpt>
   <wpt lat="-17.5991227484547" lon="-149.612355196256">
     <src>1116978510</src>
-    <name>Adresse inconnue 2 1</name>
+    <name>Adresse inconnue 2 1 1</name>
     <desc/>
   </wpt>
   <wpt lat="-17.5945944664909" lon="-149.612794948034">
@@ -16621,7 +16601,7 @@
   </wpt>
   <wpt lat="-17.4925166" lon="-149.8498793">
     <src>11170974737</src>
-    <name>Adresse inconnue 2 1</name>
+    <name>Adresse inconnue 2 1 2</name>
     <desc/>
   </wpt>
   <wpt lat="49.05803085" lon="3.96074455">
@@ -16844,6 +16824,11 @@
     <name>15 Rue Paul Reclus</name>
     <desc/>
   </wpt>
+  <wpt lat="48.0092556" lon="7.0548782">
+    <src>11182813637</src>
+    <name>31 Rue de Mittlach</name>
+    <desc/>
+  </wpt>
   <wpt lat="46.9717814" lon="5.7481302">
     <src>11182828137</src>
     <name>3 Rue des Fontaines</name>
@@ -16862,11 +16847,6 @@
   <wpt lat="46.4106429" lon="-1.5311661">
     <src>11184182993</src>
     <name>358 Chemin des Berniques 1</name>
-    <desc/>
-  </wpt>
-  <wpt lat="46.4106429" lon="-1.5311661">
-    <src>11184186380</src>
-    <name>358 Chemin des Berniques 2</name>
     <desc/>
   </wpt>
   <wpt lat="-21.13751435" lon="55.2952905">
@@ -17171,7 +17151,7 @@
   </wpt>
   <wpt lat="46.5076951" lon="2.7123296">
     <src>11205749158</src>
-    <name>23 Quai de l&#8217;Aumance</name>
+    <name>23 Quai de l&#8217;Aumance 1</name>
     <desc/>
   </wpt>
   <wpt lat="46.5822593" lon="3.2103638">
@@ -17212,6 +17192,11 @@
   <wpt lat="44.5166987" lon="1.0817682">
     <src>11207708055</src>
     <name>38 Chemin d&#8217;Am&#233;lie</name>
+    <desc/>
+  </wpt>
+  <wpt lat="49.284357" lon="-0.1608079">
+    <src>112078434</src>
+    <name>39 Avenue du Pr&#233;sident Ren&#233; Coty</name>
     <desc/>
   </wpt>
   <wpt lat="44.4654883" lon="1.1924253">
@@ -17341,7 +17326,7 @@
   </wpt>
   <wpt lat="48.3240802" lon="6.7308304">
     <src>11218003775</src>
-    <name>Fraispertuis City</name>
+    <name>Fraispertuis City 3</name>
     <desc/>
   </wpt>
   <wpt lat="42.5979052" lon="3.0400729">
@@ -17411,7 +17396,7 @@
   </wpt>
   <wpt lat="48.8676090506888" lon="2.77650528013315">
     <src>1122277982</src>
-    <name>Euro Disneyland Parc</name>
+    <name>Walt Disney Studios Park 6 1</name>
     <desc/>
   </wpt>
   <wpt lat="42.7638424" lon="0.5021028">
@@ -17486,7 +17471,7 @@
   </wpt>
   <wpt lat="47.5027594" lon="-0.5691599">
     <src>11228701294</src>
-    <name>Terra Botanica</name>
+    <name>Terra Botanica 9</name>
     <desc/>
   </wpt>
   <wpt lat="48.8600718" lon="2.389296">
@@ -17611,7 +17596,7 @@
   </wpt>
   <wpt lat="49.2756391233593" lon="0.205314885510855">
     <src>112404106</src>
-    <name>1016 Rue de la Cour de France</name>
+    <name>1016 Rue de la Cour de France 1</name>
     <desc/>
   </wpt>
   <wpt lat="45.2094568" lon="4.1461106">
@@ -17669,11 +17654,6 @@
     <name>32bis Quai Leray</name>
     <desc>24/7</desc>
   </wpt>
-  <wpt lat="49.2096841609126" lon="-0.365425416968502">
-    <src>1124401656</src>
-    <name>302 Boulevard Mar&#233;chal Juin</name>
-    <desc/>
-  </wpt>
   <wpt lat="44.2045954" lon="0.6118477">
     <src>11244148381</src>
     <name>26 Avenue du G&#233;n&#233;ral de Gaulle</name>
@@ -17721,7 +17701,7 @@
   </wpt>
   <wpt lat="44.9063604" lon="4.1548846">
     <src>11246832138</src>
-    <name>Lugik Parc</name>
+    <name>Lugik Parc 2</name>
     <desc/>
   </wpt>
   <wpt lat="43.4218658" lon="3.168393">
@@ -18114,11 +18094,6 @@
     <name>2 Boulevard Gabriel Verdet</name>
     <desc/>
   </wpt>
-  <wpt lat="43.5474241806887" lon="3.98052695127507">
-    <src>112738158</src>
-    <name>121 Avenue Jean Baptiste Solignac</name>
-    <desc/>
-  </wpt>
   <wpt lat="43.5526104107332" lon="4.00639082959974">
     <src>112741615</src>
     <name>435 Avenue Grassion Cibrand Carnon</name>
@@ -18399,7 +18374,7 @@
     <name>30 Rue du Canap&#233;</name>
     <desc/>
   </wpt>
-  <wpt lat="44.8981355" lon="6.6434214">
+  <wpt lat="44.8981388" lon="6.6434267">
     <src>112bd997e7b64227a80c2d67fec9cc40</src>
     <name>Place M&#233;decin-G&#233;n&#233;ral Blanchard</name>
     <desc/>
@@ -18744,7 +18719,7 @@
     <name>3 Rue de la Mairie</name>
     <desc/>
   </wpt>
-  <wpt lat="43.9442028440329" lon="0.3102701795185">
+  <wpt lat="43.9442028441855" lon="0.310270170272955">
     <src>113459315</src>
     <name>10 Lieu dit le Barry</name>
     <desc/>
@@ -19031,7 +19006,7 @@
   </wpt>
   <wpt lat="45.5321984" lon="2.6851306">
     <src>11377993002</src>
-    <name>Les Terres de la Tour</name>
+    <name>Les Terres de la Tour 1</name>
     <desc/>
   </wpt>
   <wpt lat="45.9397483" lon="4.6161746">
@@ -19341,17 +19316,17 @@
   </wpt>
   <wpt lat="50.4297291" lon="1.5999084">
     <src>11421632818</src>
-    <name>1500 Cd 940 Rte de Bagatelle 1</name>
+    <name>Bagatelle 1</name>
     <desc/>
   </wpt>
   <wpt lat="50.4292977" lon="1.6028957">
     <src>11421632819</src>
-    <name>1500 Cd 940 Rte de Bagatelle 2</name>
+    <name>Bagatelle 2</name>
     <desc/>
   </wpt>
   <wpt lat="50.4295104" lon="1.6040658">
     <src>11421632820</src>
-    <name>1500 Cd 940 Rte de Bagatelle 3</name>
+    <name>Bagatelle 3</name>
     <desc/>
   </wpt>
   <wpt lat="43.4227692" lon="3.0279307">
@@ -19939,7 +19914,7 @@
     <name>32 Grande Rue</name>
     <desc/>
   </wpt>
-  <wpt lat="44.8951333" lon="6.6325178">
+  <wpt lat="44.8951107" lon="6.6325198">
     <src>11498152987</src>
     <name>2 Rue du Moulin</name>
     <desc/>
@@ -20726,7 +20701,7 @@
   </wpt>
   <wpt lat="48.8698530369213" lon="2.78461358914306">
     <src>1160445679</src>
-    <name>1 Esplanade Francois Truffaut</name>
+    <name>Site Disneyland Paris 2 1</name>
     <desc/>
   </wpt>
   <wpt lat="49.0152993221218" lon="1.38661860404462">
@@ -21116,7 +21091,7 @@
   </wpt>
   <wpt lat="46.6668415" lon="0.3668968">
     <src>11648667094</src>
-    <name>Adresse inconnue Vienne 6</name>
+    <name>Futuroscope 9</name>
     <desc/>
   </wpt>
   <wpt lat="46.5175757" lon="3.6871467">
@@ -21234,7 +21209,7 @@
     <name>17 Rue de la Mairie</name>
     <desc/>
   </wpt>
-  <wpt lat="45.6475307" lon="0.1671868">
+  <wpt lat="45.6475307" lon="0.1671337">
     <src>11659719163</src>
     <name>20 Rue Jean Marot</name>
     <desc/>
@@ -21426,7 +21401,7 @@
   </wpt>
   <wpt lat="47.1457674" lon="6.2108195">
     <src>11684576260</src>
-    <name>16 Rue du Ch&#226;teau</name>
+    <name>Dino-Zoo 2 1</name>
     <desc/>
   </wpt>
   <wpt lat="45.9914334" lon="6.2505327">
@@ -22771,7 +22746,7 @@
   </wpt>
   <wpt lat="48.7838399" lon="-3.5241661">
     <src>11829892779</src>
-    <name>2 Parc du Rad&#244;me 1</name>
+    <name>Le Village Gaulois 1</name>
     <desc/>
   </wpt>
   <wpt lat="45.8382233" lon="6.1417156">
@@ -22926,7 +22901,7 @@
   </wpt>
   <wpt lat="43.5858403" lon="1.4933347">
     <src>11838095752</src>
-    <name>65 Chemin de Firmis 1</name>
+    <name>Cit&#233; de l'Espace 1</name>
     <desc/>
   </wpt>
   <wpt lat="47.7977977" lon="3.579954">
@@ -22971,7 +22946,7 @@
   </wpt>
   <wpt lat="43.5858542" lon="1.4932969">
     <src>11841721203</src>
-    <name>65 Chemin de Firmis 2</name>
+    <name>Cit&#233; de l'Espace 2</name>
     <desc/>
   </wpt>
   <wpt lat="45.89446" lon="0.469834">
@@ -23164,7 +23139,7 @@
     <name>21 Avenue Claude Bernard 2</name>
     <desc/>
   </wpt>
-  <wpt lat="45.7812694159091" lon="4.86655453310607">
+  <wpt lat="45.781271646108" lon="4.86655373260081">
     <src>1185806220</src>
     <name>33 Avenue Pierre de Coubertin 1</name>
     <desc/>
@@ -23174,12 +23149,12 @@
     <name>21 Avenue Claude Bernard 3</name>
     <desc/>
   </wpt>
-  <wpt lat="45.7812423950716" lon="4.86656713208268">
+  <wpt lat="45.7812459601006" lon="4.86656657394928">
     <src>1185806266</src>
     <name>10 Avenue Claude Bernard</name>
     <desc/>
   </wpt>
-  <wpt lat="45.7812694159091" lon="4.86655453310607">
+  <wpt lat="45.781271646108" lon="4.86655373260081">
     <src>1185806267</src>
     <name>33 Avenue Pierre de Coubertin 2</name>
     <desc/>
@@ -23259,7 +23234,7 @@
     <name>14 Rue Professeur Rollet</name>
     <desc/>
   </wpt>
-  <wpt lat="45.7812694159091" lon="4.86655453310607">
+  <wpt lat="45.781271646108" lon="4.86655373260081">
     <src>1186242392</src>
     <name>33 Avenue Pierre de Coubertin 5</name>
     <desc/>
@@ -23316,7 +23291,7 @@
   </wpt>
   <wpt lat="46.6678099" lon="0.3677521">
     <src>11868576187</src>
-    <name>Adresse inconnue Vienne 9</name>
+    <name>Futuropolis 2 1</name>
     <desc/>
   </wpt>
   <wpt lat="44.7770932989228" lon="1.00573098290688">
@@ -23569,7 +23544,7 @@
     <name>Centre commercial Coat ar Gu&#233;ven</name>
     <desc/>
   </wpt>
-  <wpt lat="49.3094640426633" lon="-0.904624102082228">
+  <wpt lat="49.3094666426633" lon="-0.904640202082228">
     <src>1188874731</src>
     <name>39 Rue Octave Mirbeau</name>
     <desc/>
@@ -23881,7 +23856,7 @@
   </wpt>
   <wpt lat="46.6667234" lon="0.36603">
     <src>11902316744</src>
-    <name>2 Boulevard L&#233;onard de Vinci 2</name>
+    <name>Futuroscope 9 2</name>
     <desc/>
   </wpt>
   <wpt lat="48.8241767" lon="2.3888624">
@@ -24039,7 +24014,7 @@
     <name>1033 Rue du Commerce</name>
     <desc/>
   </wpt>
-  <wpt lat="47.1907064" lon="-0.2613754">
+  <wpt lat="47.1907581" lon="-0.2613487">
     <src>11914914297</src>
     <name>625 Rue des perri&#232;res</name>
     <desc/>
@@ -24177,11 +24152,6 @@
   <wpt lat="43.6601199" lon="2.026403">
     <src>11920238254</src>
     <name>3 Place du 19 mars 1962 1</name>
-    <desc/>
-  </wpt>
-  <wpt lat="43.6601199" lon="2.026403">
-    <src>11920251603</src>
-    <name>3 Place du 19 mars 1962 2</name>
     <desc/>
   </wpt>
   <wpt lat="42.7496593" lon="2.6776149">
@@ -24431,17 +24401,17 @@
   </wpt>
   <wpt lat="43.7866408" lon="1.1314805">
     <src>11937367256</src>
-    <name>3200 Route du Poutchot 1</name>
+    <name>Animaparc 1</name>
     <desc/>
   </wpt>
   <wpt lat="43.7866897" lon="1.1315603">
     <src>11937367257</src>
-    <name>3200 Route du Poutchot 2</name>
+    <name>Animaparc 2</name>
     <desc/>
   </wpt>
   <wpt lat="43.7867188" lon="1.1316548">
     <src>11937367258</src>
-    <name>3200 Route du Poutchot 3</name>
+    <name>Animaparc 3</name>
     <desc/>
   </wpt>
   <wpt lat="45.114544" lon="3.0474778">
@@ -24934,11 +24904,6 @@
     <name>3 Place de la Mairie</name>
     <desc/>
   </wpt>
-  <wpt lat="48.7638845312567" lon="-2.95814301933405">
-    <src>119630134</src>
-    <name>18 Route du Cap Horn</name>
-    <desc/>
-  </wpt>
   <wpt lat="16.21356234938" lon="-61.7821695231697">
     <src>119634942</src>
     <name>124 Chemin de la Plage Caraibe</name>
@@ -25113,11 +25078,6 @@
     <src>11978631402</src>
     <name>120 Route de Sort</name>
     <desc/>
-  </wpt>
-  <wpt lat="43.9538847" lon="4.801221">
-    <src>11978785957</src>
-    <name>225 All&#233;e Antoine Pinay</name>
-    <desc>apr-sep</desc>
   </wpt>
   <wpt lat="42.8767847" lon="0.0133239">
     <src>11980169894</src>
@@ -25721,7 +25681,7 @@
   </wpt>
   <wpt lat="43.6653924" lon="7.2128814">
     <src>12005760444</src>
-    <name>Boulevard Maryse Bastie</name>
+    <name>Boulevard Maryse Bastie 1</name>
     <desc/>
   </wpt>
   <wpt lat="-21.0732444" lon="55.2208936">
@@ -25884,27 +25844,27 @@
     <name>4 Rue Victor Grignard</name>
     <desc/>
   </wpt>
-  <wpt lat="45.7831088109379" lon="4.86986385354869">
+  <wpt lat="45.7831082176245" lon="4.8698614708789">
     <src>1201667545</src>
     <name>3 Rue Enrico Fermi 1</name>
     <desc/>
   </wpt>
-  <wpt lat="45.7831334536531" lon="4.86997257564414">
+  <wpt lat="45.7831333142049" lon="4.86997205341954">
     <src>1201667546</src>
     <name>10 Rue Victor Grignard</name>
     <desc/>
   </wpt>
-  <wpt lat="45.7830105986216" lon="4.87007355834708">
+  <wpt lat="45.78301194241" lon="4.87007508545723">
     <src>1201683358</src>
     <name>3 Rue Enrico Fermi 2</name>
     <desc/>
   </wpt>
-  <wpt lat="45.7828974087683" lon="4.86957058600107">
+  <wpt lat="45.7828978572967" lon="4.8695701015213">
     <src>1201683375</src>
     <name>3 Rue Enrico Fermi 3</name>
     <desc/>
   </wpt>
-  <wpt lat="45.7828913724989" lon="4.86953767064073">
+  <wpt lat="45.7828919304841" lon="4.86953769819551">
     <src>1201683376</src>
     <name>3 Rue Enrico Fermi 4</name>
     <desc/>
@@ -25919,17 +25879,17 @@
     <name>36 Rue Saint-val&#233;rien</name>
     <desc/>
   </wpt>
-  <wpt lat="45.7830105875888" lon="4.87007332561004">
+  <wpt lat="45.7830118823583" lon="4.87007493817867">
     <src>1201739825</src>
     <name>3 Rue Enrico Fermi 5</name>
     <desc/>
   </wpt>
-  <wpt lat="45.7828972757086" lon="4.86957049544258">
+  <wpt lat="45.7828977290613" lon="4.86957001862407">
     <src>1201739834</src>
     <name>3 Rue Enrico Fermi 6</name>
     <desc/>
   </wpt>
-  <wpt lat="45.7828911280911" lon="4.8695377547457">
+  <wpt lat="45.7828917258604" lon="4.86953778444645">
     <src>1201739835</src>
     <name>3 Rue Enrico Fermi 7</name>
     <desc/>
@@ -26069,10 +26029,10 @@
     <name>10 Avenue du Pasteur Rollin</name>
     <desc/>
   </wpt>
-  <wpt lat="50.1741272" lon="4.0908914">
+  <wpt lat="50.1741257" lon="4.0908623">
     <src>12025299757</src>
     <name>5 Grand Place</name>
-    <desc/>
+    <desc>24/7</desc>
   </wpt>
   <wpt lat="43.1509955" lon="5.9298754">
     <src>12025325370</src>
@@ -26124,9 +26084,89 @@
     <name>33 Avenue Pierre de Coubertin 8</name>
     <desc/>
   </wpt>
+  <wpt lat="48.9188634" lon="2.421783">
+    <src>12026021782</src>
+    <name>80 Rue Saint Stenay 1</name>
+    <desc/>
+  </wpt>
+  <wpt lat="48.9188738" lon="2.4217921">
+    <src>12026021783</src>
+    <name>80 Rue Saint Stenay 2</name>
+    <desc/>
+  </wpt>
+  <wpt lat="44.4115463" lon="0.2185363">
+    <src>12026536102</src>
+    <name>2 Rue des Caperans</name>
+    <desc/>
+  </wpt>
   <wpt lat="43.5219807" lon="6.941411">
     <src>12027a4c72b9443cbe470744eed3414a</src>
     <name>Rue de la Plage</name>
+    <desc/>
+  </wpt>
+  <wpt lat="43.0779145" lon="5.7797646">
+    <src>12028991419</src>
+    <name>0 Iles des Embiez</name>
+    <desc/>
+  </wpt>
+  <wpt lat="43.0805281" lon="5.7834697">
+    <src>12028991422</src>
+    <name>9 Iles des Embiez</name>
+    <desc/>
+  </wpt>
+  <wpt lat="43.0779707" lon="5.7841635">
+    <src>12028991423</src>
+    <name>8 Iles des Embiez 1</name>
+    <desc/>
+  </wpt>
+  <wpt lat="46.1058047" lon="5.8270851">
+    <src>12029022525</src>
+    <name>13 Rue Viala</name>
+    <desc/>
+  </wpt>
+  <wpt lat="48.6937783" lon="-3.77269">
+    <src>12029048757</src>
+    <name>Rue de la Duchesse a de Bretagne</name>
+    <desc/>
+  </wpt>
+  <wpt lat="48.337983" lon="-3.6391877">
+    <src>12029101261</src>
+    <name>20bis Avenue du G&#233;n&#233;ral de Gaulle</name>
+    <desc/>
+  </wpt>
+  <wpt lat="48.6943994" lon="-3.7727689">
+    <src>12029108896</src>
+    <name>1 Place Tanguy Prigent</name>
+    <desc/>
+  </wpt>
+  <wpt lat="48.7116267" lon="-3.8160117">
+    <src>12029120170</src>
+    <name>24 rue du Grand Large</name>
+    <desc/>
+  </wpt>
+  <wpt lat="47.794107" lon="-3.810271">
+    <src>12030037803</src>
+    <name>2 Corniche des Gl&#233;nans</name>
+    <desc/>
+  </wpt>
+  <wpt lat="44.561047" lon="-0.0227048">
+    <src>12030766390</src>
+    <name>95 Impasse du Port 1</name>
+    <desc/>
+  </wpt>
+  <wpt lat="46.3898808" lon="5.8639146">
+    <src>12030967311</src>
+    <name>49 Rue du Pr&#233; 1</name>
+    <desc/>
+  </wpt>
+  <wpt lat="43.1522994" lon="3.1612928">
+    <src>12031049486</src>
+    <name>43 Avenue du Languedoc</name>
+    <desc/>
+  </wpt>
+  <wpt lat="48.2416412" lon="-4.5437169">
+    <src>12031066570</src>
+    <name>1 Plage de Goulien</name>
     <desc/>
   </wpt>
   <wpt lat="45.9145759208026" lon="6.72199670960995">
@@ -26134,14 +26174,74 @@
     <name>1340 Viaduc des egratz</name>
     <desc/>
   </wpt>
+  <wpt lat="43.9642765" lon="0.4459457">
+    <src>12031315382</src>
+    <name>446 chemin de sainte germaine</name>
+    <desc/>
+  </wpt>
   <wpt lat="45.4085905287631" lon="6.57574125449989">
     <src>1203152751</src>
     <name>3957 Route de l'altiport</name>
     <desc/>
   </wpt>
+  <wpt lat="44.4589456" lon="-0.3764589">
+    <src>12031679190</src>
+    <name>4 Route du Stade</name>
+    <desc/>
+  </wpt>
+  <wpt lat="49.8730152" lon="4.6089862">
+    <src>12031945971</src>
+    <name>Adresse inconnue Ardennes 1</name>
+    <desc/>
+  </wpt>
+  <wpt lat="43.3686997" lon="-1.7816146">
+    <src>12032726514</src>
+    <name>8 Rue des orangers 1</name>
+    <desc/>
+  </wpt>
+  <wpt lat="47.8606983" lon="-3.9868783">
+    <src>12033251773</src>
+    <name>10 Rue Saint Gu&#233;nol&#233;</name>
+    <desc/>
+  </wpt>
+  <wpt lat="47.8546479" lon="-3.9852654">
+    <src>12033640865</src>
+    <name>32 Residence des Dunes</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.8878441" lon="6.1728484">
+    <src>12033742323</src>
+    <name>3 Vieille route des pensi&#232;res</name>
+    <desc/>
+  </wpt>
+  <wpt lat="48.7872995" lon="-3.2278753">
+    <src>12033816732</src>
+    <name>23 Rue Saint-andr&#233;</name>
+    <desc/>
+  </wpt>
+  <wpt lat="46.0738679" lon="-1.0037763">
+    <src>12033911189</src>
+    <name>2 Rue de Verdun</name>
+    <desc/>
+  </wpt>
+  <wpt lat="47.0780715" lon="-1.405921">
+    <src>12034752851</src>
+    <name>54 Avenue de Nantes</name>
+    <desc/>
+  </wpt>
   <wpt lat="45.2148930233567" lon="-1.12568420253587">
     <src>120347790</src>
     <name>2 Place Saint-fran&#231;ois</name>
+    <desc/>
+  </wpt>
+  <wpt lat="47.871552" lon="-3.9186256">
+    <src>12034828161</src>
+    <name>11ter Place du General de Gaulle</name>
+    <desc/>
+  </wpt>
+  <wpt lat="46.8356445" lon="3.4547912">
+    <src>12035160440</src>
+    <name>14 All&#233;e Marcel Merle</name>
     <desc/>
   </wpt>
   <wpt lat="48.3588675" lon="-4.77221675">
@@ -26154,9 +26254,129 @@
     <name>1 Esplanade Christian Renard</name>
     <desc/>
   </wpt>
+  <wpt lat="44.6040675" lon="-0.9416242">
+    <src>12035807969</src>
+    <name>2 Chemin de l'Abreuvoir</name>
+    <desc/>
+  </wpt>
+  <wpt lat="44.0713704" lon="3.9438617">
+    <src>12036256087</src>
+    <name>Impasse de la Lampisterie</name>
+    <desc/>
+  </wpt>
+  <wpt lat="47.1564792" lon="1.2014942">
+    <src>12036431617</src>
+    <name>43 Grande Rue</name>
+    <desc/>
+  </wpt>
+  <wpt lat="48.792055" lon="2.5209543">
+    <src>12036600762</src>
+    <name>25 Quai Winston Churchill</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.1442658" lon="6.4196346">
+    <src>12037269928</src>
+    <name>2434 Route du Galibier</name>
+    <desc/>
+  </wpt>
+  <wpt lat="43.4901176" lon="-1.4720629">
+    <src>12037541133</src>
+    <name>Place Patxa 1</name>
+    <desc/>
+  </wpt>
+  <wpt lat="48.1808547" lon="2.723474">
+    <src>12037555117</src>
+    <name>6 Hameau de la Sucrerie</name>
+    <desc/>
+  </wpt>
+  <wpt lat="43.4901877" lon="-1.4720502">
+    <src>12037594520</src>
+    <name>Place Patxa 2</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.5350827" lon="6.6376898">
+    <src>12037612769</src>
+    <name>218 Route du Chaillet</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.9260817" lon="6.8742364">
+    <src>12037661420</src>
+    <name>200 Route du Bouchet</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.1929094" lon="5.739858">
+    <src>12037872845</src>
+    <name>2 Rue du Souvenir</name>
+    <desc/>
+  </wpt>
+  <wpt lat="44.8254188" lon="-0.5340337">
+    <src>12037916638</src>
+    <name>125 Rue Jules Guesde</name>
+    <desc/>
+  </wpt>
+  <wpt lat="43.599202" lon="-1.4720311">
+    <src>12037929020</src>
+    <name>901 La Dune 1</name>
+    <desc/>
+  </wpt>
+  <wpt lat="47.7429966" lon="-1.2735621">
+    <src>12038480040</src>
+    <name>4 le Dougilard</name>
+    <desc/>
+  </wpt>
+  <wpt lat="49.3617613" lon="0.8636836">
+    <src>12039495896</src>
+    <name>3 Aire de Bosgouet Sud</name>
+    <desc/>
+  </wpt>
+  <wpt lat="44.8339723" lon="5.4121806">
+    <src>12039508520</src>
+    <name>Adresse inconnue Dr&#244;me 14</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7375573" lon="4.8176763">
+    <src>12039750577</src>
+    <name>Rue Francisque Collomb</name>
+    <desc>Mo-Su 10:00-20:00</desc>
+  </wpt>
+  <wpt lat="46.0326324" lon="6.9328325">
+    <src>12040194735</src>
+    <name>162 Place de la gare</name>
+    <desc/>
+  </wpt>
+  <wpt lat="46.8171132" lon="3.7207603">
+    <src>12040468062</src>
+    <name>4 Place Pouyat</name>
+    <desc/>
+  </wpt>
+  <wpt lat="42.6271716" lon="9.4701782">
+    <src>12040494608</src>
+    <name>Route de la Marana 1</name>
+    <desc/>
+  </wpt>
   <wpt lat="49.788364131915" lon="0.637272765435774">
     <src>1204051558</src>
     <name>3 Rue du Moulin</name>
+    <desc/>
+  </wpt>
+  <wpt lat="48.8923068" lon="2.3118676">
+    <src>12040594693</src>
+    <name>147p13 147P13 Rue Cardinet 1</name>
+    <desc/>
+  </wpt>
+  <wpt lat="48.8923377" lon="2.3119207">
+    <src>12040619669</src>
+    <name>147p13 147P13 Rue Cardinet 2</name>
+    <desc/>
+  </wpt>
+  <wpt lat="48.1736139" lon="0.3938546">
+    <src>12040780562</src>
+    <name>19 Centre Bourg</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.8135437" lon="0.6499407">
+    <src>12041215300</src>
+    <name>1 Route de la Contie</name>
     <desc/>
   </wpt>
   <wpt lat="48.6523015" lon="4.66745215">
@@ -26164,14 +26384,74 @@
     <name>Le Champ Godin</name>
     <desc/>
   </wpt>
+  <wpt lat="45.9173282" lon="-0.9602992">
+    <src>12041588696</src>
+    <name>78 Avenue Jacques Demy 1</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.1813763" lon="5.7760807">
+    <src>12041643091</src>
+    <name>150 Avenue Gabriel P&#233;ri</name>
+    <desc/>
+  </wpt>
   <wpt lat="48.8340555" lon="2.484258">
     <src>120417590</src>
     <name>25 Rue Ba&#252;yn de Perreuse</name>
     <desc/>
   </wpt>
+  <wpt lat="46.1418709" lon="-1.1674706">
+    <src>12041935203</src>
+    <name>29 Avenue du Lazaret</name>
+    <desc/>
+  </wpt>
+  <wpt lat="48.8778665" lon="2.2650878">
+    <src>12041979264</src>
+    <name>Jardin d'Acclimatation 2</name>
+    <desc/>
+  </wpt>
+  <wpt lat="49.3460299" lon="0.3415038">
+    <src>12042149043</src>
+    <name>30 Rue du Lion</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.5893419" lon="-0.0476199">
+    <src>12043145434</src>
+    <name>21 Za de l'Etang</name>
+    <desc/>
+  </wpt>
+  <wpt lat="49.5143124" lon="1.6983789">
+    <src>12043191623</src>
+    <name>2 Rue de l'Ecole</name>
+    <desc/>
+  </wpt>
+  <wpt lat="47.2702879" lon="-1.5826677">
+    <src>12043432532</src>
+    <name>2 Chemin de la Justice 1</name>
+    <desc/>
+  </wpt>
+  <wpt lat="43.9409303" lon="2.2419723">
+    <src>12043474137</src>
+    <name>25 All&#233;e de la Nougar&#232;de</name>
+    <desc/>
+  </wpt>
   <wpt lat="43.0236101457445" lon="0.262833598383275">
     <src>1204362337</src>
     <name>3bis Chemin de la Gourgue</name>
+    <desc/>
+  </wpt>
+  <wpt lat="42.4416912" lon="3.1632381">
+    <src>12043847989</src>
+    <name>9 Carrer Del Forn</name>
+    <desc/>
+  </wpt>
+  <wpt lat="49.3349517" lon="0.02956">
+    <src>12043881269</src>
+    <name>5a Rue Henry Millet</name>
+    <desc/>
+  </wpt>
+  <wpt lat="46.6712885" lon="4.8296358">
+    <src>12044506843</src>
+    <name>2 Les Lacs</name>
     <desc/>
   </wpt>
   <wpt lat="49.6627809445679" lon="-1.83767595391591">
@@ -26184,6 +26464,41 @@
     <name>Chjosu Novu</name>
     <desc/>
   </wpt>
+  <wpt lat="43.8207499" lon="5.0274333">
+    <src>12045964851</src>
+    <name>2820b Route de Cavaillon</name>
+    <desc/>
+  </wpt>
+  <wpt lat="48.8845071" lon="2.3386764">
+    <src>12046074527</src>
+    <name>2v Place des Abbesses</name>
+    <desc>Mo-Su 19:00-06:00</desc>
+  </wpt>
+  <wpt lat="48.863342" lon="2.3434417">
+    <src>12046223582</src>
+    <name>8 Rue Coquilli&#232;re 1</name>
+    <desc/>
+  </wpt>
+  <wpt lat="43.5191222" lon="7.0363563">
+    <src>12046314264</src>
+    <name>Adresse inconnue Alpes-Maritimes 5</name>
+    <desc/>
+  </wpt>
+  <wpt lat="44.967243" lon="3.6442644">
+    <src>12046992201</src>
+    <name>187 Mont&#233;e des Deux Chiens</name>
+    <desc/>
+  </wpt>
+  <wpt lat="47.9540964" lon="-2.5463047">
+    <src>12047161809</src>
+    <name>4 Place Alain de Rohan</name>
+    <desc/>
+  </wpt>
+  <wpt lat="42.6447295" lon="2.5297464">
+    <src>12047207517</src>
+    <name>1 Place de la Libert&#233; 1</name>
+    <desc/>
+  </wpt>
   <wpt lat="48.5317931330867" lon="-2.05639449593048">
     <src>1204722522</src>
     <name>1 Place du Docteur Louis Jourdan</name>
@@ -26194,9 +26509,24 @@
     <name>Adresse inconnue Hautes-Alpes 15</name>
     <desc/>
   </wpt>
+  <wpt lat="48.8450444" lon="2.380456">
+    <src>12047696561</src>
+    <name>111 Avenue Daumesnil 1</name>
+    <desc/>
+  </wpt>
   <wpt lat="43.5086429015294" lon="3.07544411910473">
     <src>1204774417</src>
     <name>1 Rue de la Garenque</name>
+    <desc/>
+  </wpt>
+  <wpt lat="49.6689854" lon="-1.2660869">
+    <src>12048159336</src>
+    <name>70 Rue Saint Thomas Becket</name>
+    <desc/>
+  </wpt>
+  <wpt lat="47.1386496" lon="1.036809">
+    <src>12048979859</src>
+    <name>Mail de la Mairie</name>
     <desc/>
   </wpt>
   <wpt lat="45.889724757071" lon="4.4410954778326">
@@ -26204,14 +26534,79 @@
     <name>1 place de la gare</name>
     <desc/>
   </wpt>
+  <wpt lat="45.8570937" lon="3.8331503">
+    <src>12049231877</src>
+    <name>44 rue claude d'urf&#233;</name>
+    <desc/>
+  </wpt>
+  <wpt lat="48.6240915" lon="-2.2447569">
+    <src>12049239585</src>
+    <name>2 Corniche de la Plage</name>
+    <desc/>
+  </wpt>
+  <wpt lat="46.5678411" lon="2.6011095">
+    <src>12049532640</src>
+    <name>22 La Queugne</name>
+    <desc/>
+  </wpt>
+  <wpt lat="43.2635688" lon="3.3252408">
+    <src>12050783732</src>
+    <name>Adresse inconnue H&#233;rault 6</name>
+    <desc/>
+  </wpt>
+  <wpt lat="47.385185" lon="6.8499084">
+    <src>12051772329</src>
+    <name>3 Rue de l&#8217;Esplanade</name>
+    <desc/>
+  </wpt>
   <wpt lat="49.3382565692836" lon="-0.477665460354984">
     <src>1205178483</src>
     <name>10 Route d'Arromanches</name>
     <desc/>
   </wpt>
+  <wpt lat="49.6540181" lon="-1.2693843">
+    <src>12051868645</src>
+    <name>1 Rue des Hougues</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.9028684" lon="6.1432223">
+    <src>12051874884</src>
+    <name>All&#233;e de l'Imp&#233;rial (Annecy)</name>
+    <desc/>
+  </wpt>
+  <wpt lat="48.4352201" lon="-4.372387">
+    <src>12051890844</src>
+    <name>67 rue de la forge</name>
+    <desc/>
+  </wpt>
   <wpt lat="43.1085702628901" lon="6.35834101878872">
     <src>120521461</src>
     <name>43 boulevard de la Baie du Gaou</name>
+    <desc/>
+  </wpt>
+  <wpt lat="43.3060648" lon="5.3646874">
+    <src>12052660196</src>
+    <name>6 Boulevard saade - quai lazaret</name>
+    <desc/>
+  </wpt>
+  <wpt lat="47.3580105" lon="-0.3001242">
+    <src>12052844389</src>
+    <name>Lieu Dit la Sansonniere</name>
+    <desc/>
+  </wpt>
+  <wpt lat="43.9531684" lon="4.4812896">
+    <src>12052996686</src>
+    <name>8 Chemin Saint Vincent</name>
+    <desc/>
+  </wpt>
+  <wpt lat="48.9190959" lon="2.1284803">
+    <src>12053714396</src>
+    <name>155 Avenue Gabriel P&#233;ri</name>
+    <desc/>
+  </wpt>
+  <wpt lat="43.2344058" lon="-0.2815602">
+    <src>12054649347</src>
+    <name>6 Rue de Lourdes</name>
     <desc/>
   </wpt>
   <wpt lat="48.9803557416932" lon="2.27150028741507">
@@ -26224,14 +26619,264 @@
     <name>Boulevard Eric Tabarly</name>
     <desc/>
   </wpt>
+  <wpt lat="45.4047627" lon="6.1819178">
+    <src>12055633388</src>
+    <name>Adresse inconnue Savoie 28</name>
+    <desc/>
+  </wpt>
+  <wpt lat="44.7390786" lon="4.2467409">
+    <src>12055660962</src>
+    <name>1 Rue du Parc</name>
+    <desc/>
+  </wpt>
+  <wpt lat="43.0967367" lon="-0.0442835">
+    <src>12055821693</src>
+    <name>5 Rue Henri Lasserre</name>
+    <desc/>
+  </wpt>
+  <wpt lat="46.5885437" lon="2.1337965">
+    <src>12055824690</src>
+    <name>Le Champ de Mulles</name>
+    <desc/>
+  </wpt>
+  <wpt lat="50.8652164" lon="2.3271724">
+    <src>12055992335</src>
+    <name>3 Grand Place</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.128888" lon="1.2259036">
+    <src>12056642915</src>
+    <name>2 Avenue du 8 Mai 1945</name>
+    <desc/>
+  </wpt>
+  <wpt lat="49.0983897" lon="1.4888683">
+    <src>12056903733</src>
+    <name>1 Rue Pierre Bonnard</name>
+    <desc/>
+  </wpt>
+  <wpt lat="49.0031887" lon="1.2329918">
+    <src>12056979316</src>
+    <name>2bis Rue des Thermes</name>
+    <desc>when museum open</desc>
+  </wpt>
+  <wpt lat="49.3004303" lon="1.2514906">
+    <src>12056981115</src>
+    <name>61a Chemin de Halage</name>
+    <desc/>
+  </wpt>
+  <wpt lat="42.4148626" lon="8.6436986">
+    <src>12057003254</src>
+    <name>396 Strada di u Portu</name>
+    <desc/>
+  </wpt>
+  <wpt lat="46.8318083" lon="0.9641919">
+    <src>12057292532</src>
+    <name>348 Le Bourg</name>
+    <desc/>
+  </wpt>
+  <wpt lat="46.9205385" lon="0.7965901">
+    <src>12057319296</src>
+    <name>18 Avenue Andre Theuriet</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.5148875" lon="-1.1290285">
+    <src>12057400424</src>
+    <name>12 Boulevard Charcot</name>
+    <desc/>
+  </wpt>
+  <wpt lat="46.8849082" lon="-0.0209722">
+    <src>12057458304</src>
+    <name>Le Petit Magne</name>
+    <desc/>
+  </wpt>
+  <wpt lat="43.6203009" lon="1.4353111">
+    <src>12057604270</src>
+    <name>1 Place du March&#233; Aux Cochons</name>
+    <desc/>
+  </wpt>
+  <wpt lat="49.9044563" lon="0.9928085">
+    <src>12057687427</src>
+    <name>47 Route de Dieppe</name>
+    <desc/>
+  </wpt>
+  <wpt lat="44.9652244" lon="5.0777341">
+    <src>12057740659</src>
+    <name>2 Ruelle des Frimas</name>
+    <desc/>
+  </wpt>
+  <wpt lat="42.9276074" lon="-0.6424016">
+    <src>12057855428</src>
+    <name>1640 Route D&#233;partementale 340</name>
+    <desc/>
+  </wpt>
+  <wpt lat="48.9094509" lon="2.0341647">
+    <src>12057972219</src>
+    <name>Ctre Commercial Carrefour</name>
+    <desc/>
+  </wpt>
+  <wpt lat="43.8086777" lon="7.2966943">
+    <src>12058024585</src>
+    <name>Place de la Madone</name>
+    <desc/>
+  </wpt>
+  <wpt lat="46.5077035" lon="2.7123324">
+    <src>12059116830</src>
+    <name>23 Quai de l&#8217;Aumance 2</name>
+    <desc/>
+  </wpt>
+  <wpt lat="46.5337213" lon="3.1915938">
+    <src>12059143525</src>
+    <name>WC Publics</name>
+    <desc/>
+  </wpt>
+  <wpt lat="43.9148319" lon="6.5412855">
+    <src>12059488921</src>
+    <name>38 Impasse des Rougui&#232;res 1</name>
+    <desc/>
+  </wpt>
+  <wpt lat="46.8836488" lon="-0.0210299">
+    <src>12059566222</src>
+    <name>2bis Impasse du Havre</name>
+    <desc/>
+  </wpt>
+  <wpt lat="49.7720411" lon="1.1840995">
+    <src>12059578756</src>
+    <name>20 Route de Dieppe</name>
+    <desc/>
+  </wpt>
   <wpt lat="45.7188347" lon="4.8003915">
     <src>1205b729fbc34f918668910b32c270e4</src>
     <name>Rue de la Bussi&#232;re</name>
     <desc>Mo 07:00-12:00</desc>
   </wpt>
+  <wpt lat="48.9610158" lon="2.5177044">
+    <src>12060006268</src>
+    <name>Adresse inconnue Seine-Saint-Denis 1</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7110149" lon="4.8079407">
+    <src>12060278248</src>
+    <name>61 Rue du Perron</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7103511" lon="4.8093271">
+    <src>12060291811</src>
+    <name>Rue du Perron 1</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7105819" lon="4.8091321">
+    <src>12060294207</src>
+    <name>Rue du Perron 2</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7112529" lon="4.8077322">
+    <src>12060303362</src>
+    <name>57 Rue du Perron 1</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7113981" lon="4.8082113">
+    <src>12060308092</src>
+    <name>57 Rue du Perron 2</name>
+    <desc/>
+  </wpt>
+  <wpt lat="42.6569782" lon="1.448441">
+    <src>12060628469</src>
+    <name>Adresse inconnue Ari&#232;ge 17</name>
+    <desc/>
+  </wpt>
+  <wpt lat="43.5495049" lon="7.0258436">
+    <src>12060945492</src>
+    <name>53 Boulevard de la Croisette</name>
+    <desc/>
+  </wpt>
+  <wpt lat="43.5494375" lon="7.0260435">
+    <src>12060945493</src>
+    <name>55 Boulevard de la Croisette</name>
+    <desc/>
+  </wpt>
+  <wpt lat="44.0905638" lon="-1.3214159">
+    <src>12061127049</src>
+    <name>180 Avenue de l'Oc&#233;an</name>
+    <desc/>
+  </wpt>
+  <wpt lat="43.7924242" lon="6.4021687">
+    <src>12061443358</src>
+    <name>480 RD23a</name>
+    <desc/>
+  </wpt>
+  <wpt lat="48.103658" lon="7.0748355">
+    <src>12061533629</src>
+    <name>500 le Forlet</name>
+    <desc/>
+  </wpt>
+  <wpt lat="46.213312" lon="1.0852679">
+    <src>12061696870</src>
+    <name>3 Rue Ranconni&#232;re</name>
+    <desc>24/7</desc>
+  </wpt>
+  <wpt lat="46.8832881" lon="-0.8992427">
+    <src>12061902269</src>
+    <name>2 Rue du Lavoir</name>
+    <desc>24/7</desc>
+  </wpt>
+  <wpt lat="50.2861627" lon="4.0962262">
+    <src>12062128476</src>
+    <name>600 Rue Gabriel P&#233;ri</name>
+    <desc/>
+  </wpt>
+  <wpt lat="48.6235688" lon="-2.2614613">
+    <src>12062553207</src>
+    <name>42 Rue Rioust des Villes Audrains</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.3705271" lon="1.6934825">
+    <src>12062683046</src>
+    <name>Route des Etangs</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.3688151" lon="1.6976489">
+    <src>12062683052</src>
+    <name>196 Route des Etangs</name>
+    <desc/>
+  </wpt>
+  <wpt lat="48.2013941" lon="-3.069458">
+    <src>12062753240</src>
+    <name>1 Sordan 1</name>
+    <desc/>
+  </wpt>
+  <wpt lat="47.6893241" lon="-3.358813">
+    <src>12062755637</src>
+    <name>15 Route du Fort</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.8933073" lon="0.0057492">
+    <src>12063167582</src>
+    <name>9bis Rue des Charri&#232;res</name>
+    <desc/>
+  </wpt>
   <wpt lat="46.9561326483697" lon="4.0319695587515">
     <src>1206331780</src>
     <name>5 Place de l'Abb&#233; Camille Bornet</name>
+    <desc/>
+  </wpt>
+  <wpt lat="46.0004187" lon="0.2251914">
+    <src>12063319670</src>
+    <name>1 Rue de la Gaubert</name>
+    <desc/>
+  </wpt>
+  <wpt lat="43.4330558" lon="3.7753324">
+    <src>12063431518</src>
+    <name>168 Avenue Vauban</name>
+    <desc/>
+  </wpt>
+  <wpt lat="49.3607566" lon="0.8605367">
+    <src>12063705878</src>
+    <name>2 Aire de Bosgouet Sud</name>
+    <desc/>
+  </wpt>
+  <wpt lat="46.950411" lon="6.2587161">
+    <src>12063828617</src>
+    <name>1 Grande Rue (Sombacour)</name>
     <desc/>
   </wpt>
   <wpt lat="45.7218737" lon="6.71710865">
@@ -26239,14 +26884,149 @@
     <name>Adresse inconnue Savoie 90</name>
     <desc/>
   </wpt>
+  <wpt lat="48.1804487" lon="-0.7417894">
+    <src>12063922072</src>
+    <name>466 Chemin du Halage</name>
+    <desc/>
+  </wpt>
+  <wpt lat="48.8969093" lon="2.3594446">
+    <src>12064385284</src>
+    <name>90w Rue de la Chapelle</name>
+    <desc/>
+  </wpt>
+  <wpt lat="43.662155" lon="2.3700956">
+    <src>12064485969</src>
+    <name>2 Route de Cr&#233;maussel</name>
+    <desc>24/7</desc>
+  </wpt>
+  <wpt lat="47.064451" lon="3.9324158">
+    <src>12064546821</src>
+    <name>19bis Rue des Foss&#233;s</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.0287093" lon="6.0504252">
+    <src>12064654693</src>
+    <name>Adresse inconnue Is&#232;re 65</name>
+    <desc/>
+  </wpt>
+  <wpt lat="42.6378919" lon="3.0344374">
+    <src>12064703944</src>
+    <name>84 Boulevard Fran&#231;ois Desnoyer</name>
+    <desc/>
+  </wpt>
+  <wpt lat="49.193656" lon="-0.3725201">
+    <src>12064711794</src>
+    <name>42 Rue des Jardins</name>
+    <desc/>
+  </wpt>
   <wpt lat="48.19027525" lon="-4.06312835">
     <src>1206488042</src>
     <name>166 rue de l'&#233;glise</name>
     <desc/>
   </wpt>
+  <wpt lat="47.1115189" lon="-2.12359">
+    <src>12065122131</src>
+    <name>37 Boulevard de l&#8217;Ocean</name>
+    <desc/>
+  </wpt>
+  <wpt lat="48.0014917" lon="1.2318538">
+    <src>12065187662</src>
+    <name>13a Route de Montigny</name>
+    <desc/>
+  </wpt>
+  <wpt lat="47.4866372" lon="-3.1030201">
+    <src>12065247547</src>
+    <name>Impasse d'Olibarte</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.4233003" lon="5.4777038">
+    <src>12065985579</src>
+    <name>327 Route du Bourg</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.9554953" lon="6.544391">
+    <src>12066022973</src>
+    <name>2427 Chemin de Plattuy</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.2611555" lon="3.4071483">
+    <src>12066034828</src>
+    <name>10 Place de l'&#201;glise</name>
+    <desc/>
+  </wpt>
+  <wpt lat="42.9284133" lon="2.2639908">
+    <src>12066048586</src>
+    <name>1 Place de L'Abreuvoir</name>
+    <desc/>
+  </wpt>
+  <wpt lat="43.3686423" lon="-1.7815931">
+    <src>12066097871</src>
+    <name>8 Rue des orangers 2</name>
+    <desc/>
+  </wpt>
+  <wpt lat="47.3439234" lon="6.6581093">
+    <src>12066100847</src>
+    <name>17 Grande Rue</name>
+    <desc>24/7</desc>
+  </wpt>
+  <wpt lat="47.5416617" lon="4.0363371">
+    <src>12066102394</src>
+    <name>6 Place du Prieur&#233;</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.0117076" lon="1.6529599">
+    <src>12066414539</src>
+    <name>350 Route du Causse</name>
+    <desc/>
+  </wpt>
+  <wpt lat="43.3721948" lon="-1.7821055">
+    <src>12066583362</src>
+    <name>107 Boulevard de la mer</name>
+    <desc/>
+  </wpt>
+  <wpt lat="44.6801676" lon="6.3185909">
+    <src>12066748244</src>
+    <name>1243 Route de la Gravi&#232;re 1</name>
+    <desc/>
+  </wpt>
+  <wpt lat="46.0386037" lon="4.1214522">
+    <src>12066900528</src>
+    <name>20 Rue du Perron</name>
+    <desc/>
+  </wpt>
+  <wpt lat="49.3339316" lon="-0.4458757">
+    <src>12066916844</src>
+    <name>97 Avenue de la Combattante</name>
+    <desc/>
+  </wpt>
   <wpt lat="44.1062754291158" lon="0.893017542173846">
     <src>1206717782</src>
     <name>7 Rue du G&#233;n&#233;ral Vidalot</name>
+    <desc/>
+  </wpt>
+  <wpt lat="46.405029" lon="0.6878657">
+    <src>12067779686</src>
+    <name>43 Route de Bouresse</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.0240434" lon="5.3235776">
+    <src>12067839584</src>
+    <name>670 Route de la Muceliere 1</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.8697893" lon="-0.8075248">
+    <src>12067996670</src>
+    <name>8 Rue de Romagotz</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.0257302" lon="5.3230197">
+    <src>12068048623</src>
+    <name>670 Route de la Muceliere 2</name>
+    <desc/>
+  </wpt>
+  <wpt lat="43.2746537" lon="5.4417809">
+    <src>12068084712</src>
+    <name>241 Chemin rural rural des prud'hommes</name>
     <desc/>
   </wpt>
   <wpt lat="47.2713350447673" lon="5.92861184658079">
@@ -26259,14 +27039,194 @@
     <name>13 Rue des Vignes</name>
     <desc/>
   </wpt>
+  <wpt lat="43.4677348" lon="-1.5466748">
+    <src>12068440169</src>
+    <name>23 Avenue du Lac Marion</name>
+    <desc/>
+  </wpt>
+  <wpt lat="48.8079946" lon="2.241059">
+    <src>12068778069</src>
+    <name>1 Place Jean Jaur&#232;s</name>
+    <desc/>
+  </wpt>
+  <wpt lat="47.7262273" lon="1.9437113">
+    <src>12069566720</src>
+    <name>38 Rue Saint Michel</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.1116203" lon="2.8679847">
+    <src>12069669769</src>
+    <name>Rue du Griffoul</name>
+    <desc/>
+  </wpt>
+  <wpt lat="44.5411249" lon="4.290666">
+    <src>12070059373</src>
+    <name>1 Mont&#233;e Mazon</name>
+    <desc/>
+  </wpt>
+  <wpt lat="44.2202188" lon="6.9259348">
+    <src>12070245920</src>
+    <name>Adre Rambert Nord 2</name>
+    <desc/>
+  </wpt>
+  <wpt lat="49.2841492" lon="-0.1596203">
+    <src>12071051092</src>
+    <name>33 Avenue du Pr&#233;sident Ren&#233; Coty</name>
+    <desc/>
+  </wpt>
+  <wpt lat="47.3573343" lon="4.0636138">
+    <src>12071142965</src>
+    <name>180 Abbaye de la Pierre Qui Vire</name>
+    <desc/>
+  </wpt>
+  <wpt lat="47.3583888" lon="4.0624205">
+    <src>12071142966</src>
+    <name>179 Abbaye de la Pierre Qui Vire</name>
+    <desc/>
+  </wpt>
+  <wpt lat="48.6905595" lon="6.2037698">
+    <src>12071213730</src>
+    <name>103 Boulevard d'Austrasie</name>
+    <desc/>
+  </wpt>
+  <wpt lat="43.8908369" lon="4.9503042">
+    <src>12071338014</src>
+    <name>27 Chemin de Saint-gens</name>
+    <desc/>
+  </wpt>
+  <wpt lat="44.7699116" lon="0.7675898">
+    <src>12071346794</src>
+    <name>1 Rue Romieu</name>
+    <desc/>
+  </wpt>
   <wpt lat="48.3196492047927" lon="-1.21610651928816">
     <src>1207143673</src>
     <name>6 Rue du Couesnon</name>
     <desc/>
   </wpt>
+  <wpt lat="43.5472545" lon="3.9807439">
+    <src>12071616037</src>
+    <name>15 Rue de la Plage Carnon</name>
+    <desc/>
+  </wpt>
+  <wpt lat="43.5509156" lon="4.0011099">
+    <src>12071746889</src>
+    <name>377t Avenue Grassion Cibrand</name>
+    <desc/>
+  </wpt>
+  <wpt lat="43.6519891" lon="3.552445">
+    <src>12071943124</src>
+    <name>8bis Place du Jeu de Ballon</name>
+    <desc/>
+  </wpt>
+  <wpt lat="44.7856025" lon="-0.4780349">
+    <src>12071966679</src>
+    <name>23 Allee Bernadotte</name>
+    <desc/>
+  </wpt>
+  <wpt lat="42.7975119" lon="1.0721839">
+    <src>12071991801</src>
+    <name>Adresse inconnue Ari&#232;ge 18</name>
+    <desc/>
+  </wpt>
+  <wpt lat="44.7739791" lon="0.8160977">
+    <src>12072184300</src>
+    <name>19 Rue de l'Abbatiale</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.559521" lon="6.7375734">
+    <src>12072205659</src>
+    <name>12 Route du Replat</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.1747515" lon="5.7142143">
+    <src>12073178543</src>
+    <name>2 Boulevard Roger Salengro</name>
+    <desc/>
+  </wpt>
+  <wpt lat="47.6284357" lon="-2.6489568">
+    <src>12073199280</src>
+    <name>3 Place de la Libert&#233;</name>
+    <desc>24/7</desc>
+  </wpt>
+  <wpt lat="45.5833613" lon="2.7444948">
+    <src>12073386223</src>
+    <name>42 Chemin du Creux</name>
+    <desc/>
+  </wpt>
   <wpt lat="48.0320091" lon="-3.4893559">
     <src>1207355817</src>
     <name>7 Rue Victor Robic</name>
+    <desc/>
+  </wpt>
+  <wpt lat="44.6695229" lon="0.4009979">
+    <src>12073642983</src>
+    <name>9appt n&#176;5 Avenue du Mar&#233;chal De Lattre De Tassigny</name>
+    <desc/>
+  </wpt>
+  <wpt lat="46.5096806" lon="5.4034797">
+    <src>12073943069</src>
+    <name>12 Rue du Ch&#226;teau</name>
+    <desc/>
+  </wpt>
+  <wpt lat="47.6849949" lon="2.6284174">
+    <src>12073968606</src>
+    <name>13 Rue de l&#8217;Hotel de Ville</name>
+    <desc>24/7</desc>
+  </wpt>
+  <wpt lat="47.6879742" lon="7.1432828">
+    <src>12074958227</src>
+    <name>3 Rue du Mont</name>
+    <desc/>
+  </wpt>
+  <wpt lat="48.603931" lon="0.1726246">
+    <src>12075192157</src>
+    <name>5 Rue du Vivier</name>
+    <desc/>
+  </wpt>
+  <wpt lat="49.0442922" lon="-1.5870736">
+    <src>12075273294</src>
+    <name>39 Charri&#232;re du Commerce</name>
+    <desc/>
+  </wpt>
+  <wpt lat="43.5137423" lon="-1.5055119">
+    <src>12075316597</src>
+    <name>4 All&#233;e d' Orok Bat</name>
+    <desc/>
+  </wpt>
+  <wpt lat="46.7112496" lon="-1.9802535">
+    <src>12075636616</src>
+    <name>5 Promenade de la Mer</name>
+    <desc/>
+  </wpt>
+  <wpt lat="48.5534353" lon="-1.5145131">
+    <src>12075834700</src>
+    <name>3ter Rue du Vieil H&#244;pital</name>
+    <desc/>
+  </wpt>
+  <wpt lat="42.9803161" lon="-0.4137496">
+    <src>12075901764</src>
+    <name>5 Vieille Route des Eaux-Bonnes</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.0939906" lon="6.0312206">
+    <src>12076970479</src>
+    <name>1 Route des Pistes</name>
+    <desc/>
+  </wpt>
+  <wpt lat="43.6650685" lon="7.2115496">
+    <src>12077098252</src>
+    <name>Boulevard Maryse Bastie 2</name>
+    <desc/>
+  </wpt>
+  <wpt lat="43.6555575" lon="5.5829629">
+    <src>12077338870</src>
+    <name>95 Chemin des Tilleuls 1</name>
+    <desc/>
+  </wpt>
+  <wpt lat="43.6557775" lon="5.5814116">
+    <src>12077338871</src>
+    <name>95 Chemin des Tilleuls 2</name>
     <desc/>
   </wpt>
   <wpt lat="49.268541" lon="1.1380751">
@@ -26279,14 +27239,164 @@
     <name>Adresse inconnue Eure 2</name>
     <desc>24/7</desc>
   </wpt>
+  <wpt lat="45.0428969" lon="3.892477">
+    <src>12078195762</src>
+    <name>25 Avenue Charles Dupuy</name>
+    <desc/>
+  </wpt>
+  <wpt lat="47.8241306" lon="2.8457004">
+    <src>12078216029</src>
+    <name>1 Place Coligny</name>
+    <desc/>
+  </wpt>
+  <wpt lat="47.8225158" lon="2.8477784">
+    <src>12078216471</src>
+    <name>3 Rue Cullion</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.8210696" lon="-1.1102571">
+    <src>12078229043</src>
+    <name>34 Rue Victor Hugo</name>
+    <desc/>
+  </wpt>
+  <wpt lat="43.4659278" lon="6.4769503">
+    <src>12078323328</src>
+    <name>33 Place du Pere Clinchard</name>
+    <desc/>
+  </wpt>
+  <wpt lat="42.8597799" lon="3.0382385">
+    <src>12078416152</src>
+    <name>303 R&#233;sidence la Capitane</name>
+    <desc/>
+  </wpt>
+  <wpt lat="46.882969" lon="2.5652193">
+    <src>12078656569</src>
+    <name>2 Rue Heurtault de Lammerville</name>
+    <desc>24/7</desc>
+  </wpt>
+  <wpt lat="43.8082328" lon="2.3302056">
+    <src>12078791522</src>
+    <name>10 Rue de la Mairie</name>
+    <desc/>
+  </wpt>
   <wpt lat="44.9439906629828" lon="4.84460674335474">
     <src>1207884644</src>
     <name>20bis Chemin de Beauregard</name>
     <desc>24/7</desc>
   </wpt>
+  <wpt lat="47.872384" lon="-3.9156787">
+    <src>12078983059</src>
+    <name>3 Rue Vauban</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.5327036" lon="2.6832886">
+    <src>12079093107</src>
+    <name>Les Terres de la Tour 2</name>
+    <desc/>
+  </wpt>
+  <wpt lat="50.9351956" lon="1.8119868">
+    <src>12079709055</src>
+    <name>5 Boulevard du Kent</name>
+    <desc/>
+  </wpt>
+  <wpt lat="47.1997358" lon="0.631524">
+    <src>12079784692</src>
+    <name>5 Rue de la Fosse Carree</name>
+    <desc/>
+  </wpt>
+  <wpt lat="44.3514892" lon="6.3543916">
+    <src>12079789293</src>
+    <name>2 Rue de la Citadelle</name>
+    <desc/>
+  </wpt>
+  <wpt lat="47.5547341" lon="-2.5592079">
+    <src>12079898964</src>
+    <name>6 Place de la Motte</name>
+    <desc/>
+  </wpt>
+  <wpt lat="47.490733" lon="-2.3738315">
+    <src>12079908867</src>
+    <name>6 Kercado</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.3433525" lon="5.4756376">
+    <src>12080008997</src>
+    <name>730 Route du Bain</name>
+    <desc/>
+  </wpt>
+  <wpt lat="48.4181577" lon="-4.4453762">
+    <src>12080228361</src>
+    <name>36 rue de Kerdann&#233;</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.6319268" lon="6.6691313">
+    <src>12080313833</src>
+    <name>Adresse inconnue Savoie 31</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.6319663" lon="6.6692692">
+    <src>12080325627</src>
+    <name>Adresse inconnue Savoie 41</name>
+    <desc/>
+  </wpt>
   <wpt lat="48.2971140012537" lon="-4.22474020022305">
     <src>1208166933</src>
     <name>2 place de la Chapelle</name>
+    <desc/>
+  </wpt>
+  <wpt lat="48.5598183" lon="-1.9703851">
+    <src>12081756462</src>
+    <name>11 Chemin de la Carri&#232;re</name>
+    <desc/>
+  </wpt>
+  <wpt lat="47.5574433" lon="5.6804672">
+    <src>12081861863</src>
+    <name>2 Rue du Champ Martin</name>
+    <desc/>
+  </wpt>
+  <wpt lat="46.4741892" lon="4.5615354">
+    <src>12082850312</src>
+    <name>141 route de l'&#233;glise</name>
+    <desc>24/7</desc>
+  </wpt>
+  <wpt lat="44.3444303" lon="4.3016055">
+    <src>12083171478</src>
+    <name>107 Avenue des Granges</name>
+    <desc/>
+  </wpt>
+  <wpt lat="44.6633249" lon="-1.1666959">
+    <src>12083447584</src>
+    <name>Boulevard Veyrier Montagneres</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.4671394" lon="3.2617545">
+    <src>12083518405</src>
+    <name>Place de la Gare</name>
+    <desc/>
+  </wpt>
+  <wpt lat="43.8942172" lon="3.5120359">
+    <src>12083551569</src>
+    <name>63 Chemin des Fa&#239;sses</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.5441628" lon="3.254023">
+    <src>12083568744</src>
+    <name>15 Avenue de la Gare</name>
+    <desc/>
+  </wpt>
+  <wpt lat="48.28364" lon="-1.1189573">
+    <src>12083696672</src>
+    <name>2 Rue du Vendelais</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.0534218" lon="2.9332352">
+    <src>12083708626</src>
+    <name>3 Place de la Mairie</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7253107" lon="5.2553736">
+    <src>12084000998</src>
+    <name>17 Montee Saint Hippolyte</name>
     <desc/>
   </wpt>
   <wpt lat="45.8635226257231" lon="4.83248013875118">
@@ -26294,9 +27404,84 @@
     <name>6 Rue Etienne Richerand</name>
     <desc/>
   </wpt>
+  <wpt lat="45.7592021" lon="4.8593133">
+    <src>12084597687</src>
+    <name>5 Avenue Georges Pompidou</name>
+    <desc/>
+  </wpt>
+  <wpt lat="46.0461311" lon="-0.5096146">
+    <src>12084680388</src>
+    <name>6 Rue de l'Abreuvoir</name>
+    <desc/>
+  </wpt>
+  <wpt lat="42.7958287" lon="0.4093782">
+    <src>12084830028</src>
+    <name>21 Place des Badalans</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.3789546" lon="-1.1588189">
+    <src>12084943102</src>
+    <name>31 Boulevard du Front de Mer 1</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.5879396" lon="3.8661717">
+    <src>12085025374</src>
+    <name>13 Lieu Dit le Grand Genevrier</name>
+    <desc>24/7</desc>
+  </wpt>
+  <wpt lat="47.4599086" lon="-0.5208258">
+    <src>12085093211</src>
+    <name>64ter Rue Gabriel Lecombre</name>
+    <desc/>
+  </wpt>
+  <wpt lat="48.143222" lon="6.1487103">
+    <src>12085857337</src>
+    <name>1 Rue du Haut du Bois</name>
+    <desc/>
+  </wpt>
+  <wpt lat="46.094516" lon="6.1006364">
+    <src>12086492738</src>
+    <name>95 Grand-Rue</name>
+    <desc/>
+  </wpt>
   <wpt lat="43.6010392801193" lon="1.40725730110196">
     <src>1208655936</src>
     <name>13 Rue Thomas Dupuy</name>
+    <desc/>
+  </wpt>
+  <wpt lat="46.6874967" lon="-1.0500448">
+    <src>12086610058</src>
+    <name>15 Rue gutenberg</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7848644" lon="6.6743194">
+    <src>12086652191</src>
+    <name>9900 Route du Col du Joly</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.8638898" lon="6.1412226">
+    <src>12086860065</src>
+    <name>69 Place de la Mairie</name>
+    <desc/>
+  </wpt>
+  <wpt lat="47.7508287" lon="7.3299755">
+    <src>12086877569</src>
+    <name>76 Rue Franklin</name>
+    <desc/>
+  </wpt>
+  <wpt lat="46.773147" lon="-1.2262543">
+    <src>12086933694</src>
+    <name>le vieux ch&#226;teau (Les Essarts) 1</name>
+    <desc/>
+  </wpt>
+  <wpt lat="46.773147" lon="-1.2262543">
+    <src>12086940646</src>
+    <name>le vieux ch&#226;teau (Les Essarts) 2</name>
+    <desc/>
+  </wpt>
+  <wpt lat="44.7081934" lon="4.2159668">
+    <src>12087084369</src>
+    <name>280 Route de Prevencheres</name>
     <desc/>
   </wpt>
   <wpt lat="43.5390456512041" lon="6.460500495564">
@@ -26811,7 +27996,7 @@
   </wpt>
   <wpt lat="48.8719418500395" lon="2.77596586314802">
     <src>1223547447</src>
-    <name>Euro Disneyland Zone Techn 1</name>
+    <name>Disneyland Paris 3 1</name>
     <desc/>
   </wpt>
   <wpt lat="46.5230254" lon="4.6775726">
@@ -26841,7 +28026,7 @@
   </wpt>
   <wpt lat="48.8712211214096" lon="2.77697611943717">
     <src>1223755265</src>
-    <name>Euro Disneyland Zone Techn 2</name>
+    <name>Disneyland Paris 3 2</name>
     <desc/>
   </wpt>
   <wpt lat="48.216678" lon="-1.08856863809524">
@@ -27099,7 +28284,7 @@
     <name>4 Boulevard Jobert</name>
     <desc/>
   </wpt>
-  <wpt lat="48.7649825178146" lon="0.625307643988413">
+  <wpt lat="48.764983" lon="0.625336600000001">
     <src>1232714416</src>
     <name>11 Rue de l&#8217;Abreuvoir Saint Martin</name>
     <desc/>
@@ -27236,7 +28421,7 @@
   </wpt>
   <wpt lat="48.8740872446169" lon="2.77352207067861">
     <src>1237114457</src>
-    <name>5 Rue des Pommiers</name>
+    <name>Disneyland Paris 3 3</name>
     <desc/>
   </wpt>
   <wpt lat="47.91314385" lon="-1.3806476">
@@ -27356,7 +28541,7 @@
   </wpt>
   <wpt lat="48.8726733192963" lon="2.77542926348645">
     <src>1240805706</src>
-    <name>Euro Disneyland Zone Techn 3</name>
+    <name>Disneyland Paris 3 4</name>
     <desc/>
   </wpt>
   <wpt lat="45.5375423" lon="4.8725302">
@@ -27367,7 +28552,7 @@
   <wpt lat="43.0387183519055" lon="6.13162749331606">
     <src>1241716714</src>
     <name>Place du Belv&#233;d&#232;re</name>
-    <desc/>
+    <desc>24/7</desc>
   </wpt>
   <wpt lat="46.3547813791932" lon="3.58871098131635">
     <src>1242437182</src>
@@ -27396,7 +28581,7 @@
   </wpt>
   <wpt lat="43.6068089" lon="5.33673695">
     <src>1243754939</src>
-    <name>1005b Chemin de la Diligence</name>
+    <name>Village des Automates</name>
     <desc/>
   </wpt>
   <wpt lat="48.4484314603245" lon="1.5528959384033">
@@ -27526,7 +28711,7 @@
   </wpt>
   <wpt lat="46.8117611066156" lon="4.41410183784918">
     <src>124754062</src>
-    <name>88 Rue des Pyr&#233;n&#233;es</name>
+    <name>Parc touristique des Combes 2 1</name>
     <desc/>
   </wpt>
   <wpt lat="45.573888780912" lon="0.997732889064671">
@@ -27876,7 +29061,7 @@
   </wpt>
   <wpt lat="48.7832109664992" lon="-3.52443224958124">
     <src>126119884</src>
-    <name>2 Parc du Rad&#244;me 2</name>
+    <name>Le Village Gaulois 2</name>
     <desc/>
   </wpt>
   <wpt lat="48.6566213" lon="0.2229465">
@@ -28141,7 +29326,7 @@
   </wpt>
   <wpt lat="48.8733220010675" lon="2.77445676901445">
     <src>1267201551</src>
-    <name>Euro Disneyland Zone Techn 4</name>
+    <name>Disneyland Paris 3 5</name>
     <desc/>
   </wpt>
   <wpt lat="45.1138816998851" lon="2.67201785758531">
@@ -28271,7 +29456,7 @@
   </wpt>
   <wpt lat="48.8706437585949" lon="2.7783944089883">
     <src>1271423714</src>
-    <name>Hotel Disneyland</name>
+    <name>Disneyland Paris 3 6</name>
     <desc/>
   </wpt>
   <wpt lat="43.6342605570029" lon="3.84162543975379">
@@ -28281,7 +29466,7 @@
   </wpt>
   <wpt lat="48.8658023831684" lon="2.77975362994618">
     <src>1271516005</src>
-    <name>1 Rue Morris</name>
+    <name>Walt Disney Studios Park 6 2</name>
     <desc/>
   </wpt>
   <wpt lat="45.6354547590488" lon="5.56642164183482">
@@ -28422,6 +29607,11 @@
   <wpt lat="-15.8218621581119" lon="-148.264213666486">
     <src>1276202593</src>
     <name>Adresse inconnue 7</name>
+    <desc/>
+  </wpt>
+  <wpt lat="46.6036664553546" lon="-1.7579049768076">
+    <src>127662826</src>
+    <name>37 Rue Georges Clemenceau</name>
     <desc/>
   </wpt>
   <wpt lat="46.4632842176738" lon="-0.802341623527922">
@@ -28767,7 +29957,7 @@
   <wpt lat="46.7462564468195" lon="5.45323067845576">
     <src>128730861</src>
     <name>4 Rue Notre-Dame</name>
-    <desc/>
+    <desc>closed</desc>
   </wpt>
   <wpt lat="45.7210437490598" lon="-1.17055593360029">
     <src>1287420724</src>
@@ -29144,14 +30334,54 @@
     <name>50 Lotissement Rives Beauvallon</name>
     <desc/>
   </wpt>
+  <wpt lat="50.4643749" lon="1.5729051">
+    <src>1298516994</src>
+    <name>2 Avenue de Champagne</name>
+    <desc/>
+  </wpt>
   <wpt lat="45.8378024" lon="4.82510945">
     <src>129873255</src>
     <name>25 Rue de la R&#233;publique</name>
     <desc/>
   </wpt>
+  <wpt lat="42.5279473426656" lon="2.82704462556362">
+    <src>1299185211</src>
+    <name>3 Rue Del Camp de la Basse</name>
+    <desc/>
+  </wpt>
+  <wpt lat="43.5774661482911" lon="-1.48748437870126">
+    <src>1299259120</src>
+    <name>63 Promenade de l'Oc&#233;an</name>
+    <desc/>
+  </wpt>
+  <wpt lat="46.19322365" lon="6.2336177">
+    <src>1299289208</src>
+    <name>1 Rue de la Gare</name>
+    <desc/>
+  </wpt>
+  <wpt lat="48.2719063" lon="1.63432155">
+    <src>1299535613</src>
+    <name>47 Rue de Verdun</name>
+    <desc/>
+  </wpt>
   <wpt lat="45.6664706" lon="0.097543">
     <src>1299563710</src>
     <name>4 Rue du Chateau</name>
+    <desc/>
+  </wpt>
+  <wpt lat="44.9416402384952" lon="1.98974731899858">
+    <src>1299593872</src>
+    <name>30 Place de l'Eglise de Comiac</name>
+    <desc/>
+  </wpt>
+  <wpt lat="46.27635525" lon="6.4132801">
+    <src>1299696257</src>
+    <name>1 Place de la mairie</name>
+    <desc/>
+  </wpt>
+  <wpt lat="49.274021692849" lon="0.204335671497343">
+    <src>1299847303</src>
+    <name>1016 Rue de la Cour de France 2</name>
     <desc/>
   </wpt>
   <wpt lat="44.5459846" lon="6.2764382">
@@ -29259,14 +30489,474 @@
     <name>Place du Mole</name>
     <desc/>
   </wpt>
+  <wpt lat="45.7041163893496" lon="4.80916075213865">
+    <src>1300190791</src>
+    <name>97 Chemin du Petit Revoyet 1</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7048888556595" lon="4.80905408106413">
+    <src>1300200407</src>
+    <name>7 Chemin de Montmein 1</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7048741345475" lon="4.80904664975676">
+    <src>1300200408</src>
+    <name>7 Chemin de Montmein 2</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7821376157188" lon="4.87042056714558">
+    <src>1300222880</src>
+    <name>20 Avenue Gaston Berger 1</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7821242183208" lon="4.87036721610392">
+    <src>1300222881</src>
+    <name>20 Avenue Gaston Berger 2</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7041168227446" lon="4.80905243423501">
+    <src>1300230642</src>
+    <name>97 Chemin du Petit Revoyet 2</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7044782044811" lon="4.80906789500548">
+    <src>1300231986</src>
+    <name>7 Chemin de Montmein 3</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7045059899489" lon="4.80906722651318">
+    <src>1300231987</src>
+    <name>7 Chemin de Montmein 4</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7798708719142" lon="4.86903939856119">
+    <src>1300246518</src>
+    <name>4 Rue Jean-Baptiste Lamarck 1</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.779961770903" lon="4.86945149066572">
+    <src>1300246526</src>
+    <name>4 Rue Jean-Baptiste Lamarck 2</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7798699712447" lon="4.86903720103421">
+    <src>1300246910</src>
+    <name>4 Rue Jean-Baptiste Lamarck 3</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7798708672637" lon="4.86903936746252">
+    <src>1300248557</src>
+    <name>4 Rue Jean-Baptiste Lamarck 4</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7799617520279" lon="4.86945170227142">
+    <src>1300248558</src>
+    <name>4 Rue Jean-Baptiste Lamarck 5</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7799617362416" lon="4.86945162541053">
+    <src>1300249576</src>
+    <name>4 Rue Jean-Baptiste Lamarck 6</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7816475589541" lon="4.86835090885039">
+    <src>1300256857</src>
+    <name>16 Rue Enrico Fermi 1</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7820480381404" lon="4.86818813701246">
+    <src>1300262281</src>
+    <name>16 Rue Enrico Fermi 2</name>
+    <desc/>
+  </wpt>
   <wpt lat="44.3970435130324" lon="0.589075056423212">
     <src>130032815</src>
     <name>Rue des jardins</name>
     <desc/>
   </wpt>
+  <wpt lat="46.8704329530271" lon="5.58362731925152">
+    <src>1300426080</src>
+    <name>Autoroute A39</name>
+    <desc/>
+  </wpt>
+  <wpt lat="48.8751746337368" lon="2.32913774178622">
+    <src>1300608338</src>
+    <name>30p Rue Joubert</name>
+    <desc/>
+  </wpt>
+  <wpt lat="49.1203907873748" lon="-1.47896983461832">
+    <src>1300623298</src>
+    <name>3 Rue du Moulin (C 1)</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7826298336317" lon="4.86800103076507">
+    <src>1300676362</src>
+    <name>Rue Enrico Fermi</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7817957759647" lon="4.86830919370648">
+    <src>1300676363</src>
+    <name>16 Rue Enrico Fermi 3</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.782286915445" lon="4.86770364512638">
+    <src>1300676364</src>
+    <name>Rue Ada Byron</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7822011233877" lon="4.86773423604652">
+    <src>1300676365</src>
+    <name>8 Rue Ada Byron</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7818715905391" lon="4.86789335702246">
+    <src>1300676366</src>
+    <name>6 Rue Ada Byron 1</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7817853090537" lon="4.86792303286487">
+    <src>1300676367</src>
+    <name>6 Rue Ada Byron 2</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7824781744972" lon="4.86795106477798">
+    <src>1300678007</src>
+    <name>10 Rue Ada Byron 1</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7818586161961" lon="4.86815387958564">
+    <src>1300681525</src>
+    <name>16 Rue Enrico Fermi 4</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7818981873667" lon="4.86813381084973">
+    <src>1300681526</src>
+    <name>16 Rue Enrico Fermi 5</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7824850772869" lon="4.86798443192289">
+    <src>1300682524</src>
+    <name>10 Rue Ada Byron 2</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7823224331154" lon="4.8679653177185">
+    <src>1300682527</src>
+    <name>14 Rue Enrico Fermi 1</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7822741691394" lon="4.86795916848615">
+    <src>1300682528</src>
+    <name>14 Rue Enrico Fermi 2</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7816475232652" lon="4.86835081307823">
+    <src>1300686511</src>
+    <name>16 Rue Enrico Fermi 6</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7820482888534" lon="4.86818788333017">
+    <src>1300686513</src>
+    <name>16 Rue Enrico Fermi 7</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7824765299628" lon="4.8679819140682">
+    <src>1300686519</src>
+    <name>10 Rue Ada Byron 3</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7824921130643" lon="4.86800130819919">
+    <src>1300686520</src>
+    <name>10 Rue Ada Byron 4</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7004300889053" lon="4.80755923252759">
+    <src>1300692256</src>
+    <name>165 Chemin du Grand Revoyet 1</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7004194861687" lon="4.80754036696954">
+    <src>1300692257</src>
+    <name>165 Chemin du Grand Revoyet 2</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7050671070059" lon="4.80916866561553">
+    <src>1300902621</src>
+    <name>7 Chemin de Montmein 5</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7050141060822" lon="4.80916889778399">
+    <src>1300902622</src>
+    <name>7 Chemin de Montmein 6</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7043883777191" lon="4.80809990971675">
+    <src>1300906084</src>
+    <name>80 Chemin du Petit Revoyet 1</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7044207570093" lon="4.80810073460591">
+    <src>1300906085</src>
+    <name>80 Chemin du Petit Revoyet 2</name>
+    <desc/>
+  </wpt>
+  <wpt lat="44.8725755844631" lon="2.03681466585869">
+    <src>1300973558</src>
+    <name>10 All&#233;e Gaston Monnerville</name>
+    <desc/>
+  </wpt>
+  <wpt lat="47.3904945700895" lon="6.84543808453227">
+    <src>1301162305</src>
+    <name>5 Aux Combottes</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7042006312947" lon="4.80785262420077">
+    <src>1301257146</src>
+    <name>80 Chemin du Petit Revoyet 3</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7042683535253" lon="4.80784973169871">
+    <src>1301257147</src>
+    <name>80 Chemin du Petit Revoyet 4</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7040735992701" lon="4.80803935268017">
+    <src>1301259082</src>
+    <name>97 Chemin du Petit Revoyet 3</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7040514623511" lon="4.80805637385224">
+    <src>1301259643</src>
+    <name>97 Chemin du Petit Revoyet 4</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.704044374614" lon="4.80810696927093">
+    <src>1301259644</src>
+    <name>97 Chemin du Petit Revoyet 5</name>
+    <desc/>
+  </wpt>
+  <wpt lat="49.49678405" lon="1.1471476">
+    <src>1301370921</src>
+    <name>31 Rue Andre le Nostre</name>
+    <desc/>
+  </wpt>
+  <wpt lat="48.7638669237514" lon="-2.95820562929308">
+    <src>1301511322</src>
+    <name>16bis Route du Cap Horn</name>
+    <desc/>
+  </wpt>
+  <wpt lat="46.735300630243" lon="5.6989454712332">
+    <src>1301512189</src>
+    <name>1 Place de l&#8217;Eglise</name>
+    <desc>De avril &#224; novembre</desc>
+  </wpt>
+  <wpt lat="45.703600611995" lon="4.80830310953082">
+    <src>1301687077</src>
+    <name>97 Chemin du Petit Revoyet 6</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7036403180231" lon="4.80830700987686">
+    <src>1301687078</src>
+    <name>97 Chemin du Petit Revoyet 7</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.703600611995" lon="4.80830310953082">
+    <src>1301690243</src>
+    <name>97 Chemin du Petit Revoyet 8</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7036402865919" lon="4.80830701880063">
+    <src>1301690244</src>
+    <name>97 Chemin du Petit Revoyet 9</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7037521287676" lon="4.8091109959857">
+    <src>1301696866</src>
+    <name>97 Chemin du Petit Revoyet 10</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7037691452068" lon="4.80911064190141">
+    <src>1301696867</src>
+    <name>97 Chemin du Petit Revoyet 11</name>
+    <desc/>
+  </wpt>
+  <wpt lat="49.1571786292794" lon="-0.348979111905313">
+    <src>1301735241</src>
+    <name>7 Boulevard des Violettes</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7037521287676" lon="4.8091109959857">
+    <src>1301760820</src>
+    <name>97 Chemin du Petit Revoyet 12</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7037691452068" lon="4.80911064190141">
+    <src>1301760821</src>
+    <name>97 Chemin du Petit Revoyet 13</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7037601565799" lon="4.80916257418772">
+    <src>1301760822</src>
+    <name>97 Chemin du Petit Revoyet 14</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7037234167022" lon="4.80916317860847">
+    <src>1301760823</src>
+    <name>97 Chemin du Petit Revoyet 15</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7037611900847" lon="4.80912348224974">
+    <src>1301763024</src>
+    <name>97 Chemin du Petit Revoyet 16</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7037454639925" lon="4.80916730146361">
+    <src>1301763025</src>
+    <name>97 Chemin du Petit Revoyet 17</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.69992275" lon="4.80811495">
+    <src>1301763221</src>
+    <name>108 Rue Voltaire (Pierre-B&#233;nite) 1</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.6999386817178" lon="4.8081436876009">
+    <src>1301763222</src>
+    <name>108 Rue Voltaire (Pierre-B&#233;nite) 2</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7001048997093" lon="4.80806582201248">
+    <src>1301763229</src>
+    <name>108 Rue Voltaire (Pierre-B&#233;nite) 3</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7040538587988" lon="4.80869752350356">
+    <src>1301767108</src>
+    <name>97 Chemin du Petit Revoyet 18</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7041579025288" lon="4.80860297967176">
+    <src>1301770642</src>
+    <name>97 Chemin du Petit Revoyet 19</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7041276182409" lon="4.80860409143019">
+    <src>1301770643</src>
+    <name>97 Chemin du Petit Revoyet 20</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7002070494013" lon="4.80781079175913">
+    <src>1301771537</src>
+    <name>108 Rue Voltaire (Pierre-B&#233;nite) 4</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7001667573812" lon="4.80782163948044">
+    <src>1301771554</src>
+    <name>108 Rue Voltaire (Pierre-B&#233;nite) 5</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7043670958465" lon="4.80765555029036">
+    <src>1301779599</src>
+    <name>80 Chemin du Petit Revoyet 5</name>
+    <desc/>
+  </wpt>
+  <wpt lat="44.1142331855375" lon="3.4763403709326">
+    <src>1301851354</src>
+    <name>114 Rue du Pradel</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7405750254803" lon="4.88221386312225">
+    <src>1301940760</src>
+    <name>Rue Charles Jung 1</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7405903577822" lon="4.88209740915207">
+    <src>1301942066</src>
+    <name>Rue Charles Jung 2</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7405556069894" lon="4.88208974929839">
+    <src>1301942067</src>
+    <name>Rue Charles Jung 3</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7004311916784" lon="4.80756120005987">
+    <src>1301945061</src>
+    <name>165 Chemin du Grand Revoyet 3</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7004206497282" lon="4.80754229951359">
+    <src>1301945062</src>
+    <name>165 Chemin du Grand Revoyet 4</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.6999195984884" lon="4.80810830725586">
+    <src>1301945092</src>
+    <name>108 Rue Voltaire (Pierre-B&#233;nite) 6</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.699930185283" lon="4.80812724993711">
+    <src>1301945093</src>
+    <name>108 Rue Voltaire (Pierre-B&#233;nite) 7</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7001480465948" lon="4.80785026463489">
+    <src>1301948798</src>
+    <name>108 Rue Voltaire (Pierre-B&#233;nite) 8</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.700167918349" lon="4.80782835113793">
+    <src>1301948799</src>
+    <name>108 Rue Voltaire (Pierre-B&#233;nite) 9</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7004299834185" lon="4.80755909951444">
+    <src>1301958014</src>
+    <name>165 Chemin du Grand Revoyet 5</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7004195585881" lon="4.80754029315985">
+    <src>1301958015</src>
+    <name>165 Chemin du Grand Revoyet 6</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.6999297293534" lon="4.80812748673484">
+    <src>1301958045</src>
+    <name>108 Rue Voltaire (Pierre-B&#233;nite) 10</name>
+    <desc/>
+  </wpt>
   <wpt lat="43.6994528390904" lon="7.1218435328152">
     <src>130204036</src>
     <name>3 Route de Vence</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.740830459889" lon="4.88276396109348">
+    <src>1302277865</src>
+    <name>8 Rue Volney 1</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7408210858583" lon="4.88272394948703">
+    <src>1302277866</src>
+    <name>8 Rue Volney 2</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7408635612114" lon="4.88277301932979">
+    <src>1302283595</src>
+    <name>8 Rue Volney 3</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7408340392376" lon="4.88278493045464">
+    <src>1302283596</src>
+    <name>8 Rue Volney 4</name>
+    <desc/>
+  </wpt>
+  <wpt lat="50.9373382215435" lon="1.81631267645255">
+    <src>1302290181</src>
+    <name>Adresse inconnue Pas-de-Calais 42</name>
+    <desc/>
+  </wpt>
+  <wpt lat="50.9367644047969" lon="1.81621786283989">
+    <src>1302290189</src>
+    <name>Adresse inconnue Pas-de-Calais 43</name>
     <desc/>
   </wpt>
   <wpt lat="47.7045459" lon="-3.1638598">
@@ -29279,9 +30969,39 @@
     <name>1 Rue de Lizourden</name>
     <desc/>
   </wpt>
+  <wpt lat="48.47369195" lon="-3.1871949">
+    <src>1302764537</src>
+    <name>30 Place du Centre</name>
+    <desc/>
+  </wpt>
+  <wpt lat="47.8525722036105" lon="3.34932477580896">
+    <src>1302861028</src>
+    <name>8 Rue de la Gare</name>
+    <desc/>
+  </wpt>
+  <wpt lat="46.9054797489055" lon="3.82509261079304">
+    <src>1302892888</src>
+    <name>23bis Avenue Jean Mermoz</name>
+    <desc/>
+  </wpt>
+  <wpt lat="44.6808471019827" lon="6.31929212777054">
+    <src>1302912714</src>
+    <name>1243 Route de la Gravi&#232;re 2</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.2936438833504" lon="5.67265453048509">
+    <src>1302953492</src>
+    <name>4581 Route de Chalais 1</name>
+    <desc/>
+  </wpt>
   <wpt lat="47.7015756" lon="-3.4587435">
     <src>1303015420</src>
     <name>27 Rue du Port Blanc</name>
+    <desc/>
+  </wpt>
+  <wpt lat="49.1816866648068" lon="0.311219703628702">
+    <src>1303246009</src>
+    <name>680 Chemin des Sept Voies</name>
     <desc/>
   </wpt>
   <wpt lat="49.1507801924331" lon="0.228543132061625">
@@ -29304,14 +31024,129 @@
     <name>Rue du Coll&#232;ge</name>
     <desc/>
   </wpt>
-  <wpt lat="43.6619593350925" lon="6.98873693405858">
+  <wpt lat="45.7812576253623" lon="4.87062045452041">
+    <src>1303696180</src>
+    <name>16 Rue Rapha&#235;l Dubois 1</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.781257660538" lon="4.87062044333262">
+    <src>1303700733</src>
+    <name>16 Rue Rapha&#235;l Dubois 2</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7814344025606" lon="4.87140554349923">
+    <src>1303700741</src>
+    <name>22 Avenue Gaston Berger 1</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7812576750394" lon="4.87062033432184">
+    <src>1303700752</src>
+    <name>16 Rue Rapha&#235;l Dubois 3</name>
+    <desc/>
+  </wpt>
+  <wpt lat="44.7847423508083" lon="5.81495881665798">
+    <src>1303783767</src>
+    <name>Adresse inconnue Is&#232;re 79</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7808727630127" lon="4.87087192228256">
+    <src>1303893108</src>
+    <name>24 Avenue Gaston Berger 1</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7801894506182" lon="4.87117555263682">
+    <src>1303893117</src>
+    <name>28 Avenue Gaston Berger 1</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7802084303817" lon="4.87118318745551">
+    <src>1303893118</src>
+    <name>28 Avenue Gaston Berger 2</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7801815655682" lon="4.87120076514914">
+    <src>1303893119</src>
+    <name>28 Avenue Gaston Berger 3</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7808487012022" lon="4.87088402287095">
+    <src>1303893154</src>
+    <name>24 Avenue Gaston Berger 2</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7808833035649" lon="4.87087264954287">
+    <src>1303893155</src>
+    <name>24 Avenue Gaston Berger 3</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7801801338016" lon="4.87118881883057">
+    <src>1303898924</src>
+    <name>28 Avenue Gaston Berger 4</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.780178843563" lon="4.87118938816056">
+    <src>1303900761</src>
+    <name>28 Avenue Gaston Berger 5</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7808499522059" lon="4.87088626723528">
+    <src>1303912407</src>
+    <name>24 Avenue Gaston Berger 4</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.6918828865487" lon="6.69140664527779">
+    <src>1303927324</src>
+    <name>Adresse inconnue Savoie 152</name>
+    <desc/>
+  </wpt>
+  <wpt lat="43.6619700285339" lon="6.98873609577302">
     <src>130401008</src>
     <name>2 Chemin des Oliviers</name>
+    <desc/>
+  </wpt>
+  <wpt lat="44.855985339174" lon="6.48024502216502">
+    <src>1304023926</src>
+    <name>238 Chemin du Serre</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7814352992986" lon="4.87140716261122">
+    <src>1304085641</src>
+    <name>22 Avenue Gaston Berger 2</name>
+    <desc/>
+  </wpt>
+  <wpt lat="48.33447985" lon="-1.93348595">
+    <src>1304104621</src>
+    <name>2a Hallouais</name>
     <desc/>
   </wpt>
   <wpt lat="48.1373712298776" lon="-1.91125453056793">
     <src>130459946</src>
     <name>Adresse inconnue Ille-et-Vilaine 2</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.5099419" lon="4.77220545">
+    <src>1304616257</src>
+    <name>5180 Route du Grand Bois</name>
+    <desc/>
+  </wpt>
+  <wpt lat="48.2567210015198" lon="7.41726698219733">
+    <src>1304803899</src>
+    <name>Cigoland 2</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.3788646" lon="-1.15868195">
+    <src>1304811620</src>
+    <name>31 Boulevard du Front de Mer 2</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7406094388233" lon="4.88223649319857">
+    <src>1304835807</src>
+    <name>Rue Charles Jung 4</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.73265355" lon="6.204592">
+    <src>1304912917</src>
+    <name>Adresse inconnue Haute-Savoie 73</name>
     <desc/>
   </wpt>
   <wpt lat="45.64432" lon="4.2288785">
@@ -29851,7 +31686,7 @@
   </wpt>
   <wpt lat="46.3898765452596" lon="5.8639422705843">
     <src>135042845</src>
-    <name>49 Rue du Pr&#233;</name>
+    <name>49 Rue du Pr&#233; 2</name>
     <desc/>
   </wpt>
   <wpt lat="46.3841005292314" lon="5.87026078876749">
@@ -29914,7 +31749,7 @@
     <name>Route de Courpi&#232;re</name>
     <desc/>
   </wpt>
-  <wpt lat="47.2181036149899" lon="0.0530535202047715">
+  <wpt lat="47.2180990898082" lon="0.0530572210841085">
     <src>135333953</src>
     <name>30 Avenue de la Loire</name>
     <desc/>
@@ -30424,6 +32259,11 @@
     <name>2633 Route du Lac</name>
     <desc/>
   </wpt>
+  <wpt lat="48.0640504744848" lon="6.95759505768159">
+    <src>139153771</src>
+    <name>3582 Route du Lac</name>
+    <desc/>
+  </wpt>
   <wpt lat="48.062407390354" lon="6.95778074103112">
     <src>139154758</src>
     <name>3400 Route du Lac</name>
@@ -30446,22 +32286,22 @@
   </wpt>
   <wpt lat="47.5002443" lon="-0.5704417">
     <src>1394105774</src>
-    <name>Terra Botanica 1</name>
+    <name>Terra Botanica 9 1</name>
     <desc/>
   </wpt>
   <wpt lat="47.5003073" lon="-0.5708898">
     <src>1394105776</src>
-    <name>Terra Botanica 2</name>
+    <name>Terra Botanica 9 2</name>
     <desc/>
   </wpt>
   <wpt lat="47.5017751" lon="-0.5705915">
     <src>1394106154</src>
-    <name>Terra Botanica 3</name>
+    <name>Terra Botanica 9 3</name>
     <desc/>
   </wpt>
   <wpt lat="47.5030319" lon="-0.5701305">
     <src>1394106545</src>
-    <name>Terra Botanica 4</name>
+    <name>Terra Botanica 9 4</name>
     <desc/>
   </wpt>
   <wpt lat="47.3468800407498" lon="-1.27810077872861">
@@ -31011,7 +32851,7 @@
   </wpt>
   <wpt lat="43.077764713382" lon="5.78273551484185">
     <src>143014266</src>
-    <name>8 Iles des Embiez</name>
+    <name>8 Iles des Embiez 2</name>
     <desc/>
   </wpt>
   <wpt lat="43.5792055" lon="0.2461372">
@@ -31194,11 +33034,6 @@
     <name>8 Rue Georges le Berd</name>
     <desc/>
   </wpt>
-  <wpt lat="47.954075" lon="-2.5462685">
-    <src>144770239</src>
-    <name>4 Place Alain de Rohan</name>
-    <desc/>
-  </wpt>
   <wpt lat="47.9530593893333" lon="-2.54806641837576">
     <src>144772544</src>
     <name>2 Rue de la Capitainerie</name>
@@ -31206,7 +33041,7 @@
   </wpt>
   <wpt lat="49.165109585616" lon="-0.292268428893043">
     <src>144783566</src>
-    <name>Adresse inconnue Calvados 2</name>
+    <name>14 Avenue des Commerces</name>
     <desc/>
   </wpt>
   <wpt lat="48.534347" lon="-2.7686635">
@@ -31516,7 +33351,7 @@
   </wpt>
   <wpt lat="42.6447276252008" lon="2.52975521735139">
     <src>147408130</src>
-    <name>1 Place de la Libert&#233;</name>
+    <name>1 Place de la Libert&#233; 2</name>
     <desc/>
   </wpt>
   <wpt lat="46.2558436" lon="6.8416816">
@@ -31871,7 +33706,7 @@
   </wpt>
   <wpt lat="48.8713242" lon="2.7776343">
     <src>14ca5f78d98440c7bfbe440fa8a5e1ee</src>
-    <name>Disneyland Paris 2</name>
+    <name>Disneyland Paris 3 7</name>
     <desc/>
   </wpt>
   <wpt lat="48.8548798" lon="2.3728567">
@@ -32246,12 +34081,12 @@
   </wpt>
   <wpt lat="48.2625390766756" lon="4.61236714000895">
     <src>153805463</src>
-    <name>40 Rue de la Vallee du Landion</name>
+    <name>Nigloland 7</name>
     <desc/>
   </wpt>
   <wpt lat="48.2632285211922" lon="4.61836891293797">
     <src>153805464</src>
-    <name>Nigloland 2</name>
+    <name>Nigloland 8</name>
     <desc/>
   </wpt>
   <wpt lat="47.8098805603547" lon="2.30535140022992">
@@ -32509,6 +34344,11 @@
     <name>3 Rue de l'Abb&#233; Francois Gouray</name>
     <desc/>
   </wpt>
+  <wpt lat="44.0905290150622" lon="6.96979649705305">
+    <src>155158866</src>
+    <name>80 Chemin de la Sagne</name>
+    <desc/>
+  </wpt>
   <wpt lat="47.7130487292748" lon="-0.998972110361738">
     <src>155216606</src>
     <name>117 Rue de bretagne (Combr&#233;e)</name>
@@ -32651,7 +34491,7 @@
   </wpt>
   <wpt lat="43.2673443401255" lon="5.72945812447418">
     <src>156588641</src>
-    <name>Adresse inconnue Bouches-du-Rh&#244;ne 52</name>
+    <name>OK Corral 2</name>
     <desc/>
   </wpt>
   <wpt lat="45.7557156805825" lon="3.57318112823002">
@@ -32726,7 +34566,7 @@
   </wpt>
   <wpt lat="43.1158215650856" lon="0.419867825393857">
     <src>157676630</src>
-    <name>999 Route de Toulouse</name>
+    <name>Parc de Loisir de la Demi-Lune 2</name>
     <desc/>
   </wpt>
   <wpt lat="48.97528085" lon="-1.5593881">
@@ -32824,7 +34664,7 @@
     <name>178 Rue Saint Sever</name>
     <desc/>
   </wpt>
-  <wpt lat="48.4840809" lon="0.6535447">
+  <wpt lat="48.4841422" lon="0.6537328">
     <src>1584752727</src>
     <name>2 Place de l'Eglise</name>
     <desc/>
@@ -32894,7 +34734,7 @@
     <name>100 Avenue Julian Grimau</name>
     <desc/>
   </wpt>
-  <wpt lat="50.4614410448718" lon="1.57223994030449">
+  <wpt lat="50.4614415217664" lon="1.57224774295941">
     <src>158779978</src>
     <name>2 Avenue du Calvaire</name>
     <desc/>
@@ -32984,7 +34824,7 @@
     <name>Place Charles de Gaulle</name>
     <desc/>
   </wpt>
-  <wpt lat="45.7461474" lon="4.789822">
+  <wpt lat="45.7461485" lon="4.7898311">
     <src>15a8d8b72e054315a3f00b2b21720d80</src>
     <name>Rue Laurent Paul</name>
     <desc/>
@@ -34224,6 +36064,11 @@
     <name>18 Quai Jean Jaur&#232;s</name>
     <desc/>
   </wpt>
+  <wpt lat="49.1154092169748" lon="-1.49915034678748">
+    <src>169880931</src>
+    <name>9 Le Bourg (Montsurvent)</name>
+    <desc/>
+  </wpt>
   <wpt lat="48.839853" lon="2.2630812">
     <src>169d35ef64b2489296627be798cca6c8</src>
     <name>Rue Daumier</name>
@@ -34721,7 +36566,7 @@
   </wpt>
   <wpt lat="44.5610613" lon="-0.0226834">
     <src>1734562575</src>
-    <name>95 Impasse du Port</name>
+    <name>95 Impasse du Port 2</name>
     <desc/>
   </wpt>
   <wpt lat="48.2867829710798" lon="7.41915003830986">
@@ -35239,11 +37084,6 @@
     <name>34 Rue de Rambeau</name>
     <desc/>
   </wpt>
-  <wpt lat="49.1816744" lon="0.3111426">
-    <src>1774098743</src>
-    <name>680 Chemin des Sept Voies 2 1</name>
-    <desc/>
-  </wpt>
   <wpt lat="47.662197461802" lon="-2.45597996608427">
     <src>177439022</src>
     <name>12 Place du 8 Mai 1945</name>
@@ -35687,6 +37527,11 @@
   <wpt lat="44.7580654437175" lon="5.67679408091961">
     <src>179942092</src>
     <name>10 Place du Detre</name>
+    <desc/>
+  </wpt>
+  <wpt lat="43.1836355" lon="6.6005245">
+    <src>179955279</src>
+    <name>1412 Boulevard de Gigaro</name>
     <desc/>
   </wpt>
   <wpt lat="50.9840994" lon="2.4189511">
@@ -36574,11 +38419,6 @@
     <name>Les Buttes</name>
     <desc/>
   </wpt>
-  <wpt lat="42.6379055573367" lon="3.0344723741288">
-    <src>184047680</src>
-    <name>84 Boulevard Fran&#231;ois Desnoyer</name>
-    <desc/>
-  </wpt>
   <wpt lat="44.948638" lon="-0.6042009">
     <src>1841025825</src>
     <name>14 Rue Maurice Fillon</name>
@@ -37221,7 +39061,7 @@
   </wpt>
   <wpt lat="48.470011" lon="-4.5294538">
     <src>1890267746</src>
-    <name>La R&#233;cr&#233; des Trois Cur&#233;s 1</name>
+    <name>La R&#233;cr&#233; des Trois Cur&#233;s 7 1</name>
     <desc/>
   </wpt>
   <wpt lat="46.5798735064253" lon="0.341512051475195">
@@ -37527,7 +39367,7 @@
   <wpt lat="48.8989895" lon="7.899876">
     <src>191101165</src>
     <name>8b Rue des Potiers</name>
-    <desc/>
+    <desc>24/7</desc>
   </wpt>
   <wpt lat="45.7517231" lon="4.9151175">
     <src>19113fc9df2544f4be179dda921fe81b</src>
@@ -38009,7 +39849,7 @@
     <name>91 Place Louis Moreau</name>
     <desc/>
   </wpt>
-  <wpt lat="44.5209396141264" lon="2.42886969665427">
+  <wpt lat="44.5209403141264" lon="2.42886059665428">
     <src>195439195</src>
     <name>14 Chemin de Pegals</name>
     <desc/>
@@ -38059,14 +39899,14 @@
     <name>6 Place de la Mairie</name>
     <desc/>
   </wpt>
-  <wpt lat="43.91240505" lon="6.54441715">
+  <wpt lat="43.91239105" lon="6.54437555">
     <src>196296400</src>
     <name>315 Rue du Touron</name>
     <desc/>
   </wpt>
   <wpt lat="43.9149395757178" lon="6.54122960980797">
     <src>196296523</src>
-    <name>38 Impasse des Rougui&#232;res</name>
+    <name>38 Impasse des Rougui&#232;res 2</name>
     <desc/>
   </wpt>
   <wpt lat="43.9510884661963" lon="6.37045912404468">
@@ -39561,7 +41401,7 @@
   </wpt>
   <wpt lat="43.3651159421047" lon="5.18722861443159">
     <src>200999679</src>
-    <name>1 Chemin des Chaux de la Tour</name>
+    <name>Magic Park Land</name>
     <desc/>
   </wpt>
   <wpt lat="48.4632547" lon="7.4273107">
@@ -39811,7 +41651,7 @@
   </wpt>
   <wpt lat="48.8729228154157" lon="2.77896623328768">
     <src>204210433</src>
-    <name>Euro Disneyland Zone Techn 5</name>
+    <name>Disneyland Paris 3 8</name>
     <desc/>
   </wpt>
   <wpt lat="43.8344552731133" lon="4.36244050310782">
@@ -40144,7 +41984,7 @@
     <name>13 Place Henri Doizy (St Macaire-en-Mauges)</name>
     <desc/>
   </wpt>
-  <wpt lat="4.9042389" lon="-52.3209744">
+  <wpt lat="4.9042665" lon="-52.3209754">
     <src>2091677024</src>
     <name>2 Rue des Guepes</name>
     <desc/>
@@ -40421,7 +42261,7 @@
   </wpt>
   <wpt lat="44.6211340959702" lon="-1.10490313894352">
     <src>211580381</src>
-    <name>133 route des lacs 1</name>
+    <name>La Coccinelle 2 1</name>
     <desc/>
   </wpt>
   <wpt lat="44.6408014562264" lon="-1.11750404242946">
@@ -41646,7 +43486,7 @@
   </wpt>
   <wpt lat="46.48207825" lon="-1.41885375">
     <src>225723183</src>
-    <name>8 Village le bois lambert</name>
+    <name>Indian Forest - O'Fun Park</name>
     <desc/>
   </wpt>
   <wpt lat="43.4059268" lon="1.8779454">
@@ -42111,7 +43951,7 @@
   </wpt>
   <wpt lat="43.1571258" lon="1.34930935">
     <src>229115437</src>
-    <name>1283 Chemin de Peyres</name>
+    <name>Sequoia Vertigo 2</name>
     <desc/>
   </wpt>
   <wpt lat="49.0837244437845" lon="7.4916383072254">
@@ -42796,7 +44636,7 @@
   </wpt>
   <wpt lat="44.911165" lon="0.9315186">
     <src>2324139672</src>
-    <name>Parc Le Bournat 1</name>
+    <name>Parc Le Bournat 3 3</name>
     <desc/>
   </wpt>
   <wpt lat="44.815381" lon="1.1438967">
@@ -42954,7 +44794,7 @@
     <name>23 Quartier la Carrere</name>
     <desc/>
   </wpt>
-  <wpt lat="48.2054995" lon="-3.0474725">
+  <wpt lat="48.2055916" lon="-3.0477528">
     <src>2338678450</src>
     <name>5 Beau Rivage</name>
     <desc/>
@@ -43069,9 +44909,14 @@
     <name>2 Rue du vieux bourg</name>
     <desc/>
   </wpt>
+  <wpt lat="47.5192232197499" lon="-0.366518582483198">
+    <src>235180609</src>
+    <name>Les Loiti&#232;res (Baun&#233;) 1</name>
+    <desc/>
+  </wpt>
   <wpt lat="47.5211245" lon="-0.3669155">
     <src>235180768</src>
-    <name>Les Loiti&#232;res (Baun&#233;)</name>
+    <name>Les Loiti&#232;res (Baun&#233;) 2</name>
     <desc/>
   </wpt>
   <wpt lat="43.1778744223339" lon="3.19027770328234">
@@ -43136,7 +44981,7 @@
   </wpt>
   <wpt lat="45.6218834825971" lon="5.56950386620246">
     <src>235672992</src>
-    <name>1380 Route de la Corneille 3</name>
+    <name>Walibi Rh&#244;ne-Alpes 3 4</name>
     <desc/>
   </wpt>
   <wpt lat="47.5634429548022" lon="-0.509628276836158">
@@ -44059,9 +45904,9 @@
     <name>24 Chemin du Port</name>
     <desc/>
   </wpt>
-  <wpt lat="47.5191975" lon="-0.3665393">
-    <src>2421117105</src>
-    <name>Les Loiti&#232;res (Baun&#233;) 2</name>
+  <wpt lat="49.1298191119787" lon="7.31394217898432">
+    <src>242015403</src>
+    <name>65 Rue de la Chapelle</name>
     <desc/>
   </wpt>
   <wpt lat="43.6536228" lon="-1.445292">
@@ -44734,7 +46579,7 @@
     <name>1 Route des Cascades</name>
     <desc/>
   </wpt>
-  <wpt lat="42.9424664" lon="0.2848286">
+  <wpt lat="42.9424763" lon="0.284852">
     <src>2497524539</src>
     <name>4bis Quartier Payolle</name>
     <desc/>
@@ -45262,11 +47107,6 @@
   <wpt lat="49.3225815" lon="2.443768">
     <src>255236827</src>
     <name>121 Route de Mouy</name>
-    <desc/>
-  </wpt>
-  <wpt lat="47.3367675" lon="-1.65218225">
-    <src>255302377</src>
-    <name>Adresse inconnue Loire-Atlantique 10</name>
     <desc/>
   </wpt>
   <wpt lat="47.8438759" lon="6.5647595">
@@ -45841,7 +47681,7 @@
   </wpt>
   <wpt lat="44.0153406" lon="2.1403882">
     <src>2620189429</src>
-    <name>Cap'D&#233;couverte</name>
+    <name>Cap'D&#233;couverte 2</name>
     <desc/>
   </wpt>
   <wpt lat="47.4732502889067" lon="-1.02965369128864">
@@ -46194,7 +48034,7 @@
     <name>Rue Denfert-Rochereau</name>
     <desc/>
   </wpt>
-  <wpt lat="45.5385117" lon="6.3727049">
+  <wpt lat="45.5385028" lon="6.3726891">
     <src>2672872819</src>
     <name>4819 Route du Grand Arc</name>
     <desc/>
@@ -47189,6 +49029,11 @@
     <name>4 Rue de la Cite</name>
     <desc/>
   </wpt>
+  <wpt lat="47.9106716677134" lon="-2.46611383581048">
+    <src>280502968</src>
+    <name>1 Place de la Mairie</name>
+    <desc/>
+  </wpt>
   <wpt lat="47.9784982150885" lon="-3.28246991054657">
     <src>280564340</src>
     <name>1 Rue du Stade</name>
@@ -47764,6 +49609,11 @@
     <name>19bis Rue Jose Marti</name>
     <desc/>
   </wpt>
+  <wpt lat="47.5945546143538" lon="2.98419307885582">
+    <src>289855188</src>
+    <name>6 Route du Chaillou</name>
+    <desc/>
+  </wpt>
   <wpt lat="48.7694142" lon="-3.0255131">
     <src>289952826</src>
     <name>2 Place de K&#233;rity</name>
@@ -47857,11 +49707,6 @@
   <wpt lat="46.5008585" lon="2.3311052">
     <src>28fa390d90084eeebaaf40e1111c2f81</src>
     <name>7 Chemin de la Plage</name>
-    <desc/>
-  </wpt>
-  <wpt lat="45.7326242" lon="6.2045881">
-    <src>28ff024260724d19b56a09444cd3f7e6</src>
-    <name>Adresse inconnue Haute-Savoie 11</name>
     <desc/>
   </wpt>
   <wpt lat="43.159549" lon="3.164389">
@@ -48209,11 +50054,6 @@
     <name>73 Rue de Rennes</name>
     <desc/>
   </wpt>
-  <wpt lat="44.8725767761722" lon="2.03682049299315">
-    <src>294397052</src>
-    <name>10 All&#233;e Gaston Monnerville</name>
-    <desc/>
-  </wpt>
   <wpt lat="50.0362011" lon="1.9778354">
     <src>294466154</src>
     <name>10 Rue du 8 Mai 1945</name>
@@ -48254,7 +50094,7 @@
     <name>10 Place du March&#233;</name>
     <desc/>
   </wpt>
-  <wpt lat="44.8241504605475" lon="2.05996332447665">
+  <wpt lat="44.8241559694838" lon="2.05996958617926">
     <src>294645712</src>
     <name>40 Rue de l'Eglise</name>
     <desc/>
@@ -48361,7 +50201,7 @@
   </wpt>
   <wpt lat="46.8917069" lon="-0.9328384">
     <src>2958742196</src>
-    <name>Le Grand Parc du Puy du Fou 1</name>
+    <name>Le Grand Parc du Puy du Fou 6 1</name>
     <desc/>
   </wpt>
   <wpt lat="47.3551159" lon="-0.7612557">
@@ -48709,7 +50549,7 @@
     <name>2092 Route de Flaujac Poujols 1</name>
     <desc/>
   </wpt>
-  <wpt lat="48.9586509" lon="2.5108924">
+  <wpt lat="48.9586531" lon="2.5108904">
     <src>2985c6368042413f82d90845133ce1e9</src>
     <name>Parc du Sausset</name>
     <desc/>
@@ -49094,7 +50934,7 @@
     <name>Rue Lauzet Ain&#233;</name>
     <desc/>
   </wpt>
-  <wpt lat="44.8983751" lon="5.3209512">
+  <wpt lat="44.8983759" lon="5.320952">
     <src>2ac576c34ca445c7b56d9c68f08783df</src>
     <name>Chemin du Bout du Monde</name>
     <desc/>
@@ -49303,11 +51143,6 @@
     <src>2c374e79457c45108cdeba0c5e433dab</src>
     <name>Rue de la Perte du Rhone</name>
     <desc/>
-  </wpt>
-  <wpt lat="43.9115931" lon="3.3141983">
-    <src>2c4424aaefb5404fba5701d3aebd4a1c</src>
-    <name>Le Barry 3</name>
-    <desc>24/7</desc>
   </wpt>
   <wpt lat="48.1716387" lon="2.2549159">
     <src>2c4bbfd29b45463cbddf500d5314276e</src>
@@ -49941,7 +51776,7 @@
   </wpt>
   <wpt lat="46.8910418" lon="-0.9316098">
     <src>3005868191</src>
-    <name>Le Grand Parc du Puy du Fou 2</name>
+    <name>Le Grand Parc du Puy du Fou 6 2</name>
     <desc/>
   </wpt>
   <wpt lat="46.8948537" lon="-0.930197">
@@ -50704,6 +52539,11 @@
     <name>Place Saint - Philibert</name>
     <desc/>
   </wpt>
+  <wpt lat="48.1987491882782" lon="-3.01298535204381">
+    <src>307416952</src>
+    <name>104 Rue du Lac</name>
+    <desc/>
+  </wpt>
   <wpt lat="43.0783888100476" lon="1.35968792319908">
     <src>307543231</src>
     <name>10 Place du Bout de la Ville</name>
@@ -50952,6 +52792,11 @@
   <wpt lat="47.7348706796581" lon="-1.59147116102564">
     <src>310160504</src>
     <name>1 Rue de Ch&#226;teaubriant 2</name>
+    <desc/>
+  </wpt>
+  <wpt lat="47.8882383" lon="0.02429775">
+    <src>310255063</src>
+    <name>5 Rue de la Renardi&#232;re</name>
     <desc/>
   </wpt>
   <wpt lat="47.8918961013645" lon="0.0264146651557656">
@@ -52964,6 +54809,11 @@
     <name>1 Rue du Souvenir</name>
     <desc/>
   </wpt>
+  <wpt lat="45.1302717192091" lon="1.30627695700049">
+    <src>335783896</src>
+    <name>11 Rue Docteur Raoul Daux</name>
+    <desc/>
+  </wpt>
   <wpt lat="43.3167655" lon="1.2458161">
     <src>3358083415</src>
     <name>2 Rue Pierre Marty</name>
@@ -53519,7 +55369,7 @@
     <name>4 Rue du S&#233;nateur Paul Laffont</name>
     <desc/>
   </wpt>
-  <wpt lat="45.8283855550921" lon="4.06698497678331">
+  <wpt lat="45.8284199" lon="4.06687715">
     <src>342321350</src>
     <name>156 Avenue des Platanes</name>
     <desc/>
@@ -53531,12 +55381,12 @@
   </wpt>
   <wpt lat="43.3940661929595" lon="5.56539613861223">
     <src>342381555</src>
-    <name>Chateau de Valdonne 1</name>
+    <name>Le bois des lutins 2 1</name>
     <desc/>
   </wpt>
   <wpt lat="43.3942097" lon="5.56214525">
     <src>342383415</src>
-    <name>Chateau de Valdonne 2</name>
+    <name>Le bois des lutins 2 2</name>
     <desc/>
   </wpt>
   <wpt lat="46.2903776992754" lon="3.71605010144927">
@@ -54566,42 +56416,42 @@
   </wpt>
   <wpt lat="46.6666845" lon="0.3683224">
     <src>3585384981</src>
-    <name>Futuroscope 1</name>
+    <name>Futuroscope 9 3</name>
     <desc/>
   </wpt>
   <wpt lat="46.668053" lon="0.3670353">
     <src>3585384982</src>
-    <name>Futuroscope 2</name>
+    <name>Futuroscope 9 4</name>
     <desc/>
   </wpt>
   <wpt lat="46.6690618" lon="0.3661252">
     <src>3585384983</src>
-    <name>Futuroscope 3</name>
+    <name>Futuroscope 9 5</name>
     <desc/>
   </wpt>
   <wpt lat="46.6684486" lon="0.3685737">
     <src>3585384985</src>
-    <name>Futuropolis 1</name>
+    <name>Futuropolis 2</name>
     <desc/>
   </wpt>
   <wpt lat="46.6700129" lon="0.3709711">
     <src>3585384986</src>
-    <name>Futuroscope 4</name>
+    <name>Futuroscope 9 6</name>
     <desc/>
   </wpt>
   <wpt lat="46.6709351" lon="0.3725667">
     <src>3585384988</src>
-    <name>Futuroscope 5</name>
+    <name>Futuroscope 9 7</name>
     <desc/>
   </wpt>
   <wpt lat="46.6711302" lon="0.3686828">
     <src>3585384989</src>
-    <name>Futuroscope 6</name>
+    <name>Futuroscope 9 8</name>
     <desc/>
   </wpt>
   <wpt lat="46.6704116" lon="0.3669625">
     <src>3585384990</src>
-    <name>Futuroscope 7</name>
+    <name>Futuroscope 9 9</name>
     <desc/>
   </wpt>
   <wpt lat="44.9726126647903" lon="5.82504252274962">
@@ -55144,6 +56994,11 @@
     <name>Les Salapinches</name>
     <desc/>
   </wpt>
+  <wpt lat="48.1744675495026" lon="0.394905294331281">
+    <src>365401607</src>
+    <name>Rue de Bellevue</name>
+    <desc/>
+  </wpt>
   <wpt lat="43.4981505" lon="1.311593">
     <src>3655730326</src>
     <name>26 Place de la Liberation</name>
@@ -55444,7 +57299,7 @@
     <name>Adresse inconnue Haut-Rhin 10</name>
     <desc/>
   </wpt>
-  <wpt lat="46.9868118330162" lon="1.17472268242943">
+  <wpt lat="46.9868164330162" lon="1.17470258242943">
     <src>367654986</src>
     <name>5 Place du Vieux Ch&#226;teau</name>
     <desc/>
@@ -55754,7 +57609,7 @@
     <name>Rue de l'Egalit&#233;</name>
     <desc/>
   </wpt>
-  <wpt lat="43.96866" lon="6.5082722">
+  <wpt lat="43.9686856" lon="6.5083007">
     <src>36a2bb88875b4db8b47a8cba81cd6bea</src>
     <name>Place Marcel Pastorelli</name>
     <desc/>
@@ -55839,7 +57694,7 @@
     <name>1 Porte Saint Thomas</name>
     <desc/>
   </wpt>
-  <wpt lat="44.8008679" lon="1.6180308">
+  <wpt lat="44.8008403" lon="1.6180415">
     <src>3703540455</src>
     <name>Rue Roland le Preux</name>
     <desc/>
@@ -56153,11 +58008,6 @@
     <src>37237407</src>
     <name>20 Avenue des Romains</name>
     <desc>closed</desc>
-  </wpt>
-  <wpt lat="43.1151764" lon="6.3524044">
-    <src>3723eb19cd0e4d98bec6b632057b004d</src>
-    <name>Route de B&#233;nat 1</name>
-    <desc/>
   </wpt>
   <wpt lat="49.3465377905152" lon="-0.756019645058569">
     <src>372490863</src>
@@ -56956,27 +58806,27 @@
   </wpt>
   <wpt lat="48.4704931" lon="-4.5292627">
     <src>3829825979</src>
-    <name>La R&#233;cr&#233; des Trois Cur&#233;s 2</name>
+    <name>La R&#233;cr&#233; des Trois Cur&#233;s 7 2</name>
     <desc/>
   </wpt>
   <wpt lat="48.4711394" lon="-4.5258519">
     <src>3829825981</src>
-    <name>La R&#233;cr&#233; des Trois Cur&#233;s 3</name>
+    <name>La R&#233;cr&#233; des Trois Cur&#233;s 7 3</name>
     <desc/>
   </wpt>
   <wpt lat="48.4717736" lon="-4.5253085">
     <src>3829825986</src>
-    <name>La R&#233;cr&#233; des Trois Cur&#233;s 4</name>
+    <name>La R&#233;cr&#233; des Trois Cur&#233;s 7 4</name>
     <desc/>
   </wpt>
   <wpt lat="48.4732873" lon="-4.5266958">
     <src>3829826001</src>
-    <name>La R&#233;cr&#233; des Trois Cur&#233;s 5</name>
+    <name>La R&#233;cr&#233; des Trois Cur&#233;s 7 5</name>
     <desc/>
   </wpt>
   <wpt lat="48.4740506" lon="-4.5262777">
     <src>3829826002</src>
-    <name>La R&#233;cr&#233; des Trois Cur&#233;s 6</name>
+    <name>La R&#233;cr&#233; des Trois Cur&#233;s 7 6</name>
     <desc/>
   </wpt>
   <wpt lat="47.4870863" lon="-2.463445">
@@ -57276,7 +59126,7 @@
   </wpt>
   <wpt lat="45.9169599" lon="-0.9608805">
     <src>3878813607</src>
-    <name>78 Avenue Jacques Demy</name>
+    <name>78 Avenue Jacques Demy 2</name>
     <desc/>
   </wpt>
   <wpt lat="47.0803632" lon="-2.0367269">
@@ -58181,7 +60031,7 @@
   </wpt>
   <wpt lat="44.6209761267295" lon="-1.10404807515841">
     <src>399921243</src>
-    <name>22 Avenue des Loisirs</name>
+    <name>La Coccinelle 2 2</name>
     <desc/>
   </wpt>
   <wpt lat="48.8394757011714" lon="2.31733045438653">
@@ -58389,7 +60239,7 @@
     <name>Rte du Leman</name>
     <desc/>
   </wpt>
-  <wpt lat="48.8976261" lon="2.3589204">
+  <wpt lat="48.8972948" lon="2.3590072">
     <src>3af5d6a3331b4f6fb6914cc780e4f06e</src>
     <name>Passage du Gu&#233;</name>
     <desc/>
@@ -58521,7 +60371,7 @@
   </wpt>
   <wpt lat="48.8662524" lon="2.7790729">
     <src>3b6799400863493fa1da3100cef65fac</src>
-    <name>Walt Disney Studios Park 3</name>
+    <name>Walt Disney Studios Park 6 4</name>
     <desc/>
   </wpt>
   <wpt lat="44.4141175" lon="5.2672276">
@@ -59144,11 +60994,6 @@
     <name>Rue de Maguelone</name>
     <desc/>
   </wpt>
-  <wpt lat="43.1156872" lon="6.355268">
-    <src>3f4a9fa0606842a68ddd1ab97f826dc4</src>
-    <name>Rue de Coty Plage 1</name>
-    <desc/>
-  </wpt>
   <wpt lat="49.0660826" lon="2.0620701">
     <src>3f51a89b7f504422a5dc313ee23f80a6</src>
     <name>Rue de l'Aquarelle</name>
@@ -59396,7 +61241,7 @@
   </wpt>
   <wpt lat="47.2680878" lon="-1.5834177">
     <src>4017739800</src>
-    <name>2 Chemin de la Justice</name>
+    <name>2 Chemin de la Justice 2</name>
     <desc/>
   </wpt>
   <wpt lat="47.1275674" lon="-2.22094945">
@@ -59516,7 +61361,7 @@
   </wpt>
   <wpt lat="48.8718405233914" lon="2.77262910932378">
     <src>40362812</src>
-    <name>Adresse inconnue Seine-et-Marne 4</name>
+    <name>Disneyland Paris 3</name>
     <desc/>
   </wpt>
   <wpt lat="48.6049706" lon="1.6813359">
@@ -60344,6 +62189,11 @@
     <name>51 Boulevard du Pont Joubert</name>
     <desc/>
   </wpt>
+  <wpt lat="44.379735301633" lon="3.93903106566903">
+    <src>414490220</src>
+    <name>26 Route de l'&#201;glise</name>
+    <desc/>
+  </wpt>
   <wpt lat="45.5383487" lon="4.8546871">
     <src>41470c369b2b4176b8c9ade0d0434362</src>
     <name>Montee de la Roche 2</name>
@@ -60451,7 +62301,7 @@
   </wpt>
   <wpt lat="44.6221888" lon="-1.1064187">
     <src>4161680172</src>
-    <name>Kid Park</name>
+    <name>Kid Park 2</name>
     <desc/>
   </wpt>
   <wpt lat="47.8107084" lon="1.0866972">
@@ -60751,7 +62601,7 @@
   </wpt>
   <wpt lat="44.1880276920951" lon="0.574553346784595">
     <src>419496145</src>
-    <name>120 Impasse P&#233;rebiel</name>
+    <name>Walygator Sud-Ouest 2</name>
     <desc/>
   </wpt>
   <wpt lat="46.2436843" lon="-1.5587235">
@@ -60841,7 +62691,7 @@
   </wpt>
   <wpt lat="49.131474984331" lon="2.57264226281641">
     <src>420016990</src>
-    <name>1 Parc Asterix</name>
+    <name>Parc Ast&#233;rix 5</name>
     <desc/>
   </wpt>
   <wpt lat="46.1083146473713" lon="3.46274549110105">
@@ -61019,7 +62869,7 @@
     <name>Combe Plotton 2</name>
     <desc/>
   </wpt>
-  <wpt lat="44.2023833" lon="0.6112483">
+  <wpt lat="44.2023486" lon="0.6113582">
     <src>4222330975</src>
     <name>1 Avenue du G&#233;n&#233;ral de Gaulle</name>
     <desc/>
@@ -61796,12 +63646,12 @@
   </wpt>
   <wpt lat="46.888286" lon="-0.9263925">
     <src>4305448990</src>
-    <name>Le Grand Parc du Puy du Fou 3</name>
+    <name>Le Grand Parc du Puy du Fou 6 3</name>
     <desc/>
   </wpt>
   <wpt lat="46.8875257" lon="-0.9269637">
     <src>4305449190</src>
-    <name>Le Grand Parc du Puy du Fou 4</name>
+    <name>Le Grand Parc du Puy du Fou 6 4</name>
     <desc/>
   </wpt>
   <wpt lat="45.0812502" lon="-0.284364">
@@ -61816,7 +63666,7 @@
   </wpt>
   <wpt lat="46.8877267" lon="-0.9324537">
     <src>4306442591</src>
-    <name>Le Grand Parc du Puy du Fou 5</name>
+    <name>Le Grand Parc du Puy du Fou 6 5</name>
     <desc/>
   </wpt>
   <wpt lat="44.7435158" lon="-0.6494037">
@@ -61836,12 +63686,12 @@
   </wpt>
   <wpt lat="46.8901220641043" lon="-0.928571968895352">
     <src>430755862</src>
-    <name>Adresse inconnue Vend&#233;e 4</name>
+    <name>Le Grand Parc du Puy du Fou 6 14</name>
     <desc/>
   </wpt>
   <wpt lat="46.8893324226704" lon="-0.933498578870633">
     <src>430755863</src>
-    <name>1 le Puy du Fou</name>
+    <name>Le Grand Parc du Puy du Fou 6 11</name>
     <desc/>
   </wpt>
   <wpt lat="49.0288274" lon="6.9254822">
@@ -62826,12 +64676,12 @@
   </wpt>
   <wpt lat="49.4208864" lon="1.9842861">
     <src>4383002573</src>
-    <name>Parc Saint-Paul 1</name>
+    <name>Parc Saint-Paul 3 1</name>
     <desc/>
   </wpt>
   <wpt lat="49.4209181" lon="1.9841116">
     <src>4383002574</src>
-    <name>Parc Saint-Paul 2</name>
+    <name>Parc Saint-Paul 3 2</name>
     <desc/>
   </wpt>
   <wpt lat="45.0540743" lon="1.5839983">
@@ -63144,7 +64994,7 @@
     <name>105 Rue de Bizy</name>
     <desc/>
   </wpt>
-  <wpt lat="47.4795664" lon="-3.1203641">
+  <wpt lat="47.4795514" lon="-3.120371">
     <src>4406961078</src>
     <name>5 Boulevard Chanard</name>
     <desc>Apr-May Sa,Su 00:00-24:00; Jun-Sep 00:00-24:00</desc>
@@ -63784,11 +65634,6 @@
     <name>12 Place du Carrousel</name>
     <desc/>
   </wpt>
-  <wpt lat="50.9377706" lon="1.8125681">
-    <src>4489757594</src>
-    <name>2 Place Canterbury</name>
-    <desc/>
-  </wpt>
   <wpt lat="45.4590814" lon="3.1846496">
     <src>4489773690</src>
     <name>3 Place de la Mairie</name>
@@ -63891,7 +65736,7 @@
   </wpt>
   <wpt lat="49.1354707" lon="2.5721742">
     <src>44eba5262c1b4b9abff52376ad50e511</src>
-    <name>Parc Ast&#233;rix 2</name>
+    <name>Parc Ast&#233;rix 5 1</name>
     <desc/>
   </wpt>
   <wpt lat="45.0493136" lon="6.1556663">
@@ -64067,7 +65912,7 @@
   <wpt lat="45.8847329" lon="2.173089">
     <src>452ded7e297e4d4cb2ef7f2fb502bbd5</src>
     <name>Place Charles de Gaulle</name>
-    <desc/>
+    <desc>24/7</desc>
   </wpt>
   <wpt lat="48.471918" lon="-4.3736291">
     <src>453084784</src>
@@ -64211,7 +66056,7 @@
   </wpt>
   <wpt lat="46.89255385" lon="-0.927261900000001">
     <src>456637952</src>
-    <name>Adresse inconnue Vend&#233;e 5</name>
+    <name>la Menanterie</name>
     <desc/>
   </wpt>
   <wpt lat="48.0058641" lon="-4.5573656">
@@ -65076,7 +66921,7 @@
   </wpt>
   <wpt lat="48.8702742" lon="2.7787088">
     <src>46ccf846c73b4924b773ac0576104ea8</src>
-    <name>Site Disneyland Paris 1</name>
+    <name>Site Disneyland Paris 2</name>
     <desc/>
   </wpt>
   <wpt lat="48.929048" lon="2.4675786">
@@ -66039,7 +67884,7 @@
     <name>2 Place de l&#8217;Eglise</name>
     <desc/>
   </wpt>
-  <wpt lat="48.8389128034056" lon="2.38277227184617">
+  <wpt lat="48.8389126144576" lon="2.38277222373616">
     <src>479520399</src>
     <name>8 Rue Corbineau</name>
     <desc>06:00-22:45</desc>
@@ -66057,11 +67902,6 @@
   <wpt lat="43.3564396" lon="-1.6312628">
     <src>4796482024</src>
     <name>843 Route de Saint-Jean-de-Luz</name>
-    <desc/>
-  </wpt>
-  <wpt lat="48.1987503" lon="-3.0129861">
-    <src>4796806887</src>
-    <name>104 Rue du Lac 3</name>
     <desc/>
   </wpt>
   <wpt lat="-20.8849816" lon="55.4693426">
@@ -66497,6 +68337,11 @@
   <wpt lat="46.0882423966194" lon="5.38063973166745">
     <src>482983243</src>
     <name>341 Chemin du Mont Revel</name>
+    <desc/>
+  </wpt>
+  <wpt lat="44.8724133015401" lon="-1.09285938366619">
+    <src>483532672</src>
+    <name>2bis Place Saint-Seurin</name>
     <desc/>
   </wpt>
   <wpt lat="48.59258165" lon="7.77075055">
@@ -67314,11 +69159,6 @@
     <name>1 Place du Champ de Mars</name>
     <desc/>
   </wpt>
-  <wpt lat="48.4735595391553" lon="-3.18707149017678">
-    <src>492735434</src>
-    <name>30 Place du Centre</name>
-    <desc/>
-  </wpt>
   <wpt lat="45.9190573" lon="1.4436802">
     <src>4927425041</src>
     <name>1bis Route du Pont du Dognon</name>
@@ -67851,7 +69691,7 @@
   </wpt>
   <wpt lat="48.8727284308004" lon="2.78549599303696">
     <src>49733825</src>
-    <name>Euro Disneyland Parking</name>
+    <name>Site Disneyland Paris 2 2</name>
     <desc/>
   </wpt>
   <wpt lat="47.5247884" lon="-1.339235">
@@ -68141,7 +69981,7 @@
   </wpt>
   <wpt lat="49.4692069" lon="3.5596779">
     <src>4999bee5a5ce42ee91aead55978be6d7</src>
-    <name>Axoplage</name>
+    <name>Axoplage 3</name>
     <desc/>
   </wpt>
   <wpt lat="44.1899799" lon="5.9467413">
@@ -68183,11 +70023,6 @@
     <src>49d2f55c3acc4e1582aeac1742e6f6cf</src>
     <name>Place du 8 Mai</name>
     <desc/>
-  </wpt>
-  <wpt lat="48.7003932" lon="2.1877044">
-    <src>49e9456f30d44a4a8a2025089d8736ac</src>
-    <name>Place du Docteur Ernest Albert</name>
-    <desc>Tu 09:30-12:30,13:30-17:30; Fr 09:30-12:30,13:30-17:30; We 10:00-12:30,13:30-17:00</desc>
   </wpt>
   <wpt lat="48.5799522" lon="7.6460647">
     <src>49fdc5acb40d47d4a179c4d8b626e4be</src>
@@ -68521,7 +70356,7 @@
   </wpt>
   <wpt lat="48.3235974" lon="6.727496">
     <src>4be01b9aef754307a9d66faeed5ec6ce</src>
-    <name>Fraispertuis City 1</name>
+    <name>Fraispertuis City 3 1</name>
     <desc/>
   </wpt>
   <wpt lat="43.3840987" lon="3.6423551">
@@ -68571,7 +70406,7 @@
   </wpt>
   <wpt lat="48.8673221" lon="2.7795111">
     <src>4c5dd5cd39774852b8746b5301adc333</src>
-    <name>Walt Disney Studios Park 4</name>
+    <name>Walt Disney Studios Park 6 5</name>
     <desc/>
   </wpt>
   <wpt lat="49.4257086" lon="2.6448392">
@@ -68627,11 +70462,6 @@
   <wpt lat="50.6127417" lon="3.1234073">
     <src>4cae47e01ed8407296c32537c13d0424</src>
     <name>Voie Contour Sud-Est Lezennes 2</name>
-    <desc/>
-  </wpt>
-  <wpt lat="48.0640324" lon="6.9576321">
-    <src>4cb803fd2fdc4273b3b7f9693bd552ea</src>
-    <name>Route du Lac 4</name>
     <desc/>
   </wpt>
   <wpt lat="43.8613879" lon="4.692569">
@@ -68876,7 +70706,7 @@
   </wpt>
   <wpt lat="43.2787013" lon="3.5031855">
     <src>4ec378d211df45fd999c90a950852ffa</src>
-    <name>Luna Park</name>
+    <name>Luna Park 2</name>
     <desc/>
   </wpt>
   <wpt lat="46.2337266" lon="6.0446617">
@@ -69124,7 +70954,7 @@
     <name>37a Rue des Anciennes Salines</name>
     <desc/>
   </wpt>
-  <wpt lat="45.1883962" lon="0.7368523">
+  <wpt lat="45.1884849" lon="0.7369162">
     <src>5005057523</src>
     <name>25 Rue des Sports</name>
     <desc/>
@@ -69217,11 +71047,6 @@
   <wpt lat="43.5947047935987" lon="3.85892716617661">
     <src>501221773</src>
     <name>267 Rue de Bugarel</name>
-    <desc/>
-  </wpt>
-  <wpt lat="43.9440988" lon="0.3100909">
-    <src>5012753341</src>
-    <name>5000 Lieu Dit le Barry 3</name>
     <desc/>
   </wpt>
   <wpt lat="43.2801117376351" lon="1.34922352771084">
@@ -69622,7 +71447,7 @@
   <wpt lat="45.75045" lon="1.2884241">
     <src>5043076136</src>
     <name>8 Place de la Briance</name>
-    <desc/>
+    <desc>24/7</desc>
   </wpt>
   <wpt lat="47.1010827" lon="-1.3042">
     <src>5043201626</src>
@@ -71186,12 +73011,12 @@
   </wpt>
   <wpt lat="48.4711122686842" lon="-4.52530030224853">
     <src>523080618</src>
-    <name>1 Coateval</name>
+    <name>La R&#233;cr&#233; des Trois Cur&#233;s 7 7</name>
     <desc/>
   </wpt>
   <wpt lat="48.4706451" lon="-4.5274907">
     <src>523080629</src>
-    <name>6 Kernogant</name>
+    <name>La R&#233;cr&#233; des Trois Cur&#233;s 7 8</name>
     <desc/>
   </wpt>
   <wpt lat="45.173299" lon="5.7814203">
@@ -71871,12 +73696,12 @@
   </wpt>
   <wpt lat="46.8929462" lon="-0.9333995">
     <src>5339582503</src>
-    <name>Le Grand Parc du Puy du Fou 8</name>
+    <name>Le Grand Parc du Puy du Fou 6 6</name>
     <desc/>
   </wpt>
   <wpt lat="46.8895638" lon="-0.9317106">
     <src>5339597334</src>
-    <name>Le Grand Parc du Puy du Fou 9</name>
+    <name>Le Grand Parc du Puy du Fou 6 7</name>
     <desc/>
   </wpt>
   <wpt lat="46.8917381" lon="-0.9271075">
@@ -71891,17 +73716,17 @@
   </wpt>
   <wpt lat="46.8874796" lon="-0.9318223">
     <src>5339617612</src>
-    <name>Le Grand Parc du Puy du Fou 10</name>
+    <name>Le Grand Parc du Puy du Fou 6 8</name>
     <desc/>
   </wpt>
   <wpt lat="46.8864127" lon="-0.9218356">
     <src>5339617613</src>
-    <name>La Cit&#233; Nocturne</name>
+    <name>La Cit&#233; Nocturne 2</name>
     <desc/>
   </wpt>
   <wpt lat="46.8918757" lon="-0.9335552">
     <src>5339629934</src>
-    <name>Le Grand Parc du Puy du Fou 11</name>
+    <name>Le Grand Parc du Puy du Fou 6 9</name>
     <desc/>
   </wpt>
   <wpt lat="48.0831054" lon="-1.6915238">
@@ -72419,11 +74244,6 @@
     <name>2 Square de la Libert&#233;</name>
     <desc/>
   </wpt>
-  <wpt lat="44.8237047" lon="1.1628214">
-    <src>5426121912</src>
-    <name>869 Impasse des Buis</name>
-    <desc/>
-  </wpt>
   <wpt lat="47.2172601250231" lon="-1.55947580701347">
     <src>542641400</src>
     <name>3 Place de Bretagne</name>
@@ -72487,11 +74307,6 @@
   <wpt lat="45.6363188324351" lon="5.96458950523019">
     <src>54386131</src>
     <name>2070 Route du sire</name>
-    <desc/>
-  </wpt>
-  <wpt lat="44.96775" lon="4.353437">
-    <src>543ebf01fe7e436499f2fafef7988a10</src>
-    <name>Route de la Gare</name>
     <desc/>
   </wpt>
   <wpt lat="-17.5422654" lon="-149.5735311">
@@ -73231,17 +75046,17 @@
   </wpt>
   <wpt lat="46.8887954944261" lon="-0.927470424862011">
     <src>553119208</src>
-    <name>Adresse inconnue Vend&#233;e 6</name>
+    <name>Le Grand Parc du Puy du Fou 6 15</name>
     <desc/>
   </wpt>
   <wpt lat="46.889094223636" lon="-0.930675413650376">
     <src>553120822</src>
-    <name>Adresse inconnue Vend&#233;e 7</name>
+    <name>Le Grand Parc du Puy du Fou 6 16</name>
     <desc/>
   </wpt>
   <wpt lat="46.8879675" lon="-0.931369800000001">
     <src>553120823</src>
-    <name>1 la Grange 1</name>
+    <name>Le Grand Parc du Puy du Fou 6 12</name>
     <desc/>
   </wpt>
   <wpt lat="50.7070064537065" lon="3.17836759426797">
@@ -73251,7 +75066,7 @@
   </wpt>
   <wpt lat="46.8854092022379" lon="-0.927284410238877">
     <src>553131340</src>
-    <name>Adresse inconnue Vend&#233;e 8</name>
+    <name>Le Grand Parc du Puy du Fou 6 17</name>
     <desc/>
   </wpt>
   <wpt lat="46.5590425" lon="0.0459736">
@@ -73381,7 +75196,7 @@
   </wpt>
   <wpt lat="50.5701046" lon="2.1554686">
     <src>5545a5963821406fae74de7709dffa33</src>
-    <name>Dennlys parc 1</name>
+    <name>Dennlys parc 3 1</name>
     <desc/>
   </wpt>
   <wpt lat="43.7130173" lon="-1.0568802">
@@ -73607,7 +75422,7 @@
   <wpt lat="44.7262187" lon="5.0211412">
     <src>559d522d8f904872a0dc455a32555a7d</src>
     <name>Place de la Libert&#233;</name>
-    <desc>Mo-Su 08:00-20:00</desc>
+    <desc>Mo-Su 08:15-11:30, 14:00-16:00,18:15-22:15</desc>
   </wpt>
   <wpt lat="50.4525508" lon="3.5962867">
     <src>55a4a72f686143c7a9ebdb31340a29e4</src>
@@ -74064,6 +75879,11 @@
     <name>Adresse inconnue Bouches-du-Rh&#244;ne 72</name>
     <desc/>
   </wpt>
+  <wpt lat="48.0089577602401" lon="0.199659792467319">
+    <src>565703376</src>
+    <name>3 avenue de Paderborn</name>
+    <desc/>
+  </wpt>
   <wpt lat="47.4818182" lon="-2.3964552">
     <src>5657236409</src>
     <name>10 Place de l'Eglise</name>
@@ -74467,11 +76287,6 @@
   <wpt lat="48.5140103" lon="-2.6691084">
     <src>5711777829</src>
     <name>12 Place de l'Eglise</name>
-    <desc/>
-  </wpt>
-  <wpt lat="45.4537891" lon="1.5517083">
-    <src>5711956312</src>
-    <name>1620 Route de Meyrignac</name>
     <desc/>
   </wpt>
   <wpt lat="47.8263503" lon="-0.7112146">
@@ -74972,11 +76787,6 @@
   <wpt lat="46.119695081362" lon="6.01141879622511">
     <src>577852813</src>
     <name>Adresse inconnue Haute-Savoie 90</name>
-    <desc/>
-  </wpt>
-  <wpt lat="43.1194438" lon="6.3587088">
-    <src>5778c293c7c242b6b6844ccafa1160a8</src>
-    <name>Chemin de la Mer 1</name>
     <desc/>
   </wpt>
   <wpt lat="44.8248098" lon="1.1735511">
@@ -76206,7 +78016,7 @@
   </wpt>
   <wpt lat="45.266903465954" lon="-0.396958359052616">
     <src>587648268</src>
-    <name>Landes de la Taulette 2</name>
+    <name>Mysterra 2</name>
     <desc/>
   </wpt>
   <wpt lat="49.7274095" lon="0.3089771">
@@ -76272,6 +78082,11 @@
   <wpt lat="47.500771" lon="-2.380263">
     <src>5887231056</src>
     <name>83 Les Jardins de l'Estuaire 2</name>
+    <desc/>
+  </wpt>
+  <wpt lat="44.967751" lon="4.3534401">
+    <src>588747617</src>
+    <name>655 route de la gare</name>
     <desc/>
   </wpt>
   <wpt lat="46.5726126" lon="-0.7710758">
@@ -77216,7 +79031,7 @@
   </wpt>
   <wpt lat="49.1335475" lon="2.5731475">
     <src>5a4eb9d24f3847af800428bf58198f46</src>
-    <name>Parc Ast&#233;rix 3</name>
+    <name>Parc Ast&#233;rix 5 2</name>
     <desc/>
   </wpt>
   <wpt lat="48.7655572" lon="7.8515906">
@@ -77231,7 +79046,7 @@
   </wpt>
   <wpt lat="49.2268888" lon="6.1544842">
     <src>5a61723dd37941448f2a78200aa6967f</src>
-    <name>Walygator Grand Est 1</name>
+    <name>Walygator Grand Est 4 1</name>
     <desc/>
   </wpt>
   <wpt lat="45.5534831" lon="5.7434785">
@@ -77984,7 +79799,7 @@
     <name>Rue de la Fontaine</name>
     <desc/>
   </wpt>
-  <wpt lat="45.5945928" lon="4.7706782">
+  <wpt lat="45.5945799" lon="4.770413">
     <src>5e6c3608d1754658b75458bc32a90f49</src>
     <name>Avenue du 11 Novembre 1918</name>
     <desc/>
@@ -78216,7 +80031,7 @@
   </wpt>
   <wpt lat="42.6356527" lon="8.9787878">
     <src>5fdf5109df594f3eb1443fd87bd7ce21</src>
-    <name>Parc de Saleccia</name>
+    <name>Parc de Saleccia 2</name>
     <desc/>
   </wpt>
   <wpt lat="47.8129906503527" lon="-4.17501814299421">
@@ -78474,11 +80289,6 @@
     <name>4 Rue de Mondement</name>
     <desc/>
   </wpt>
-  <wpt lat="50.4643707" lon="1.5729137">
-    <src>6037360074</src>
-    <name>32 Boulevard de la Manche</name>
-    <desc/>
-  </wpt>
   <wpt lat="50.4627693" lon="1.5724922">
     <src>6037360075</src>
     <name>60 Boulevard de la Manche</name>
@@ -78486,7 +80296,7 @@
   </wpt>
   <wpt lat="46.6683214" lon="0.3652897">
     <src>6038878627</src>
-    <name>Futuroscope 8</name>
+    <name>Futuroscope 9 10</name>
     <desc/>
   </wpt>
   <wpt lat="48.7936014752647" lon="2.29304444043479">
@@ -78561,7 +80371,7 @@
   </wpt>
   <wpt lat="46.5955442" lon="1.62772">
     <src>6053420911</src>
-    <name>Adresse inconnue Indre 36</name>
+    <name>2 La Fond de Foug&#232;res</name>
     <desc/>
   </wpt>
   <wpt lat="48.759410290062" lon="2.31689164472429">
@@ -78724,7 +80534,7 @@
     <name>1 Chemin du Presbyt&#232;re</name>
     <desc/>
   </wpt>
-  <wpt lat="43.9585328" lon="6.8619847">
+  <wpt lat="43.9585181" lon="6.8619506">
     <src>608aed7dd4254ff0887b6cf401070ca8</src>
     <name>Quartier le Savet 2</name>
     <desc/>
@@ -79146,7 +80956,7 @@
   </wpt>
   <wpt lat="50.5710012" lon="2.1569215">
     <src>615398964cd74668a2b7fefe0baa4b67</src>
-    <name>Dennlys parc 2</name>
+    <name>Dennlys parc 3 2</name>
     <desc/>
   </wpt>
   <wpt lat="46.5799104" lon="0.3414667">
@@ -79682,7 +81492,7 @@
   <wpt lat="50.0630276802518" lon="1.37577206072755">
     <src>622756502</src>
     <name>2 Place Pierre S&#233;mard</name>
-    <desc>09:00-20:00</desc>
+    <desc>Mo-Su,PH 08:30-19:30</desc>
   </wpt>
   <wpt lat="45.7819861549368" lon="4.85859421585801">
     <src>62277092</src>
@@ -79919,7 +81729,7 @@
     <name>2 Rue des Iris</name>
     <desc>Mo-Su 08:00-20:00</desc>
   </wpt>
-  <wpt lat="46.9720094" lon="-1.4343702">
+  <wpt lat="46.9717568" lon="-1.4354458">
     <src>6255408427</src>
     <name>4 Place de la Mairie</name>
     <desc>Sep 21-Jun 20 07:00-19:00;Jun 21-Sep 20 07:00-21:00</desc>
@@ -80001,7 +81811,7 @@
   </wpt>
   <wpt lat="48.8633383923964" lon="2.34346056279965">
     <src>626406814</src>
-    <name>8 Rue Coquilli&#232;re</name>
+    <name>8 Rue Coquilli&#232;re 2</name>
     <desc/>
   </wpt>
   <wpt lat="45.9095831129166" lon="6.10415085572719">
@@ -80039,7 +81849,7 @@
     <name>7 Place Notre Dame des Ardilliers</name>
     <desc/>
   </wpt>
-  <wpt lat="48.8163041075613" lon="2.32029785080979">
+  <wpt lat="48.8163040977095" lon="2.32029785062175">
     <src>626844433</src>
     <name>8 Rue Victor Hugo</name>
     <desc/>
@@ -80889,6 +82699,11 @@
     <name>6 Rue de Bretagne</name>
     <desc/>
   </wpt>
+  <wpt lat="48.8465185" lon="2.3169458">
+    <src>6346928794</src>
+    <name>6 Boulevard du Montparnasse</name>
+    <desc/>
+  </wpt>
   <wpt lat="45.5427672" lon="0.978533">
     <src>6347063840</src>
     <name>10 Rue Dolet Blanchou</name>
@@ -81074,7 +82889,7 @@
     <name>39 Rue richelieu</name>
     <desc/>
   </wpt>
-  <wpt lat="47.4758661642739" lon="-3.09260758060194">
+  <wpt lat="47.4758194159647" lon="-3.09271667901891">
     <src>636363045</src>
     <name>7 Boulevard de la Teignouse</name>
     <desc/>
@@ -81701,7 +83516,7 @@
   </wpt>
   <wpt lat="47.5004407" lon="-0.5686225">
     <src>6413921811</src>
-    <name>Terra Botanica 5</name>
+    <name>Terra Botanica 9 5</name>
     <desc/>
   </wpt>
   <wpt lat="44.3470953" lon="-1.1038191">
@@ -82384,9 +84199,19 @@
     <name>30 Boulevard de la Plage</name>
     <desc/>
   </wpt>
+  <wpt lat="49.873309759939" lon="4.60722482001691">
+    <src>648861859</src>
+    <name>2 Route D&#233;partementale 40e 1</name>
+    <desc/>
+  </wpt>
   <wpt lat="49.8724133566112" lon="4.60268303779892">
     <src>648861861</src>
     <name>2bis Route D&#233;partementale 40e</name>
+    <desc/>
+  </wpt>
+  <wpt lat="49.8734760762791" lon="4.60539773399473">
+    <src>648861943</src>
+    <name>2 Route D&#233;partementale 40e 2</name>
     <desc/>
   </wpt>
   <wpt lat="45.690343933609" lon="-0.342451520826613">
@@ -82636,7 +84461,7 @@
   </wpt>
   <wpt lat="44.194876" lon="-1.291">
     <src>6506480274</src>
-    <name>Adresse inconnue Landes 91</name>
+    <name>660 Route de Lespecier</name>
     <desc/>
   </wpt>
   <wpt lat="44.0932638" lon="-1.3190214">
@@ -82887,11 +84712,6 @@
   <wpt lat="46.6676886" lon="-0.7903895">
     <src>6533250011</src>
     <name>7 Place de la Mairie</name>
-    <desc/>
-  </wpt>
-  <wpt lat="46.6036622" lon="-1.7579131">
-    <src>6533324342</src>
-    <name>37 Rue Georges Clemenceau</name>
     <desc/>
   </wpt>
   <wpt lat="45.6922402351037" lon="4.78627856464703">
@@ -83254,7 +85074,7 @@
     <name>13 Route de Port la For&#234;t</name>
     <desc/>
   </wpt>
-  <wpt lat="-21.3552264" lon="165.1688796">
+  <wpt lat="-21.3556955" lon="165.1690535">
     <src>6565227185</src>
     <name>Adresse inconnue 96</name>
     <desc/>
@@ -83681,7 +85501,7 @@
   </wpt>
   <wpt lat="44.9128597" lon="0.9326739">
     <src>6604844392</src>
-    <name>Parc Le Bournat 2</name>
+    <name>Parc Le Bournat 3 4</name>
     <desc/>
   </wpt>
   <wpt lat="47.7388995" lon="-2.5814666">
@@ -83689,7 +85509,7 @@
     <name>6 Allee Anne Cazeneuve</name>
     <desc/>
   </wpt>
-  <wpt lat="45.4338478" lon="4.4161889">
+  <wpt lat="45.4339241" lon="4.4161747">
     <src>6607f96c32f542fbbb38bd9ca32c81da</src>
     <name>Rue Docteur Zamenhof</name>
     <desc/>
@@ -83714,7 +85534,7 @@
     <name>45bis Avenue du P&#232;re Evariste Huc</name>
     <desc/>
   </wpt>
-  <wpt lat="44.2365345" lon="1.7734593">
+  <wpt lat="44.2366049" lon="1.773474">
     <src>6610363188</src>
     <name>Place de la Bascule</name>
     <desc/>
@@ -83841,7 +85661,7 @@
   </wpt>
   <wpt lat="45.8738484" lon="6.7794636">
     <src>66239927b6954bfe9ddd4a2e66c2c86b</src>
-    <name>Les Houches (Chamonix)</name>
+    <name>1 La Chalette 2</name>
     <desc/>
   </wpt>
   <wpt lat="48.6427275" lon="1.8255717">
@@ -84189,7 +86009,7 @@
     <name>11bis Place de la Flette</name>
     <desc/>
   </wpt>
-  <wpt lat="47.4989544488721" lon="-3.12006499476943">
+  <wpt lat="47.4989500488721" lon="-3.12007139476943">
     <src>66436043</src>
     <name>Parking du Vahidy</name>
     <desc>Apr-May Sa,Su 00:00-24:00; Jun-Sep 00:00-24:00</desc>
@@ -84459,6 +86279,11 @@
     <name>3bis Place de la Liberte</name>
     <desc/>
   </wpt>
+  <wpt lat="44.0929621547554" lon="3.08036780885094">
+    <src>666423988</src>
+    <name>4 Quai Sully Challies</name>
+    <desc/>
+  </wpt>
   <wpt lat="44.0724346244319" lon="3.1895306570363">
     <src>666424068</src>
     <name>Adresse inconnue Aveyron 17</name>
@@ -84701,7 +86526,7 @@
   </wpt>
   <wpt lat="46.8875785665642" lon="-0.928620779611226">
     <src>66846693</src>
-    <name>Adresse inconnue Vend&#233;e 10</name>
+    <name>Le Grand Parc du Puy du Fou 6 18</name>
     <desc/>
   </wpt>
   <wpt lat="48.0139349" lon="-4.4862722">
@@ -84984,11 +86809,6 @@
     <name>Aven Armand</name>
     <desc/>
   </wpt>
-  <wpt lat="46.664404" lon="5.8186047">
-    <src>66cf7cfef7954842a137ff1805d0c7ae</src>
-    <name>Domaine de Chalain 2</name>
-    <desc/>
-  </wpt>
   <wpt lat="45.6506126" lon="2.7311677">
     <src>66d4dc1395774d2580f1923c1b4f4ebb</src>
     <name>Rue du 19 Mars 1962</name>
@@ -85064,7 +86884,7 @@
     <name>Rue de la Mairie</name>
     <desc/>
   </wpt>
-  <wpt lat="45.7372025" lon="4.8683788">
+  <wpt lat="45.7371833" lon="4.8683838">
     <src>6702f66a959244d49ad5f632e97faf4e</src>
     <name>Place du 11 Novembre 1918</name>
     <desc>Mo-Su 06:00-02:00</desc>
@@ -85937,11 +87757,6 @@
   <wpt lat="48.6135638" lon="-2.2442418">
     <src>6777082442</src>
     <name>40 Avenue de Pen Guen</name>
-    <desc/>
-  </wpt>
-  <wpt lat="48.8465166067989" lon="2.316946244179">
-    <src>677842083</src>
-    <name>6 Boulevard du Montparnasse</name>
     <desc/>
   </wpt>
   <wpt lat="48.07457341001" lon="-0.761734286206266">
@@ -87409,11 +89224,6 @@
     <name>Rue Marguerite de Bourbon</name>
     <desc/>
   </wpt>
-  <wpt lat="42.3040198" lon="9.1581412">
-    <src>695b9b6d75ba4d438ce662c756f4fd16</src>
-    <name>Place de la Gare 6</name>
-    <desc/>
-  </wpt>
   <wpt lat="45.2265058" lon="5.8031827">
     <src>695d60ab7b9f4a9cacc21b887149523b</src>
     <name>Place Michel Geindre</name>
@@ -87517,46 +89327,6 @@
   <wpt lat="43.4200424009114" lon="6.74045714580437">
     <src>69762011</src>
     <name>609 Rue des BATTERIES</name>
-    <desc/>
-  </wpt>
-  <wpt lat="48.6656213" lon="6.1578963">
-    <src>6977296369</src>
-    <name>Rue du Jardin Botanique 1</name>
-    <desc/>
-  </wpt>
-  <wpt lat="48.6657602" lon="6.158311">
-    <src>6977296373</src>
-    <name>Rue du Jardin Botanique 2</name>
-    <desc/>
-  </wpt>
-  <wpt lat="48.6657421" lon="6.1580657">
-    <src>6977296382</src>
-    <name>Rue du Jardin Botanique 3</name>
-    <desc/>
-  </wpt>
-  <wpt lat="48.6656068" lon="6.1578502">
-    <src>6977296383</src>
-    <name>Rue du Jardin Botanique 4</name>
-    <desc/>
-  </wpt>
-  <wpt lat="48.6658075" lon="6.1585191">
-    <src>6977296384</src>
-    <name>Rue du Jardin Botanique 5</name>
-    <desc/>
-  </wpt>
-  <wpt lat="48.665662" lon="6.1572044">
-    <src>6977307986</src>
-    <name>Rue du Jardin Botanique 6</name>
-    <desc/>
-  </wpt>
-  <wpt lat="48.6657375" lon="6.1580427">
-    <src>6977307988</src>
-    <name>Rue du Jardin Botanique 7</name>
-    <desc/>
-  </wpt>
-  <wpt lat="48.6656022" lon="6.1572136">
-    <src>6977307990</src>
-    <name>Rue du Jardin Botanique 8</name>
     <desc/>
   </wpt>
   <wpt lat="4.85417291636661" lon="-52.5301411365828">
@@ -87739,7 +89509,7 @@
     <name>Square Lamartine</name>
     <desc/>
   </wpt>
-  <wpt lat="44.9398679" lon="3.9953976">
+  <wpt lat="44.9399682" lon="3.9952696">
     <src>69d465c5625446c38b77a8fd931c13c2</src>
     <name>Rue Vital Erailh</name>
     <desc/>
@@ -88909,7 +90679,7 @@
     <name>167 None 1</name>
     <desc/>
   </wpt>
-  <wpt lat="46.5175551924301" lon="2.58094128488002">
+  <wpt lat="46.5175587822514" lon="2.58093878416228">
     <src>70121936</src>
     <name>Adresse inconnue Allier 10</name>
     <desc/>
@@ -89149,7 +90919,7 @@
     <name>20 Chemin Harretxea</name>
     <desc/>
   </wpt>
-  <wpt lat="45.8220715963844" lon="1.23001149022623">
+  <wpt lat="45.8220579963844" lon="1.23000079022623">
     <src>70420600</src>
     <name>66 rue des Places</name>
     <desc/>
@@ -89611,7 +91381,7 @@
   </wpt>
   <wpt lat="47.7428391357508" lon="-3.08962845198974">
     <src>708951259</src>
-    <name>1 Poney club</name>
+    <name>Land aux Lutins</name>
     <desc/>
   </wpt>
   <wpt lat="43.9220062" lon="4.8655587">
@@ -89686,7 +91456,7 @@
   </wpt>
   <wpt lat="47.6993876" lon="1.9525316">
     <src>7095456094</src>
-    <name>Adresse inconnue Loiret 108</name>
+    <name>1510 Route de Lamotte Beuvron</name>
     <desc/>
   </wpt>
   <wpt lat="46.1316343" lon="1.182932">
@@ -89907,11 +91677,6 @@
   <wpt lat="47.6924562156334" lon="-3.35365446196959">
     <src>71164333</src>
     <name>25 Avenue des Deux Mers</name>
-    <desc/>
-  </wpt>
-  <wpt lat="49.6693455673972" lon="-1.26372480616906">
-    <src>711657901</src>
-    <name>20 Rue Alfred Rossel</name>
     <desc/>
   </wpt>
   <wpt lat="45.5794381" lon="6.9039078">
@@ -90321,7 +92086,7 @@
   </wpt>
   <wpt lat="46.8122789688809" lon="4.41195224367833">
     <src>717610676</src>
-    <name>68 Le Gros Chaillot 2</name>
+    <name>Parc touristique des Combes 2 2</name>
     <desc/>
   </wpt>
   <wpt lat="43.7790979" lon="5.0387796">
@@ -90954,21 +92719,6 @@
     <name>Adresse inconnue Charente-Maritime 30</name>
     <desc/>
   </wpt>
-  <wpt lat="48.6655338" lon="6.1575694">
-    <src>7249950861</src>
-    <name>Rue du Jardin Botanique 9</name>
-    <desc/>
-  </wpt>
-  <wpt lat="48.6655236" lon="6.1575292">
-    <src>7249950862</src>
-    <name>Rue du Jardin Botanique 10</name>
-    <desc/>
-  </wpt>
-  <wpt lat="48.6655112" lon="6.1574923">
-    <src>7249950863</src>
-    <name>Rue du Jardin Botanique 11</name>
-    <desc/>
-  </wpt>
   <wpt lat="46.7088147" lon="5.6474362">
     <src>724cbae1b124448a94585c863de28cda</src>
     <name>Place Guillaume de Poupet</name>
@@ -91114,6 +92864,21 @@
     <name>Chemin de la Garelle 2</name>
     <desc/>
   </wpt>
+  <wpt lat="44.6626488847047" lon="6.77922370849695">
+    <src>72649821</src>
+    <name>510 Route de la Vall&#233;e du M&#233;l&#233;zet 1</name>
+    <desc/>
+  </wpt>
+  <wpt lat="44.6611322065453" lon="6.78104989870836">
+    <src>72649829</src>
+    <name>510 Route de la Vall&#233;e du M&#233;l&#233;zet 2</name>
+    <desc/>
+  </wpt>
+  <wpt lat="44.6620827179789" lon="6.78021811464694">
+    <src>72650115</src>
+    <name>510 Route de la Vall&#233;e du M&#233;l&#233;zet 3</name>
+    <desc/>
+  </wpt>
   <wpt lat="46.7016002" lon="0.3658781">
     <src>7265576025</src>
     <name>40 Rue de la Roche</name>
@@ -91132,6 +92897,11 @@
   <wpt lat="48.0011034182173" lon="3.73092422919203">
     <src>72689101</src>
     <name>2 Rue de la Guimbarde</name>
+    <desc/>
+  </wpt>
+  <wpt lat="49.0802220973328" lon="-0.66230427229603">
+    <src>72706807</src>
+    <name>2 Rue Saint-Martin</name>
     <desc/>
   </wpt>
   <wpt lat="43.6174213" lon="6.7643465">
@@ -91481,7 +93251,7 @@
   </wpt>
   <wpt lat="49.2286772" lon="6.154232">
     <src>730b2f8bea274e50ae80b1e090a189e0</src>
-    <name>Walygator Grand Est</name>
+    <name>Walygator Grand Est 4</name>
     <desc/>
   </wpt>
   <wpt lat="45.9188877" lon="4.5284127">
@@ -91814,7 +93584,7 @@
     <name>16bis Avenue de Suzac 4</name>
     <desc/>
   </wpt>
-  <wpt lat="44.9014984" lon="6.64665735">
+  <wpt lat="44.9014524973625" lon="6.6466438732351">
     <src>73569132</src>
     <name>1 R&#233;sidence le Champ de Mars</name>
     <desc>24/7</desc>
@@ -92064,11 +93834,6 @@
     <name>3bis Place de Verdun</name>
     <desc/>
   </wpt>
-  <wpt lat="44.843106" lon="-0.5455302">
-    <src>7396372043</src>
-    <name>33 Rue Edouard Branly 2</name>
-    <desc/>
-  </wpt>
   <wpt lat="47.8107909805707" lon="-2.38601012204007">
     <src>739640118</src>
     <name>1 Rue des Augustines</name>
@@ -92172,6 +93937,11 @@
   <wpt lat="42.46952935" lon="2.08194995">
     <src>740536516</src>
     <name>44 Prada de Dalt</name>
+    <desc/>
+  </wpt>
+  <wpt lat="44.658454545393" lon="6.60424278106018">
+    <src>74071380</src>
+    <name>180 Chemin des Bains</name>
     <desc/>
   </wpt>
   <wpt lat="46.3893584783993" lon="-0.686633351062263">
@@ -92566,7 +94336,7 @@
   </wpt>
   <wpt lat="46.9973478005664" lon="-0.349402494339623">
     <src>74733092</src>
-    <name>1 Lieu Dit Vieux Pont</name>
+    <name>Parc de La Vall&#233;e 2</name>
     <desc/>
   </wpt>
   <wpt lat="46.1982986" lon="1.2979258">
@@ -92837,11 +94607,6 @@
   <wpt lat="47.1908975" lon="-1.5297221">
     <src>7523858511</src>
     <name>24 Rue des Gobelets</name>
-    <desc/>
-  </wpt>
-  <wpt lat="47.1891001" lon="-1.5515515">
-    <src>7523858512</src>
-    <name>56 Avenue de la Lib&#233;ration</name>
     <desc/>
   </wpt>
   <wpt lat="47.1835502" lon="-1.552627">
@@ -93704,7 +95469,7 @@
     <name>16 All&#233;e des Charmes</name>
     <desc/>
   </wpt>
-  <wpt lat="49.4408005168997" lon="1.07301638666368">
+  <wpt lat="49.4407971272239" lon="1.07301554882101">
     <src>761468161</src>
     <name>5 Quai Jean de Bethencourt</name>
     <desc/>
@@ -93889,7 +95654,7 @@
     <name>2 Rue de la Mairie</name>
     <desc/>
   </wpt>
-  <wpt lat="49.6693468" lon="-1.2637191">
+  <wpt lat="49.6693467" lon="-1.2637246">
     <src>7644287283</src>
     <name>20 Rue Alfred Rossel 2</name>
     <desc/>
@@ -94001,7 +95766,7 @@
   </wpt>
   <wpt lat="46.8861106984701" lon="-0.929761767660981">
     <src>76659172</src>
-    <name>1 la Grange 2</name>
+    <name>Le Grand Parc du Puy du Fou 6 13</name>
     <desc/>
   </wpt>
   <wpt lat="46.89365455" lon="-0.9303864">
@@ -94179,7 +95944,7 @@
     <name>Place General de Gaulle 2</name>
     <desc/>
   </wpt>
-  <wpt lat="45.872022" lon="4.5076346">
+  <wpt lat="45.8722251" lon="4.5076338">
     <src>76a6705e03814ba69ffcd29587f1fe88</src>
     <name>Route de la Savoie</name>
     <desc/>
@@ -94266,7 +96031,7 @@
   </wpt>
   <wpt lat="45.6200141697483" lon="5.56990168066698">
     <src>770359045</src>
-    <name>1380 Route de la Corneille 4</name>
+    <name>Walibi Rh&#244;ne-Alpes 3 5</name>
     <desc/>
   </wpt>
   <wpt lat="46.0874146699626" lon="-0.106423064991468">
@@ -95516,7 +97281,7 @@
   </wpt>
   <wpt lat="46.1816278" lon="4.7509006">
     <src>78236bd5e70a49aabb8a61c2746f6a98</src>
-    <name>Touroparc</name>
+    <name>Touroparc 2</name>
     <desc/>
   </wpt>
   <wpt lat="47.4252611" lon="2.0513326">
@@ -95741,7 +97506,7 @@
   </wpt>
   <wpt lat="46.8879818" lon="-0.9296387">
     <src>7844030631</src>
-    <name>Le Grand Parc du Puy du Fou 18</name>
+    <name>Le Grand Parc du Puy du Fou 6 10</name>
     <desc/>
   </wpt>
   <wpt lat="48.4014157" lon="-1.8968897">
@@ -96409,11 +98174,6 @@
     <name>2 Rue de l&#8217;Orme a Moineaux</name>
     <desc/>
   </wpt>
-  <wpt lat="44.3797956" lon="3.938967">
-    <src>79147d5a565a4964b4d5e009217475a5</src>
-    <name>La Bise-Haute</name>
-    <desc/>
-  </wpt>
   <wpt lat="48.8156400563667" lon="2.37414246457829">
     <src>79148341</src>
     <name>23 Rue Jean-Marie Poulmarch</name>
@@ -96867,6 +98627,11 @@
   <wpt lat="44.2002211" lon="0.6218352">
     <src>798139416</src>
     <name>27 Rue du Jardin Public</name>
+    <desc/>
+  </wpt>
+  <wpt lat="48.2352100018808" lon="-3.31909948213725">
+    <src>798139872</src>
+    <name>3 Place du Docteur Raoult</name>
     <desc/>
   </wpt>
   <wpt lat="46.7202955" lon="-0.8040042">
@@ -97386,7 +99151,7 @@
   </wpt>
   <wpt lat="49.2264351" lon="6.1555141">
     <src>7c5465bf8a834cb69840b01d3c223272</src>
-    <name>Walygator Grand Est 2</name>
+    <name>Walygator Grand Est 4 2</name>
     <desc/>
   </wpt>
   <wpt lat="49.1102563" lon="7.0708202">
@@ -97406,7 +99171,7 @@
   </wpt>
   <wpt lat="48.8682716" lon="2.7799483">
     <src>7c6fde543f7745398f1b4fe3e68f57a1</src>
-    <name>Walt Disney Studios Park 5</name>
+    <name>Walt Disney Studios Park 6 6</name>
     <desc/>
   </wpt>
   <wpt lat="46.8487264" lon="5.5745432">
@@ -98724,7 +100489,7 @@
     <name>Place de la Liberte</name>
     <desc/>
   </wpt>
-  <wpt lat="49.1973708" lon="6.6918954">
+  <wpt lat="49.1971692" lon="6.6913581">
     <src>808d631d76c041cea6e0ddce138ed3e7</src>
     <name>Rue de la Gare 3</name>
     <desc/>
@@ -98811,7 +100576,7 @@
   </wpt>
   <wpt lat="49.4726838" lon="3.5568744">
     <src>80d59a60fe74454589e5d7e8013949ec</src>
-    <name>Axoplage 1</name>
+    <name>Axoplage 3 1</name>
     <desc/>
   </wpt>
   <wpt lat="43.3004223" lon="3.534592">
@@ -99156,7 +100921,7 @@
   </wpt>
   <wpt lat="46.671795741444" lon="0.369724419001686">
     <src>815003623</src>
-    <name>13 Rue des Champs de Brain</name>
+    <name>Futuroscope 9</name>
     <desc/>
   </wpt>
   <wpt lat="48.8272158" lon="-3.4785787">
@@ -99741,7 +101506,7 @@
   </wpt>
   <wpt lat="44.9135865132502" lon="0.931018886333439">
     <src>82406863</src>
-    <name>201 All&#233;e Paul-Jean Souriau</name>
+    <name>Parc Le Bournat 3 2</name>
     <desc/>
   </wpt>
   <wpt lat="47.8223513855099" lon="-1.24395367137522">
@@ -100154,7 +101919,7 @@
     <name>67 Rue Jeanne d'Arc</name>
     <desc/>
   </wpt>
-  <wpt lat="47.4787865" lon="-3.1170889">
+  <wpt lat="47.4788083" lon="-3.1171436">
     <src>8293799598</src>
     <name>21 Boulevard Chanard</name>
     <desc>Apr-May Sa,Su 00:00-24:00; Jun-Sep 00:00-24:00</desc>
@@ -100291,7 +102056,7 @@
   </wpt>
   <wpt lat="49.4725853" lon="3.5567691">
     <src>82fd433a76214b94b1c3514ec98747c7</src>
-    <name>Axoplage 2</name>
+    <name>Axoplage 3 2</name>
     <desc/>
   </wpt>
   <wpt lat="48.35315" lon="-0.0811602">
@@ -100326,12 +102091,12 @@
   </wpt>
   <wpt lat="48.8791219220274" lon="2.26343293413519">
     <src>83059125</src>
-    <name>96 Boulevard Maurice Barr&#233;s</name>
+    <name>Jardin d'Acclimatation 2 4</name>
     <desc/>
   </wpt>
   <wpt lat="48.878627251435" lon="2.26712638295149">
     <src>83059137</src>
-    <name>1bis Sq du Capitaine Claude Barres</name>
+    <name>Jardin d'Acclimatation 2 5</name>
     <desc/>
   </wpt>
   <wpt lat="42.8583013" lon="-0.0050766">
@@ -100384,7 +102149,7 @@
     <name>30 Rue de la Huchette</name>
     <desc/>
   </wpt>
-  <wpt lat="43.5994767" lon="-1.4725968">
+  <wpt lat="43.5994883" lon="-1.4726466">
     <src>8314685546</src>
     <name>901 La Dune 1</name>
     <desc/>
@@ -101951,7 +103716,7 @@
   </wpt>
   <wpt lat="46.6677809713356" lon="0.367764706529884">
     <src>85071457</src>
-    <name>Adresse inconnue Vienne 27</name>
+    <name>Futuropolis 2 2</name>
     <desc/>
   </wpt>
   <wpt lat="44.2408873" lon="-1.1212073">
@@ -102299,7 +104064,7 @@
     <name>16 Rue du Poirier</name>
     <desc/>
   </wpt>
-  <wpt lat="44.8438209" lon="-0.6642243">
+  <wpt lat="44.8438287" lon="-0.6641944">
     <src>8544849103</src>
     <name>14 Rue Charles Despiau</name>
     <desc/>
@@ -103644,7 +105409,7 @@
     <name>1 Rue Antonin Cloche</name>
     <desc/>
   </wpt>
-  <wpt lat="45.1112203" lon="5.278561">
+  <wpt lat="45.1112033" lon="5.2785704">
     <src>8676925826d040b6a690712547696989</src>
     <name>Rue de l'Ancien Pont</name>
     <desc/>
@@ -104049,7 +105814,7 @@
     <name>8 Rue Coppinger</name>
     <desc/>
   </wpt>
-  <wpt lat="42.9897536" lon="1.6140349">
+  <wpt lat="42.9897703" lon="1.614047">
     <src>8733807544</src>
     <name>17 Route Nationale 20</name>
     <desc/>
@@ -104141,7 +105906,7 @@
   </wpt>
   <wpt lat="50.5710594222269" lon="2.15587670765142">
     <src>874640466</src>
-    <name>Pres de l'Abbaye</name>
+    <name>Dennlys parc 3</name>
     <desc/>
   </wpt>
   <wpt lat="48.5961293" lon="-4.1133537">
@@ -104699,7 +106464,7 @@
     <name>50 Avenue de la Plage</name>
     <desc/>
   </wpt>
-  <wpt lat="46.0281573" lon="0.1999149">
+  <wpt lat="46.0286417" lon="0.1998842">
     <src>8813920985</src>
     <name>3 Rue de la Chaine</name>
     <desc/>
@@ -105839,11 +107604,6 @@
     <name>219 Hameau du Plan</name>
     <desc/>
   </wpt>
-  <wpt lat="46.8704225" lon="5.5835891">
-    <src>8951d7a91bfa4dd9bb95d1a7632414fd</src>
-    <name>Autoroute A39 2</name>
-    <desc/>
-  </wpt>
   <wpt lat="45.8181068" lon="5.4290664">
     <src>8951f5e10f754ca69bc75494eea66e88</src>
     <name>Chemin du Point Vert 3</name>
@@ -106074,11 +107834,6 @@
     <name>4bis Place de l'Eglise</name>
     <desc/>
   </wpt>
-  <wpt lat="16.25213" lon="-61.5905104">
-    <src>8977865578</src>
-    <name>303 Centre Commercial Destrellan 1</name>
-    <desc/>
-  </wpt>
   <wpt lat="44.841522" lon="-0.58059">
     <src>8978017812</src>
     <name>43 Place Gambetta</name>
@@ -106302,6 +108057,11 @@
   <wpt lat="45.4398041" lon="4.3875783">
     <src>8995a5e2512c4d9db5b85d419f95990b</src>
     <name>Rue G&#233;rentet 2</name>
+    <desc/>
+  </wpt>
+  <wpt lat="44.7612301" lon="5.1536274">
+    <src>8998162362</src>
+    <name>22 route de dournage</name>
     <desc/>
   </wpt>
   <wpt lat="47.8059718" lon="-3.833275">
@@ -106869,7 +108629,7 @@
     <name>Place du Pilon</name>
     <desc/>
   </wpt>
-  <wpt lat="45.8788589" lon="6.589149">
+  <wpt lat="45.8788514" lon="6.5891557">
     <src>8cc13f0685524cb785105462e49f9d1f</src>
     <name>Les Portes du Mont-Blanc 2</name>
     <desc/>
@@ -106976,7 +108736,7 @@
   </wpt>
   <wpt lat="48.8783887" lon="2.2690382">
     <src>8d53e37358164beb9da1984ec4b1e031</src>
-    <name>Jardin d'Acclimatation 3</name>
+    <name>Jardin d'Acclimatation 2 1</name>
     <desc/>
   </wpt>
   <wpt lat="48.6883837" lon="5.3241406">
@@ -107326,7 +109086,7 @@
   </wpt>
   <wpt lat="48.9140251" lon="7.7528486">
     <src>8f14dc7c8189404da68d245ecb370398</src>
-    <name>Didi'land</name>
+    <name>Didi'land 2</name>
     <desc/>
   </wpt>
   <wpt lat="43.7688168" lon="7.4914861">
@@ -108016,7 +109776,7 @@
   </wpt>
   <wpt lat="47.5023781" lon="-0.5713343">
     <src>9045720981</src>
-    <name>Terra Botanica 6</name>
+    <name>Terra Botanica 9 6</name>
     <desc/>
   </wpt>
   <wpt lat="48.5445179620269" lon="-1.75019149203338">
@@ -108321,7 +110081,7 @@
   </wpt>
   <wpt lat="43.08202885" lon="6.14082325">
     <src>907169157</src>
-    <name>1255 Route des Marais</name>
+    <name>Magic World 2</name>
     <desc/>
   </wpt>
   <wpt lat="47.2167634720969" lon="-1.97618896073489">
@@ -108639,11 +110399,6 @@
     <name>Mont&#233;e du Pav&#233; 1</name>
     <desc/>
   </wpt>
-  <wpt lat="43.1167151" lon="6.3579023">
-    <src>90eeadf84e714f57b1fb81c95c0c1910</src>
-    <name>Rue de Coty Plage 2</name>
-    <desc/>
-  </wpt>
   <wpt lat="45.7718983" lon="2.984984">
     <src>90f0d591825d4e198332ed0210d82c00</src>
     <name>Chemin du Couleyras</name>
@@ -108931,7 +110686,7 @@
   </wpt>
   <wpt lat="49.5775485" lon="-1.2724777">
     <src>9121983259</src>
-    <name>Adresse inconnue Manche 11</name>
+    <name>1 La Hougue</name>
     <desc/>
   </wpt>
   <wpt lat="45.3092631" lon="0.8192305">
@@ -108956,12 +110711,12 @@
   </wpt>
   <wpt lat="47.5017941" lon="-0.5675041">
     <src>9124293711</src>
-    <name>Terra Botanica 7</name>
+    <name>Terra Botanica 9 7</name>
     <desc/>
   </wpt>
   <wpt lat="47.5018233" lon="-0.567449">
     <src>9124293712</src>
-    <name>Terra Botanica 8</name>
+    <name>Terra Botanica 9 8</name>
     <desc/>
   </wpt>
   <wpt lat="45.4140026" lon="0.920574">
@@ -109326,7 +111081,7 @@
   </wpt>
   <wpt lat="45.2928732969966" lon="5.67567490013923">
     <src>917125142</src>
-    <name>4581 Route de Chalais</name>
+    <name>4581 Route de Chalais 2</name>
     <desc/>
   </wpt>
   <wpt lat="49.4575271" lon="1.0462629">
@@ -109616,7 +111371,7 @@
   </wpt>
   <wpt lat="46.2279008" lon="0.291254">
     <src>9205564634</src>
-    <name>Labyrinthe V&#233;g&#233;tal</name>
+    <name>Labyrinthe V&#233;g&#233;tal 2</name>
     <desc/>
   </wpt>
   <wpt lat="43.5634869" lon="5.0718266">
@@ -109729,7 +111484,7 @@
     <name>Boulevard de la Republique 1</name>
     <desc>24/7</desc>
   </wpt>
-  <wpt lat="44.5823978" lon="6.083">
+  <wpt lat="44.5824058" lon="6.0830551">
     <src>9211989650</src>
     <name>13 Chemin des Paons</name>
     <desc>24/7</desc>
@@ -109891,7 +111646,7 @@
   </wpt>
   <wpt lat="44.0208278" lon="4.9699229">
     <src>9221865675</src>
-    <name>Parc Spirou</name>
+    <name>Parc Spirou 2</name>
     <desc/>
   </wpt>
   <wpt lat="43.1270113" lon="5.9255455">
@@ -110366,7 +112121,7 @@
   </wpt>
   <wpt lat="43.59945185" lon="-1.47169305">
     <src>925931547</src>
-    <name>901 La Dune</name>
+    <name>901 La Dune 2</name>
     <desc/>
   </wpt>
   <wpt lat="48.2804517" lon="0.0227445">
@@ -110602,11 +112357,6 @@
   <wpt lat="48.7880781" lon="-3.2311225">
     <src>928045157</src>
     <name>3 Boulevard Anatole le Braz</name>
-    <desc/>
-  </wpt>
-  <wpt lat="48.7882564" lon="-3.2303824">
-    <src>928045171</src>
-    <name>5 Rue Ernest Renan</name>
     <desc/>
   </wpt>
   <wpt lat="45.9416104560726" lon="-1.3703273206869">
@@ -110946,7 +112696,7 @@
   </wpt>
   <wpt lat="44.3311142" lon="2.5925296">
     <src>9310915522</src>
-    <name>Adresse inconnue Aveyron 132</name>
+    <name>155 Chemin de Combelles</name>
     <desc/>
   </wpt>
   <wpt lat="47.9004915" lon="0.6310698">
@@ -111341,7 +113091,7 @@
   </wpt>
   <wpt lat="45.8008664" lon="6.7231352">
     <src>934686dc8a4d48f1bd1e58696eebf29f</src>
-    <name>Parc de loisirs du Pontet 1</name>
+    <name>Parc de loisirs du Pontet 2 1</name>
     <desc/>
   </wpt>
   <wpt lat="45.4170176" lon="0.9218562">
@@ -111507,11 +113257,6 @@
   <wpt lat="44.9121775" lon="4.4652486">
     <src>9358346968</src>
     <name>315 Fran&#231;on</name>
-    <desc/>
-  </wpt>
-  <wpt lat="48.8379446" lon="2.3511937">
-    <src>9358384418</src>
-    <name>Avenue des Gobelins 1</name>
     <desc/>
   </wpt>
   <wpt lat="47.2402224" lon="6.0190121">
@@ -112466,7 +114211,7 @@
   </wpt>
   <wpt lat="43.2681914" lon="5.728965">
     <src>9433580039</src>
-    <name>OK Corral 3</name>
+    <name>OK Corral</name>
     <desc/>
   </wpt>
   <wpt lat="47.0361377" lon="-1.1845199">
@@ -112512,11 +114257,6 @@
   <wpt lat="47.9204148104707" lon="-4.32329828019324">
     <src>94386294</src>
     <name>9 Rue de l&#8217;Eglise</name>
-    <desc/>
-  </wpt>
-  <wpt lat="43.1197564" lon="6.3573362">
-    <src>9438d72b7a2748b59efdfbcebf124833</src>
-    <name>Chemin de la Mer 2</name>
     <desc/>
   </wpt>
   <wpt lat="47.4124013" lon="-0.8651603">
@@ -113024,6 +114764,11 @@
     <name>108 Rue du Phare</name>
     <desc/>
   </wpt>
+  <wpt lat="45.5266725" lon="3.1295914">
+    <src>9494857378</src>
+    <name>2 Calade de Crestet</name>
+    <desc/>
+  </wpt>
   <wpt lat="47.8702898387513" lon="0.33305340444152">
     <src>94951521</src>
     <name>8 Rue Victor Hugo</name>
@@ -113229,7 +114974,7 @@
     <name>Place du 19 Mars</name>
     <desc/>
   </wpt>
-  <wpt lat="45.6542749" lon="4.9064279">
+  <wpt lat="45.6542679" lon="4.9065133">
     <src>9510504911</src>
     <name>201 Route de Marennes</name>
     <desc/>
@@ -113459,11 +115204,6 @@
     <name>93 Boulevard Remi Sempe</name>
     <desc/>
   </wpt>
-  <wpt lat="49.2430038" lon="-1.653625">
-    <src>9527030451</src>
-    <name>48 Chemin Pouillat</name>
-    <desc/>
-  </wpt>
   <wpt lat="45.0013739690594" lon="4.87280799597001">
     <src>95270901</src>
     <name>2 Rue du Vieux Pont</name>
@@ -113629,9 +115369,9 @@
     <name>Avenue L&#233;on Blum</name>
     <desc/>
   </wpt>
-  <wpt lat="48.8449633" lon="2.3804298">
+  <wpt lat="48.8449696" lon="2.380358">
     <src>9542910717</src>
-    <name>111 Avenue Daumesnil</name>
+    <name>111 Avenue Daumesnil 2</name>
     <desc/>
   </wpt>
   <wpt lat="45.748556" lon="-0.6178696">
@@ -114087,6 +115827,11 @@
   <wpt lat="45.0826799" lon="2.750041">
     <src>9573ca64cd7248d6b23d92abfab52c0f</src>
     <name>Rue du T&#233;ton de V&#233;nus 1</name>
+    <desc/>
+  </wpt>
+  <wpt lat="48.134930205492" lon="-1.62142633834195">
+    <src>957423840</src>
+    <name>1137a Avenue des Champs Blancs</name>
     <desc/>
   </wpt>
   <wpt lat="48.7862334" lon="2.2390778">
@@ -115691,7 +117436,7 @@
   </wpt>
   <wpt lat="48.0665975712098" lon="3.1394526448574">
     <src>970698766</src>
-    <name>157 Lieu Dit le Petit Launay</name>
+    <name>Chapi Parc 2</name>
     <desc/>
   </wpt>
   <wpt lat="43.2488202" lon="3.285082">
@@ -116109,6 +117854,11 @@
     <name>18 Passage de l'Outa</name>
     <desc/>
   </wpt>
+  <wpt lat="45.9145061698527" lon="6.84764732515607">
+    <src>97319284</src>
+    <name>1142 Route des Gaillands</name>
+    <desc/>
+  </wpt>
   <wpt lat="45.9016966904538" lon="6.83623992399249">
     <src>97319758</src>
     <name>52 Chemin du Nantet</name>
@@ -116204,7 +117954,7 @@
     <name>12 Boulevard Albert 1er</name>
     <desc>06:00-23:00</desc>
   </wpt>
-  <wpt lat="45.0894313" lon="4.1722884">
+  <wpt lat="45.0894299" lon="4.172283">
     <src>9738967702</src>
     <name>100 Rue Traversi&#232;re</name>
     <desc/>
@@ -117326,7 +119076,7 @@
   </wpt>
   <wpt lat="45.80173135" lon="6.7230781">
     <src>98061113</src>
-    <name>524 Chemin du praz</name>
+    <name>Parc de loisirs du Pontet 2</name>
     <desc/>
   </wpt>
   <wpt lat="45.8229904812537" lon="6.73514699681737">
@@ -117422,7 +119172,7 @@
   <wpt lat="45.8821133" lon="2.1757203">
     <src>9808388203</src>
     <name>11 Rue Reby Lagrange</name>
-    <desc/>
+    <desc>24/7</desc>
   </wpt>
   <wpt lat="47.6456588" lon="-2.747691">
     <src>9808640626</src>
@@ -118009,7 +119759,7 @@
     <name>62 Rue Doroth&#233;e de Dino</name>
     <desc/>
   </wpt>
-  <wpt lat="46.1786361" lon="4.2458151">
+  <wpt lat="46.1786277" lon="4.2458225">
     <src>9850621921</src>
     <name>270 Route du Bourg</name>
     <desc/>
@@ -118401,7 +120151,7 @@
   </wpt>
   <wpt lat="46.6695747" lon="0.3679455">
     <src>986999208</src>
-    <name>Futuroscope 10</name>
+    <name>Futuroscope 9 11</name>
     <desc/>
   </wpt>
   <wpt lat="46.9912931" lon="-1.5934139">
@@ -118507,11 +120257,6 @@
   <wpt lat="48.4496842" lon="-2.0448089">
     <src>9874778932</src>
     <name>14 Rue Tiphaine Raguenel</name>
-    <desc/>
-  </wpt>
-  <wpt lat="43.1207538" lon="6.3561343">
-    <src>9875018041</src>
-    <name>423 Chemin de la Mer</name>
     <desc/>
   </wpt>
   <wpt lat="48.1398275" lon="-0.1146302">
@@ -118936,7 +120681,7 @@
   </wpt>
   <wpt lat="48.9162191" lon="7.752261">
     <src>9893800662</src>
-    <name>Didi'land</name>
+    <name>Didi'land 2</name>
     <desc/>
   </wpt>
   <wpt lat="48.1769245" lon="6.4617976">
@@ -119271,7 +121016,7 @@
   </wpt>
   <wpt lat="48.2012367" lon="-3.0697936">
     <src>9905668649</src>
-    <name>1 Sordan</name>
+    <name>1 Sordan 2</name>
     <desc/>
   </wpt>
   <wpt lat="44.5630401" lon="2.2654316">
@@ -119477,11 +121222,6 @@
   <wpt lat="47.0660327" lon="-0.8701802">
     <src>9913350643</src>
     <name>15 Pl du 77e Regiment d&#8217;Infanterie</name>
-    <desc/>
-  </wpt>
-  <wpt lat="45.471694" lon="3.9115358">
-    <src>9913745147</src>
-    <name>1 Hameau de Montpeloux</name>
     <desc/>
   </wpt>
   <wpt lat="44.5720915" lon="6.6796421">
@@ -120329,11 +122069,6 @@
     <name>5134 Route de bionnassay</name>
     <desc/>
   </wpt>
-  <wpt lat="45.835906" lon="6.7487407">
-    <src>9941003382</src>
-    <name>Adresse inconnue Haute-Savoie 81</name>
-    <desc/>
-  </wpt>
   <wpt lat="48.9103406" lon="-1.3498552">
     <src>9941320259</src>
     <name>10 Rue Alphonse Quinette</name>
@@ -120971,7 +122706,7 @@
   </wpt>
   <wpt lat="49.4214789" lon="1.9818865">
     <src>9963681779</src>
-    <name>Parc Saint-Paul</name>
+    <name>Parc Saint-Paul 3</name>
     <desc/>
   </wpt>
   <wpt lat="44.7045489362631" lon="6.86085006908031">
@@ -121561,7 +123296,7 @@
   </wpt>
   <wpt lat="47.1469947" lon="6.2111364">
     <src>9980640187</src>
-    <name>Dino-Zoo</name>
+    <name>Dino-Zoo 2 2</name>
     <desc/>
   </wpt>
   <wpt lat="48.1774713" lon="-2.7290706">
@@ -121954,7 +123689,7 @@
     <name>6 Route des Echeneaux (RD 36)</name>
     <desc/>
   </wpt>
-  <wpt lat="44.5029940833872" lon="3.41019392213287">
+  <wpt lat="44.5029940745452" lon="3.41019393721318">
     <src>999728752</src>
     <name>53 Avenue de la Resistance</name>
     <desc>24/7</desc>
@@ -122466,7 +124201,7 @@
   </wpt>
   <wpt lat="48.3233579" lon="6.7291193">
     <src>9c1b794b70204f1bb3a74f46286977f8</src>
-    <name>Fraispertuis City 2</name>
+    <name>Fraispertuis City 3 2</name>
     <desc/>
   </wpt>
   <wpt lat="45.2393311" lon="4.7992404">
@@ -122671,7 +124406,7 @@
   </wpt>
   <wpt lat="48.8712497" lon="2.7792924">
     <src>9d6bc1da4c4f48d58be6e0d579e04410</src>
-    <name>Disneyland Paris 13</name>
+    <name>Disneyland Paris 3</name>
     <desc/>
   </wpt>
   <wpt lat="44.5640341" lon="6.4939157">
@@ -122716,7 +124451,7 @@
   </wpt>
   <wpt lat="48.8718055" lon="2.7785412">
     <src>9d9f6382cd6b44b6a7a458641c16395b</src>
-    <name>Disneyland Paris 5</name>
+    <name>Disneyland Paris 3 9</name>
     <desc/>
   </wpt>
   <wpt lat="45.539368" lon="5.7994546">
@@ -123631,7 +125366,7 @@
   </wpt>
   <wpt lat="45.8069554" lon="6.7261314">
     <src>a31c1bfdff164d1b9959acb9ba9bbb38</src>
-    <name>Parc de loisirs du Pontet 3</name>
+    <name>Parc de loisirs du Pontet 2 2</name>
     <desc/>
   </wpt>
   <wpt lat="45.2894711" lon="5.8975071">
@@ -123767,11 +125502,6 @@
   <wpt lat="43.6006074" lon="6.9110324">
     <src>a3ec239248a14afab291ae40a7839d68</src>
     <name>Place du Portail</name>
-    <desc/>
-  </wpt>
-  <wpt lat="44.5420481" lon="4.292224">
-    <src>a3ec574ff81f4d238b53165756b28872</src>
-    <name>Rue Mazon</name>
     <desc/>
   </wpt>
   <wpt lat="48.8761921" lon="2.3721884">
@@ -124331,7 +126061,7 @@
   </wpt>
   <wpt lat="43.7679723" lon="7.4896292">
     <src>a70e471b98824dc489883e94012f4dce</src>
-    <name>Koaland</name>
+    <name>Koaland 2</name>
     <desc/>
   </wpt>
   <wpt lat="45.4084045" lon="2.6289334">
@@ -124694,7 +126424,7 @@
     <name>Parking Centre Th&#233;&#226;tre</name>
     <desc/>
   </wpt>
-  <wpt lat="48.8470892" lon="2.3842101">
+  <wpt lat="48.8471278" lon="2.3842037">
     <src>a9ac1692977548f6a88e93d9a1687949</src>
     <name>Rue Chaligny</name>
     <desc/>
@@ -124819,11 +126549,6 @@
     <name>Boulevard de Nomazy</name>
     <desc/>
   </wpt>
-  <wpt lat="50.6382335" lon="3.0765943">
-    <src>aa9fe9b07cc44e6d96d7e66608434b72</src>
-    <name>Boulevard de Turin</name>
-    <desc/>
-  </wpt>
   <wpt lat="44.2721574" lon="2.5244496">
     <src>aaab2036ac104b659d05ba6d7c5a2d0d</src>
     <name>Chemin de Pinson</name>
@@ -124841,7 +126566,7 @@
   </wpt>
   <wpt lat="48.8671419" lon="2.7780619">
     <src>aad46c3be0284759a3d4c415e526f500</src>
-    <name>Walt Disney Studios Park 1</name>
+    <name>Walt Disney Studios Park 6 3</name>
     <desc/>
   </wpt>
   <wpt lat="45.9786163" lon="4.2817168">
@@ -125289,7 +127014,7 @@
     <name>Avenue de la Muzelle (V&#233;nosc)</name>
     <desc/>
   </wpt>
-  <wpt lat="44.874237" lon="5.722213">
+  <wpt lat="44.8742652" lon="5.7221539">
     <src>adf908de108a4550878c30424694f208</src>
     <name>Chemin de la Mairie</name>
     <desc/>
@@ -125531,7 +127256,7 @@
   </wpt>
   <wpt lat="48.3744014" lon="2.901841">
     <src>af2835707fc941fcb52bff5181b141dd</src>
-    <name>Base de Loisirs</name>
+    <name>Base de Loisirs 2</name>
     <desc/>
   </wpt>
   <wpt lat="45.5841643" lon="2.7429755">
@@ -125661,7 +127386,7 @@
   </wpt>
   <wpt lat="49.2264544" lon="6.1565521">
     <src>b034f86a3f6b45588062faefa54abc28</src>
-    <name>Walygator Grand Est 3</name>
+    <name>Walygator Grand Est 4 3</name>
     <desc/>
   </wpt>
   <wpt lat="45.34178" lon="2.7586473">
@@ -125957,11 +127682,6 @@
   <wpt lat="47.2364565" lon="4.6286988">
     <src>b2171cfc5a8b490b98616dfc75f9ff69</src>
     <name>Chemin du Lac 6</name>
-    <desc/>
-  </wpt>
-  <wpt lat="43.1181048" lon="6.3552886">
-    <src>b21f50644e0441d5bc8d5a7b547fad31</src>
-    <name>Route de B&#233;nat 2</name>
     <desc/>
   </wpt>
   <wpt lat="46.3794386" lon="6.4968266">
@@ -126429,7 +128149,7 @@
     <name>Rue de la Place</name>
     <desc/>
   </wpt>
-  <wpt lat="45.1607506" lon="4.0187483">
+  <wpt lat="45.1607667" lon="4.0187185">
     <src>b558cb12d6d646e78e4b6995f9593537</src>
     <name>Rue de l'Eglise</name>
     <desc/>
@@ -126476,7 +128196,7 @@
   </wpt>
   <wpt lat="44.2426348" lon="4.0226269">
     <src>b59ae8d55b0f41d78c819f8e6b57314c</src>
-    <name>Dinopedia Parc</name>
+    <name>Dinopedia Parc 2</name>
     <desc/>
   </wpt>
   <wpt lat="48.8398638" lon="2.3196159">
@@ -126581,7 +128301,7 @@
   </wpt>
   <wpt lat="50.6390065" lon="3.0494329">
     <src>b6574d56f3ca486cbf8d64dfd6a7943e</src>
-    <name>Cita-Parc</name>
+    <name>Cita-Parc 2</name>
     <desc/>
   </wpt>
   <wpt lat="46.8748157" lon="4.7412103">
@@ -126867,7 +128587,7 @@
   <wpt lat="44.6683205" lon="6.7781009">
     <src>b7a75b08b10c4ed89946cacc4c8d0ccf</src>
     <name>La Rua de Ville 1</name>
-    <desc/>
+    <desc>24/7</desc>
   </wpt>
   <wpt lat="46.109269" lon="4.7451779">
     <src>b7aa3c9ce5904ffba24bd249d2d24ccf</src>
@@ -127142,7 +128862,7 @@
   <wpt lat="48.8391587" lon="2.3923013">
     <src>b92c4b21e3f34c428ce94160f1dbd77d</src>
     <name>Rue Dugommier</name>
-    <desc>6:00-22:00</desc>
+    <desc>24/7</desc>
   </wpt>
   <wpt lat="43.9803015" lon="3.7166238">
     <src>b931e06b49884c5c9cc29972251bcd3f</src>
@@ -127294,7 +129014,7 @@
     <name>Chemin Rural Dit de la Marine</name>
     <desc/>
   </wpt>
-  <wpt lat="43.9566365" lon="6.8620174">
+  <wpt lat="43.9566346" lon="6.8620108">
     <src>ba28c483f4874be1b0f90107c1e67299</src>
     <name>Quartier le Savet 4</name>
     <desc/>
@@ -127417,11 +129137,6 @@
   <wpt lat="49.4231019" lon="2.8191867">
     <src>ba91c73847914fe7b0a38dec7c37b4de</src>
     <name>Square Alphonse Chovet</name>
-    <desc/>
-  </wpt>
-  <wpt lat="45.5099484" lon="4.7722003">
-    <src>ba982ed68d45440abde14524df656543</src>
-    <name>5180 Route du Grand Bois 2</name>
     <desc/>
   </wpt>
   <wpt lat="43.9712403" lon="5.6710631">
@@ -127767,11 +129482,6 @@
   <wpt lat="44.4344461" lon="3.2017654">
     <src>bcdf408193214ad0bae4b4e0d8b590ed</src>
     <name>Rue du Moulin</name>
-    <desc/>
-  </wpt>
-  <wpt lat="43.1186567" lon="6.357753">
-    <src>bce4894d8c2049ac8276787c4f7b758f</src>
-    <name>Chemin de la Mer 3</name>
     <desc/>
   </wpt>
   <wpt lat="45.3857011" lon="4.2824758">
@@ -128347,7 +130057,7 @@
   <wpt lat="48.8933872" lon="2.3698596">
     <src>c0898fac956e498ea1da304f6c7a44a3</src>
     <name>Rue Labois-Rouillon</name>
-    <desc>6:00-22:00</desc>
+    <desc>06:00-22:00,00:00-00:00</desc>
   </wpt>
   <wpt lat="43.6177626" lon="2.8570939">
     <src>c09c2e4a99cb425a8793422eab5a8be8</src>
@@ -128409,7 +130119,7 @@
     <name>Les Usages de Larzicourt</name>
     <desc/>
   </wpt>
-  <wpt lat="43.2958085" lon="5.3980891">
+  <wpt lat="43.2958109" lon="5.3981494">
     <src>c0f22856d675493d843cf0d4e0535406</src>
     <name>Rue Jules Gontard</name>
     <desc/>
@@ -128534,7 +130244,7 @@
     <name>Rue du 19 Mars 1962</name>
     <desc/>
   </wpt>
-  <wpt lat="42.9052928" lon="3.0560883">
+  <wpt lat="42.9051771" lon="3.0560257">
     <src>c1964d795da94f02afd010757446cb19</src>
     <name>Rue des Pins</name>
     <desc/>
@@ -128931,7 +130641,7 @@
   </wpt>
   <wpt lat="42.8704013" lon="2.5591672">
     <src>c463f7140f114b60bd8c8989542c3373</src>
-    <name>Adresse inconnue Aude 23</name>
+    <name>0 Route du Chateau</name>
     <desc/>
   </wpt>
   <wpt lat="45.2904704" lon="6.91311">
@@ -129151,7 +130861,7 @@
   </wpt>
   <wpt lat="48.8740434" lon="2.7765322">
     <src>c5b45c489bbe4aad922a2238f3f6fb46</src>
-    <name>Disneyland Paris 6</name>
+    <name>Disneyland Paris 3 10</name>
     <desc/>
   </wpt>
   <wpt lat="48.3736379" lon="2.820653">
@@ -130619,7 +132329,7 @@
     <name>Adresse inconnue Doubs 26</name>
     <desc/>
   </wpt>
-  <wpt lat="44.601878" lon="2.5459459">
+  <wpt lat="44.6018684" lon="2.5460227">
     <src>ced33607cb5841148312bf94beeda552</src>
     <name>Adresse inconnue Aveyron 150</name>
     <desc/>
@@ -130719,7 +132429,7 @@
     <name>Rue du 19 Mars 1962</name>
     <desc/>
   </wpt>
-  <wpt lat="46.6897444" lon="5.637254">
+  <wpt lat="46.6896867" lon="5.6372773">
     <src>cf5355cce63348df939b609595bbc78b</src>
     <name>Les Grottes</name>
     <desc/>
@@ -130881,7 +132591,7 @@
   </wpt>
   <wpt lat="48.8745729" lon="2.7781633">
     <src>d075796d69bb4143b070fced1cff8ef1</src>
-    <name>Disneyland Paris 7</name>
+    <name>Disneyland Paris 3 11</name>
     <desc/>
   </wpt>
   <wpt lat="45.3411642" lon="6.5901297">
@@ -130981,7 +132691,7 @@
   </wpt>
   <wpt lat="45.2279734" lon="6.408369">
     <src>d113fc5065244a93977b6bc037de2a00</src>
-    <name>Les Karellis</name>
+    <name>81 Route de la Carelle (Montricher-le-Bochet)</name>
     <desc/>
   </wpt>
   <wpt lat="45.2548286" lon="4.7056519">
@@ -131309,10 +133019,10 @@
     <name>6 Route de l&#8217;Oratoire</name>
     <desc/>
   </wpt>
-  <wpt lat="48.4115623" lon="7.4678536">
+  <wpt lat="48.4115523" lon="7.4678489">
     <src>d2ff7fc538c34eaaaf8a6eba3311ca9e</src>
     <name>Rue des Moulins</name>
-    <desc/>
+    <desc>Mo-Su 09:00-18:00</desc>
   </wpt>
   <wpt lat="46.8656011" lon="3.161771">
     <src>d30166898497498392eed63add51d50b</src>
@@ -132019,9 +133729,9 @@
     <name>Rue du Climont</name>
     <desc/>
   </wpt>
-  <wpt lat="42.6286278" lon="9.4696269">
+  <wpt lat="42.6286199" lon="9.4696675">
     <src>d7c221caeb3b4fd78d8ca1d7ab8647fa</src>
-    <name>Route de la Marana</name>
+    <name>Route de la Marana 2</name>
     <desc/>
   </wpt>
   <wpt lat="45.7862166" lon="4.8949611">
@@ -132381,7 +134091,7 @@
   </wpt>
   <wpt lat="48.6937055" lon="2.4059399">
     <src>d9efda94e8424f78bed5495f1c219e42</src>
-    <name>Le Royaume des enfants</name>
+    <name>Le Royaume des enfants 2</name>
     <desc/>
   </wpt>
   <wpt lat="47.5421307" lon="7.1504004">
@@ -133111,7 +134821,7 @@
   </wpt>
   <wpt lat="45.8356282" lon="6.7483404">
     <src>ddd094cb837745e3b7dada330b840616</src>
-    <name>Adresse inconnue Haute-Savoie 76</name>
+    <name>1 Chalets du Truc</name>
     <desc/>
   </wpt>
   <wpt lat="48.8747601" lon="2.3032074">
@@ -133452,11 +135162,6 @@
   <wpt lat="48.8180347" lon="2.3078475">
     <src>dfcc7d8b236d48a186d75bdfbe554885</src>
     <name>Rue Francois Coppee</name>
-    <desc/>
-  </wpt>
-  <wpt lat="44.2592975" lon="2.2607743">
-    <src>dfcfe24f893d41328e2f85f0b481b532</src>
-    <name>Les Riales</name>
     <desc/>
   </wpt>
   <wpt lat="45.8687733" lon="4.1908368">
@@ -133834,7 +135539,7 @@
     <name>Place de la Republique</name>
     <desc/>
   </wpt>
-  <wpt lat="44.989671" lon="3.680202">
+  <wpt lat="44.9897388" lon="3.6803509">
     <src>e2311820479e45a9931ce5fe037c9d9f</src>
     <name>Place de la Fontaine</name>
     <desc/>
@@ -133893,11 +135598,6 @@
     <src>e267115ac2924f04935a0086bfc49a34</src>
     <name>Place d'Arsonval</name>
     <desc>Mo-Su 05:00-22:00</desc>
-  </wpt>
-  <wpt lat="43.1151411" lon="6.3574606">
-    <src>e28741d5dc194c08b68b1290e73db7c1</src>
-    <name>Rue de Coty Plage 3</name>
-    <desc/>
   </wpt>
   <wpt lat="45.7916612" lon="3.7171175">
     <src>e28d7bfdf2474b3dac58e00d8f780ed3</src>
@@ -135541,7 +137241,7 @@
   </wpt>
   <wpt lat="48.8792962" lon="2.2618001">
     <src>ec938c11fae34a548f98d0d05b2afe1a</src>
-    <name>Jardin d'Acclimatation 4</name>
+    <name>Jardin d'Acclimatation 2 2</name>
     <desc/>
   </wpt>
   <wpt lat="45.4484051" lon="4.2557857">
@@ -136049,11 +137749,6 @@
     <name>Place du Foirail</name>
     <desc/>
   </wpt>
-  <wpt lat="43.1837177" lon="6.6005039">
-    <src>ef6265ef4cbf4e288648d9b4d4a4801f</src>
-    <name>Boulevard de Gigaro</name>
-    <desc/>
-  </wpt>
   <wpt lat="44.3823407" lon="2.5268209">
     <src>ef793e7608504577970b592bee5ec9f4</src>
     <name>Chemin de la Fumade 3</name>
@@ -136179,7 +137874,7 @@
     <name>Aire de Dole Audelange</name>
     <desc/>
   </wpt>
-  <wpt lat="48.8379457" lon="2.3513523">
+  <wpt lat="48.8379446" lon="2.3511937">
     <src>f041da86dd884857ac012e976c3f61c4</src>
     <name>Avenue des Gobelins 2</name>
     <desc>24/7</desc>
@@ -136284,7 +137979,7 @@
     <name>Chemin de Narlay</name>
     <desc/>
   </wpt>
-  <wpt lat="45.983944" lon="6.9273164">
+  <wpt lat="45.9840034" lon="6.9270463">
     <src>f0f7e2d1cd904fe8bdfd88fe870f1ba0</src>
     <name>Pl du Marche</name>
     <desc/>
@@ -136604,11 +138299,6 @@
     <name>Route des Chabottes</name>
     <desc/>
   </wpt>
-  <wpt lat="43.1167169" lon="6.3538048">
-    <src>f2d1c7312dbb4023a6449ca5c203216b</src>
-    <name>Route de B&#233;nat 3</name>
-    <desc/>
-  </wpt>
   <wpt lat="44.5997964" lon="3.9362206">
     <src>f2dfe585ef1d46329fea5e40aebafcfb</src>
     <name>Chemin des Trois Ch&#232;vres</name>
@@ -136792,11 +138482,6 @@
   <wpt lat="48.8687613" lon="2.3432394">
     <src>f3f7f1060578466f8ba1a91ba7736f4d</src>
     <name>Rue L&#233;on Cladel</name>
-    <desc/>
-  </wpt>
-  <wpt lat="46.1932246" lon="6.2336158">
-    <src>f41beb2b9d684abebbbff845c52af3b6</src>
-    <name>Place de l'H&#244;tel de Ville</name>
     <desc/>
   </wpt>
   <wpt lat="47.3248726" lon="5.0321903">
@@ -137006,7 +138691,7 @@
   </wpt>
   <wpt lat="45.8143175" lon="2.9445174">
     <src>f57e96f4d2b44f048c08202e9aa47d66</src>
-    <name>Vulcania</name>
+    <name>Vulcania 2</name>
     <desc/>
   </wpt>
   <wpt lat="48.2595678" lon="7.4543317">
@@ -138026,7 +139711,7 @@
   </wpt>
   <wpt lat="49.1358763" lon="2.5731368">
     <src>fb535d20487d418da295146a55c23481</src>
-    <name>Parc Ast&#233;rix 4</name>
+    <name>Parc Ast&#233;rix 5 3</name>
     <desc/>
   </wpt>
   <wpt lat="48.8425014" lon="2.376016">
@@ -138084,10 +139769,10 @@
     <name>Rte des Grandes Alpes</name>
     <desc/>
   </wpt>
-  <wpt lat="48.8862612" lon="2.343854">
+  <wpt lat="48.8862727" lon="2.3438728">
     <src>fb9b48dacdc844b6ac8a90e7c7e85051</src>
     <name>Rue Maurice Utrillo</name>
-    <desc/>
+    <desc>Mo-Su 11:00-18:00</desc>
   </wpt>
   <wpt lat="47.6637062" lon="6.5011924">
     <src>fb9bc6f873c14af1880c4d9521c1509e</src>
@@ -138376,7 +140061,7 @@
   </wpt>
   <wpt lat="48.8771774" lon="2.261681">
     <src>fd80c3161b714e9f8a83409df2bd87ab</src>
-    <name>Jardin d'Acclimatation 5</name>
+    <name>Jardin d'Acclimatation 2 3</name>
     <desc/>
   </wpt>
   <wpt lat="48.5610321" lon="3.2813255">
