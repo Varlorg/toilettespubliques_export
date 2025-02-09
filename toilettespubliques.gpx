@@ -1421,7 +1421,7 @@
   </wpt>
   <wpt lat="49.0048063" lon="2.5739984">
     <src>084327beeeca48649fa01e6148afbe45</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (16)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (15)</name>
     <desc/>
   </wpt>
   <wpt lat="43.7661713" lon="7.4586838">
@@ -2021,7 +2021,7 @@
   </wpt>
   <wpt lat="49.0030493" lon="2.5850013">
     <src>0c2102c19ff14ab4b8b0adbb4d2cb5b4</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (48)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (47)</name>
     <desc/>
   </wpt>
   <wpt lat="50.2789788" lon="3.9675583">
@@ -5056,7 +5056,7 @@
   </wpt>
   <wpt lat="49.0095751431267" lon="2.56166485925142">
     <src>1018840700</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (8)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (7)</name>
     <desc/>
   </wpt>
   <wpt lat="45.7429934" lon="-0.8373496">
@@ -5066,7 +5066,7 @@
   </wpt>
   <wpt lat="49.0095899807419" lon="2.56181673778563">
     <src>1019050991</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (9)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (8)</name>
     <desc/>
   </wpt>
   <wpt lat="45.4020193988793" lon="5.29243987476144">
@@ -6036,7 +6036,7 @@
   </wpt>
   <wpt lat="49.0063229" lon="2.5788705">
     <src>10297854469</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (55)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (54)</name>
     <desc/>
   </wpt>
   <wpt lat="46.4036192" lon="6.6198124">
@@ -10321,17 +10321,17 @@
   </wpt>
   <wpt lat="49.00161" lon="2.573411">
     <src>10883135861</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (56)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (55)</name>
     <desc/>
   </wpt>
   <wpt lat="49.0024612" lon="2.576">
     <src>10883135877</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (57)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (56)</name>
     <desc/>
   </wpt>
   <wpt lat="49.0019645" lon="2.5756122">
     <src>10883135889</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (58)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (57)</name>
     <desc/>
   </wpt>
   <wpt lat="48.6791916" lon="5.8809276">
@@ -13891,7 +13891,7 @@
   </wpt>
   <wpt lat="49.0054689" lon="2.6021345">
     <src>11077464243</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (59)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (58)</name>
     <desc/>
   </wpt>
   <wpt lat="45.5950406577348" lon="5.90357604214799">
@@ -15991,12 +15991,12 @@
   </wpt>
   <wpt lat="49.0032353" lon="2.5778225">
     <src>11155560357</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (60)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (59)</name>
     <desc/>
   </wpt>
   <wpt lat="49.0042778" lon="2.5623431">
     <src>11155633923</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (61)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (60)</name>
     <desc/>
   </wpt>
   <wpt lat="48.6489524" lon="0.4771536">
@@ -16552,11 +16552,6 @@
   <wpt lat="42.7367587" lon="1.7928868">
     <src>11179606353</src>
     <name>5 Maureil</name>
-    <desc/>
-  </wpt>
-  <wpt lat="44.0776877" lon="0.9072838">
-    <src>11179606375</src>
-    <name>49 avenue monplaisir</name>
     <desc/>
   </wpt>
   <wpt lat="45.9595904" lon="-1.2434123">
@@ -19136,7 +19131,7 @@
   </wpt>
   <wpt lat="49.0053951" lon="2.6027187">
     <src>11425781671</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (62)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (61)</name>
     <desc/>
   </wpt>
   <wpt lat="42.524972" lon="2.8332907">
@@ -21671,7 +21666,7 @@
   </wpt>
   <wpt lat="49.0157242" lon="2.5394962">
     <src>11755427595</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (63)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (62)</name>
     <desc/>
   </wpt>
   <wpt lat="49.633488028207" lon="-1.62106693207774">
@@ -33546,7 +33541,7 @@
   </wpt>
   <wpt lat="49.0050136" lon="2.5741842">
     <src>12473207040</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (1)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (63)</name>
     <desc/>
   </wpt>
   <wpt lat="43.6743419009142" lon="1.42164070862067">
@@ -34094,11 +34089,6 @@
     <name>120b Boulevard de l'Oc&#233;an - 1</name>
     <desc>24/7</desc>
   </wpt>
-  <wpt lat="45.4654045" lon="4.6713831">
-    <src>12543854723</src>
-    <name>Place de l'Eglise - 1</name>
-    <desc/>
-  </wpt>
   <wpt lat="44.4740692" lon="3.3458083">
     <src>12544943810</src>
     <name>1760 Route Nationale 88</name>
@@ -34119,14 +34109,49 @@
     <name>1 Rue du Moulin - 2</name>
     <desc/>
   </wpt>
+  <wpt lat="47.0399654" lon="1.6733248">
+    <src>12549779033</src>
+    <name>19 Route de Levroux</name>
+    <desc/>
+  </wpt>
+  <wpt lat="44.3403248" lon="2.1377689">
+    <src>12549881358</src>
+    <name>264 Rue du Couderc</name>
+    <desc/>
+  </wpt>
   <wpt lat="44.7890043900903" lon="-0.588969260345188">
     <src>1255036495</src>
     <name>10 Rue Salvador Allende</name>
     <desc/>
   </wpt>
+  <wpt lat="44.8548335" lon="6.7273347">
+    <src>12551223002</src>
+    <name>124 Chemin du Malazen</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.1345887" lon="5.4705259">
+    <src>12551299101</src>
+    <name>1231 Route du Mont Noir</name>
+    <desc>Dec-Mar 24/7; Apr-Nov off</desc>
+  </wpt>
+  <wpt lat="48.9302777" lon="2.2567658">
+    <src>12551496544</src>
+    <name>17 Rue Alexis Bouvier</name>
+    <desc/>
+  </wpt>
   <wpt lat="45.9308270655563" lon="0.738613217913846">
     <src>125517264</src>
     <name>11 Route de Limoges</name>
+    <desc/>
+  </wpt>
+  <wpt lat="42.7568845" lon="2.5257008">
+    <src>12552283728</src>
+    <name>Adresse inconnue Ansignan</name>
+    <desc/>
+  </wpt>
+  <wpt lat="46.1171212" lon="3.4103171">
+    <src>12552339674</src>
+    <name>5 Place de la Source Intermittente</name>
     <desc/>
   </wpt>
   <wpt lat="45.9905189000026" lon="0.4101206">
@@ -34139,6 +34164,11 @@
     <name>2 Rue du Lavoir - 1</name>
     <desc/>
   </wpt>
+  <wpt lat="45.742009" lon="-0.6279902">
+    <src>12553871396</src>
+    <name>Esplanade du 8 Mai 1945</name>
+    <desc/>
+  </wpt>
   <wpt lat="45.4770967610227" lon="6.28789716907416">
     <src>1255393808</src>
     <name>Adresse inconnue Savoie 91</name>
@@ -34147,6 +34177,11 @@
   <wpt lat="45.4766975610227" lon="6.28690476907416">
     <src>1255393809</src>
     <name>180 Impasse Napol&#233;on</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.1285096" lon="6.0400343">
+    <src>12554027286</src>
+    <name>525 Route des Fonderies Royales</name>
     <desc/>
   </wpt>
   <wpt lat="45.6418689458818" lon="3.24542614173807">
@@ -34159,9 +34194,44 @@
     <name>5 Place Saint-Martin</name>
     <desc/>
   </wpt>
+  <wpt lat="46.9609591" lon="6.2688396">
+    <src>12556114597</src>
+    <name>1a Rue des 3 Fontaines</name>
+    <desc/>
+  </wpt>
+  <wpt lat="46.629285" lon="-1.5073484">
+    <src>12556295272</src>
+    <name>10 Rue des bons pr&#233;s (1)</name>
+    <desc/>
+  </wpt>
+  <wpt lat="46.6305793" lon="-1.5103598">
+    <src>12556311874</src>
+    <name>20 Rue haxo (2)</name>
+    <desc/>
+  </wpt>
+  <wpt lat="46.6305793" lon="-1.5103598">
+    <src>12556315281</src>
+    <name>20 Rue haxo (4)</name>
+    <desc/>
+  </wpt>
+  <wpt lat="47.1455391" lon="2.2197566">
+    <src>12556853866</src>
+    <name>21 Place du 14 juillet</name>
+    <desc/>
+  </wpt>
+  <wpt lat="47.1437438" lon="2.2061706">
+    <src>12556853867</src>
+    <name>17 Boulevard de la Libert&#233;</name>
+    <desc/>
+  </wpt>
   <wpt lat="44.4165579333376" lon="3.94898946666667">
     <src>125588495</src>
     <name>Pesse Mazade</name>
+    <desc/>
+  </wpt>
+  <wpt lat="46.7752824" lon="-0.7500791">
+    <src>12559017727</src>
+    <name>1 g&#226;te-bourse</name>
     <desc/>
   </wpt>
   <wpt lat="49.1572414778014" lon="-0.918732635231362">
@@ -35676,7 +35746,7 @@
   </wpt>
   <wpt lat="49.0058249" lon="2.5787283">
     <src>12e3786f499048d48e81c6ca003ce8cc</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (13)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (12)</name>
     <desc/>
   </wpt>
   <wpt lat="45.829709" lon="3.0994154">
@@ -37509,7 +37579,7 @@
     <name>11 Le Bourg - 1</name>
     <desc/>
   </wpt>
-  <wpt lat="44.1550312500058" lon="4.61856144999953">
+  <wpt lat="44.1550312509226" lon="4.61856144566807">
     <src>1346750045</src>
     <name>45 Avenue de la Mayre</name>
     <desc/>
@@ -37716,7 +37786,7 @@
   </wpt>
   <wpt lat="49.0040501697071" lon="2.57157632526758">
     <src>1351564018</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (10)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (9)</name>
     <desc/>
   </wpt>
   <wpt lat="47.468352425471" lon="-0.594541758238384">
@@ -38524,22 +38594,22 @@
     <name>94 Boulevard Niels Bohr - 5</name>
     <desc/>
   </wpt>
-  <wpt lat="45.7748873192415" lon="4.82031434246576">
+  <wpt lat="45.7748873342157" lon="4.82031433738843">
     <src>1355634280</src>
     <name>24 Rue Bony - 1</name>
     <desc/>
   </wpt>
-  <wpt lat="45.7748860631139" lon="4.82023323329281">
+  <wpt lat="45.7748860599975" lon="4.82023326135729">
     <src>1355634281</src>
     <name>24 Rue Bony - 2</name>
     <desc/>
   </wpt>
-  <wpt lat="45.7749096435672" lon="4.82021987658658">
+  <wpt lat="45.7749096434844" lon="4.82021987907931">
     <src>1355634282</src>
     <name>24 Rue Bony - 3</name>
     <desc/>
   </wpt>
-  <wpt lat="45.7749301593445" lon="4.82020562532718">
+  <wpt lat="45.7749301806548" lon="4.82020562199709">
     <src>1355634283</src>
     <name>28 Rue Bony</name>
     <desc/>
@@ -38553,6 +38623,61 @@
     <src>1355636970</src>
     <name>28 Rue Emile Zola - 2</name>
     <desc>24/7</desc>
+  </wpt>
+  <wpt lat="45.7749632254462" lon="4.82031921760524">
+    <src>1355638966</src>
+    <name>28 Rue Bony (1)</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7749538843028" lon="4.82028825343329">
+    <src>1355638967</src>
+    <name>28 Rue Bony (2)</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.779571989404" lon="4.86928511452069">
+    <src>1355660153</src>
+    <name>23 Boulevard Andr&#233; Latarjet (1)</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7795991405264" lon="4.86926651389863">
+    <src>1355663546</src>
+    <name>23 Boulevard Andr&#233; Latarjet (2)</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7811727182921" lon="4.86261088867494">
+    <src>1355667628</src>
+    <name>Square de la Doua</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7849879723727" lon="4.87356699201471">
+    <src>1355671538</src>
+    <name>23 Avenue des Arts (1)</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7850287438308" lon="4.87354842214879">
+    <src>1355671539</src>
+    <name>23 Avenue des Arts (2)</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.6647415799001" lon="4.03020362304905">
+    <src>1356170176</src>
+    <name>1245 Route de Saint-Bonnet</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7837167187528" lon="4.87756696146278">
+    <src>1356349456</src>
+    <name>7 Rue des Sports (1)</name>
+    <desc/>
+  </wpt>
+  <wpt lat="45.7837094176057" lon="4.87764659534411">
+    <src>1356349878</src>
+    <name>7 Rue des Sports (2)</name>
+    <desc/>
+  </wpt>
+  <wpt lat="44.046939840932" lon="5.04556327946787">
+    <src>1356419743</src>
+    <name>221 Boulevard Pasteur</name>
+    <desc/>
   </wpt>
   <wpt lat="45.7249221" lon="4.8585802">
     <src>1356420963</src>
@@ -47821,7 +47946,7 @@
   </wpt>
   <wpt lat="49.0129072" lon="2.5587416">
     <src>1e8dc5be9609480c816c47781c267183</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (26)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (25)</name>
     <desc/>
   </wpt>
   <wpt lat="44.8165203" lon="3.1191481">
@@ -48404,7 +48529,7 @@
     <name>23 Rue L&#233;o M&#233;rigot 1</name>
     <desc/>
   </wpt>
-  <wpt lat="48.8729228154569" lon="2.77896623329051">
+  <wpt lat="48.8729228072272" lon="2.77896623799331">
     <src>204210433</src>
     <name>Disneyland Paris (1)</name>
     <desc/>
@@ -49442,11 +49567,6 @@
   <wpt lat="43.6628548" lon="-1.443119">
     <src>2182421981</src>
     <name>106 Place des Landais 2</name>
-    <desc/>
-  </wpt>
-  <wpt lat="45.9551552524906" lon="5.53107055761713">
-    <src>218245026</src>
-    <name>12 Rue du Centre</name>
     <desc/>
   </wpt>
   <wpt lat="45.9539081462323" lon="5.53212511867872">
@@ -51914,7 +52034,7 @@
     <name>21 Avenue de nantes</name>
     <desc/>
   </wpt>
-  <wpt lat="43.6226389" lon="4.8003441">
+  <wpt lat="43.6226168" lon="4.8003393">
     <src>236d68b7179b499092c8384f1c650f77</src>
     <name>Rue Pitrat</name>
     <desc/>
@@ -55046,7 +55166,7 @@
   </wpt>
   <wpt lat="49.0027334" lon="2.5678862">
     <src>26d15ffc34ee43ed8c0cc1015c58d2ea</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (23)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (22)</name>
     <desc/>
   </wpt>
   <wpt lat="48.0053585" lon="6.8756177">
@@ -58206,7 +58326,7 @@
   </wpt>
   <wpt lat="49.0034293" lon="2.5849548">
     <src>2e40c566f4254cd7beb0d1c2ac469b1f</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (50)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (49)</name>
     <desc/>
   </wpt>
   <wpt lat="43.7544398" lon="5.2026364">
@@ -58984,7 +59104,7 @@
     <name>1 Rue de la Licorne</name>
     <desc/>
   </wpt>
-  <wpt lat="46.121774" lon="3.4217418">
+  <wpt lat="46.1217703" lon="3.4217398">
     <src>30461fc08ae648aabaa59ef4b4004e2e</src>
     <name>Rue de la Porte de France</name>
     <desc/>
@@ -67316,7 +67436,7 @@
   </wpt>
   <wpt lat="49.0024353" lon="2.5850764">
     <src>3cb3779173414e10abdf2d3fcd635e33</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (51)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (50)</name>
     <desc/>
   </wpt>
   <wpt lat="45.837489" lon="4.822877">
@@ -67511,7 +67631,7 @@
   </wpt>
   <wpt lat="49.0049912" lon="2.5740424">
     <src>3dfb283a72194520b762e6dc455c28c8</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (14)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (13)</name>
     <desc/>
   </wpt>
   <wpt lat="44.8910805" lon="5.4283543">
@@ -67771,7 +67891,7 @@
   </wpt>
   <wpt lat="49.0144392" lon="2.538648">
     <src>3f5595eba4ee4796898290c30f09ea62</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (32)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (31)</name>
     <desc/>
   </wpt>
   <wpt lat="48.9017493" lon="2.2928448">
@@ -67871,7 +67991,7 @@
   </wpt>
   <wpt lat="49.0127674" lon="2.5593274">
     <src>3ff73244ace14341a366421470c68e27</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (28)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (27)</name>
     <desc/>
   </wpt>
   <wpt lat="45.4647155" lon="6.493964">
@@ -68069,7 +68189,7 @@
     <name>33 Rue des Remparts</name>
     <desc/>
   </wpt>
-  <wpt lat="45.7524547444067" lon="6.54324227743798">
+  <wpt lat="45.7524610768425" lon="6.54325014225179">
     <src>402105380</src>
     <name>260 Route du mont bisanne</name>
     <desc/>
@@ -68591,7 +68711,7 @@
   </wpt>
   <wpt lat="49.0064662" lon="2.5903474">
     <src>40badb8f76d8449bae1824f8cc345a70</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (36)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (35)</name>
     <desc/>
   </wpt>
   <wpt lat="48.8197403" lon="2.1132444">
@@ -69686,7 +69806,7 @@
   </wpt>
   <wpt lat="49.003968940247" lon="2.57158480201872">
     <src>422423866</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (2)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (1)</name>
     <desc/>
   </wpt>
   <wpt lat="48.8510503" lon="-0.5569502">
@@ -70391,7 +70511,7 @@
   </wpt>
   <wpt lat="49.005203" lon="2.5797632">
     <src>42ffe79929e14724b3e8beaa9948d329</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (15)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (14)</name>
     <desc/>
   </wpt>
   <wpt lat="48.3543339" lon="-1.2111823">
@@ -73469,7 +73589,7 @@
     <name>Adresse inconnue 48</name>
     <desc/>
   </wpt>
-  <wpt lat="46.3318920891686" lon="6.37414800545458">
+  <wpt lat="46.331894939614" lon="6.37414545348165">
     <src>467970974</src>
     <name>648 Avenue de sciez</name>
     <desc/>
@@ -76856,7 +76976,7 @@
   </wpt>
   <wpt lat="49.0038164" lon="2.5848743">
     <src>4acc1fdf826547bf94166d4dab5fbf5f</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (42)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (41)</name>
     <desc/>
   </wpt>
   <wpt lat="46.2322562" lon="3.0980566">
@@ -78984,7 +79104,7 @@
     <name>100 Lagal</name>
     <desc/>
   </wpt>
-  <wpt lat="46.3736314680765" lon="6.47999908626189">
+  <wpt lat="46.3736370189913" lon="6.48002088487522">
     <src>512912601</src>
     <name>Place du Ch&#226;teau - 2</name>
     <desc/>
@@ -81421,7 +81541,7 @@
   </wpt>
   <wpt lat="49.0061795" lon="2.5745464">
     <src>54b2f171c6304fb8975084688b2ef340</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (19)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (18)</name>
     <desc/>
   </wpt>
   <wpt lat="45.7794954" lon="3.0810622">
@@ -82319,7 +82439,7 @@
     <name>2 Rue Fran&#231;oise Dolto</name>
     <desc/>
   </wpt>
-  <wpt lat="47.9626899" lon="1.8817071">
+  <wpt lat="47.9627" lon="1.881721">
     <src>5624336122</src>
     <name>5000 Les Cent Arpents</name>
     <desc/>
@@ -82541,7 +82661,7 @@
   </wpt>
   <wpt lat="49.0149657691985" lon="2.54252686636382">
     <src>565907722</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (3)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (2)</name>
     <desc/>
   </wpt>
   <wpt lat="48.5134981" lon="-4.0688529">
@@ -82571,22 +82691,22 @@
   </wpt>
   <wpt lat="49.014733531532" lon="2.54263397322428">
     <src>566327744</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (4)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (3)</name>
     <desc/>
   </wpt>
   <wpt lat="49.0149298385411" lon="2.54107240225443">
     <src>566339615</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (5)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (4)</name>
     <desc/>
   </wpt>
   <wpt lat="49.0146553495382" lon="2.54289850465195">
     <src>566339618</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (6)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (5)</name>
     <desc/>
   </wpt>
   <wpt lat="49.0151302716981" lon="2.54179826308809">
     <src>566353528</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (7)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (6)</name>
     <desc/>
   </wpt>
   <wpt lat="45.0050300500035" lon="-1.2012671000004">
@@ -83461,7 +83581,7 @@
   </wpt>
   <wpt lat="49.0052425" lon="2.5902133">
     <src>5783192b193f48999cf8ea31c0a91689</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (38)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (37)</name>
     <desc/>
   </wpt>
   <wpt lat="45.4419504" lon="0.787657">
@@ -83876,7 +83996,7 @@
   </wpt>
   <wpt lat="49.0052219" lon="2.576368">
     <src>5822451dac6a4859bb1aab3817971392</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (17)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (16)</name>
     <desc/>
   </wpt>
   <wpt lat="50.6926461647245" lon="3.05759538744911">
@@ -89276,7 +89396,7 @@
   </wpt>
   <wpt lat="49.0046914" lon="2.5682747">
     <src>6347bac4826d461a8bcdc680df61aa2b</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (22)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (21)</name>
     <desc/>
   </wpt>
   <wpt lat="47.440204" lon="4.7890897">
@@ -97466,7 +97586,7 @@
   </wpt>
   <wpt lat="49.0021746" lon="2.5786133">
     <src>704493ba89a5421a87a67db5da8ae424</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (11)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (10)</name>
     <desc/>
   </wpt>
   <wpt lat="43.55764" lon="1.4631207">
@@ -98016,7 +98136,7 @@
   </wpt>
   <wpt lat="49.0026357" lon="2.5908122">
     <src>70a3f1e566664be89ad5eb40d87d2978</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (24)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (23)</name>
     <desc/>
   </wpt>
   <wpt lat="43.9823068" lon="3.1353818">
@@ -98029,7 +98149,7 @@
     <name>Place du March&#233; (10)</name>
     <desc/>
   </wpt>
-  <wpt lat="48.1714468" lon="7.1157035">
+  <wpt lat="48.1714537" lon="7.1157076">
     <src>70c6f3273ed84f5fa3b33d84572b75e2</src>
     <name>Rue des Pierres Blanches</name>
     <desc/>
@@ -100809,11 +100929,6 @@
     <name>Adresse inconnue 21 2</name>
     <desc/>
   </wpt>
-  <wpt lat="47.3313729" lon="1.0922952">
-    <src>7468049072</src>
-    <name>Place Charles Dorleans</name>
-    <desc/>
-  </wpt>
   <wpt lat="47.2816054" lon="-2.3921759">
     <src>746815786</src>
     <name>14 boulevard hennecart</name>
@@ -101916,7 +102031,7 @@
   </wpt>
   <wpt lat="49.0048422" lon="2.5852042">
     <src>76079b30480e4c93b2579332d0c01448</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (40)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (39)</name>
     <desc/>
   </wpt>
   <wpt lat="43.3296552" lon="5.0396705">
@@ -105566,7 +105681,7 @@
   </wpt>
   <wpt lat="49.0131259" lon="2.53944">
     <src>7c31169a18b54b12b81560ed142555f2</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (20)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (19)</name>
     <desc/>
   </wpt>
   <wpt lat="44.1005568" lon="3.0826747">
@@ -107236,7 +107351,7 @@
   </wpt>
   <wpt lat="46.6292891179611" lon="-1.50734012051959">
     <src>812445308</src>
-    <name>10 Rue des bons pr&#233;s</name>
+    <name>10 Rue des bons pr&#233;s (2)</name>
     <desc/>
   </wpt>
   <wpt lat="47.6258377" lon="-2.672818">
@@ -107426,7 +107541,7 @@
   </wpt>
   <wpt lat="49.0026665" lon="2.5850481">
     <src>8159572c632746c88e11efff25b97d2c</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (41)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (40)</name>
     <desc/>
   </wpt>
   <wpt lat="49.2465280233631" lon="0.4504534807909">
@@ -107776,7 +107891,7 @@
   </wpt>
   <wpt lat="49.0028652" lon="2.5625525">
     <src>81fcdc8d315d43818c07b2ce27e520d1</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (27)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (26)</name>
     <desc/>
   </wpt>
   <wpt lat="43.6263364" lon="6.2242082">
@@ -111894,7 +112009,7 @@
     <name>267 Annes</name>
     <desc/>
   </wpt>
-  <wpt lat="44.3295545" lon="-0.9619773">
+  <wpt lat="44.3295334" lon="-0.9620028">
     <src>8684529960</src>
     <name>7 Rue du Vieux Bourg</name>
     <desc/>
@@ -114936,7 +115051,7 @@
   </wpt>
   <wpt lat="49.0061685" lon="2.584605">
     <src>8c3f95d074c74232b3ef5098a0014c07</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (49)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (48)</name>
     <desc/>
   </wpt>
   <wpt lat="42.6709915" lon="2.9431418">
@@ -115256,7 +115371,7 @@
   </wpt>
   <wpt lat="49.006929" lon="2.5845069">
     <src>8dfa98b22a1a4a649192f9600a1f31ee</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (46)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (45)</name>
     <desc/>
   </wpt>
   <wpt lat="42.6946846" lon="2.7699571">
@@ -116794,7 +116909,7 @@
     <name>Chemin du Couleyras</name>
     <desc/>
   </wpt>
-  <wpt lat="44.6656078" lon="5.7054466">
+  <wpt lat="44.6656105" lon="5.7054538">
     <src>90f16f2361c240bd8d752247091d711f</src>
     <name>Rue du Corps de Garde (2)</name>
     <desc/>
@@ -119471,7 +119586,7 @@
   </wpt>
   <wpt lat="49.0019036" lon="2.5851414">
     <src>93404592fe6f4ee180f8cb4324d04a48</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (21)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (20)</name>
     <desc/>
   </wpt>
   <wpt lat="48.0300086" lon="-1.9324216">
@@ -129566,17 +129681,17 @@
   </wpt>
   <wpt lat="49.0032752" lon="2.5764733">
     <src>9980252617</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (52)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (51)</name>
     <desc/>
   </wpt>
   <wpt lat="49.0034587" lon="2.5742805">
     <src>9980260951</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (53)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (52)</name>
     <desc/>
   </wpt>
   <wpt lat="49.0039249" lon="2.5773167">
     <src>9980260953</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (54)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (53)</name>
     <desc/>
   </wpt>
   <wpt lat="48.7876922" lon="2.2291181">
@@ -131836,7 +131951,7 @@
   </wpt>
   <wpt lat="49.0164577" lon="2.5414151">
     <src>a47a5ddb33a048e6a0fb172801c0c236</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (33)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (32)</name>
     <desc/>
   </wpt>
   <wpt lat="44.376411" lon="4.6999067">
@@ -132121,7 +132236,7 @@
   </wpt>
   <wpt lat="49.0072985" lon="2.5844291">
     <src>a5d74a683d3f415cb70686229c23baaa</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (45)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (44)</name>
     <desc/>
   </wpt>
   <wpt lat="42.1523661" lon="9.1509435">
@@ -132711,7 +132826,7 @@
   </wpt>
   <wpt lat="49.0026313" lon="2.578296">
     <src>a9ec36b130704d17a9815d7dd1123016</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (25)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (24)</name>
     <desc/>
   </wpt>
   <wpt lat="45.3846104" lon="4.7263282">
@@ -132781,7 +132896,7 @@
   </wpt>
   <wpt lat="49.0064067" lon="2.5845742">
     <src>aa8be8d6a9334946a3a51ac5f4209ea6</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (44)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (43)</name>
     <desc/>
   </wpt>
   <wpt lat="46.5457602" lon="3.3303844">
@@ -134116,7 +134231,7 @@
   </wpt>
   <wpt lat="49.0044947" lon="2.5903045">
     <src>b3ab3cae694546b4b38849dce64dd2d8</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (39)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (38)</name>
     <desc/>
   </wpt>
   <wpt lat="43.3605461" lon="3.3438965">
@@ -136421,7 +136536,7 @@
   </wpt>
   <wpt lat="49.0058069" lon="2.5748727">
     <src>c1698b4d09b34cd1939031d7497169f3</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (18)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (17)</name>
     <desc/>
   </wpt>
   <wpt lat="44.0805242" lon="3.641642">
@@ -136716,7 +136831,7 @@
   </wpt>
   <wpt lat="49.0013477" lon="2.5912137">
     <src>c3c9d15b7caa4dabb854dc7e9ded84f7</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (34)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (33)</name>
     <desc/>
   </wpt>
   <wpt lat="45.0105045" lon="4.393475">
@@ -137426,7 +137541,7 @@
   </wpt>
   <wpt lat="49.0125032" lon="2.5593617">
     <src>c85f7331042941eb8d204783b5e99d6d</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (29)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (28)</name>
     <desc/>
   </wpt>
   <wpt lat="43.8408484" lon="4.9210707">
@@ -137681,7 +137796,7 @@
   </wpt>
   <wpt lat="49.0019951" lon="2.581887">
     <src>c9c420f3bd2f49e78244d703c592cb6d</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (12)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (11)</name>
     <desc/>
   </wpt>
   <wpt lat="45.5875657" lon="4.0129306">
@@ -138401,7 +138516,7 @@
   </wpt>
   <wpt lat="49.0118816" lon="2.5584186">
     <src>ce58915d1c374b4c97a86ab0d2a0bfcb</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (30)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (29)</name>
     <desc/>
   </wpt>
   <wpt lat="48.8044456" lon="2.130667">
@@ -139051,7 +139166,7 @@
   </wpt>
   <wpt lat="49.0052663" lon="2.5846812">
     <src>d22aee3c0cbd4a0ca398fa1cd665339d</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (43)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (42)</name>
     <desc/>
   </wpt>
   <wpt lat="43.9750419" lon="2.991833">
@@ -140341,7 +140456,7 @@
   </wpt>
   <wpt lat="49.0051457" lon="2.5892141">
     <src>da9c709ac42c48d1923f8dfa3eecc4fd</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (37)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (36)</name>
     <desc/>
   </wpt>
   <wpt lat="49.4493208" lon="6.3342455">
@@ -140831,7 +140946,7 @@
   </wpt>
   <wpt lat="49.0079749" lon="2.5904144">
     <src>dd39bc162ec14150901dc1a9af3b9182</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (35)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (34)</name>
     <desc/>
   </wpt>
   <wpt lat="43.5508909" lon="7.0100861">
@@ -141281,7 +141396,7 @@
   </wpt>
   <wpt lat="49.0145881" lon="2.5424512">
     <src>dfc72690c5da4db4ac878579779f4616</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (31)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (30)</name>
     <desc/>
   </wpt>
   <wpt lat="48.8180347" lon="2.3078475">
@@ -142839,14 +142954,14 @@
     <name>Impasse les Lavandins</name>
     <desc/>
   </wpt>
-  <wpt lat="44.6496582" lon="4.7824862">
+  <wpt lat="44.6497154" lon="4.7824191">
     <src>e98b9a51ac1940b6a4f526a1e9e3d6d8</src>
     <name>Quartier Chazal des Maures</name>
     <desc/>
   </wpt>
   <wpt lat="49.0057853" lon="2.5846544">
     <src>e98cda568eb84e709b61f63f57000083</src>
-    <name>A&#233;roport de Paris-Charles-de-Gaulle (47)</name>
+    <name>A&#233;roport de Paris-Charles-de-Gaulle (46)</name>
     <desc/>
   </wpt>
   <wpt lat="45.2214311" lon="4.7773359">
