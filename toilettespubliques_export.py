@@ -6,7 +6,7 @@ import json
 import requests
 from lxml import etree
 
-src_website = "https://api.toilettespubliques.com/toilettes"
+src_website = "https://api.v2.toilettespubliques.com/toilettes"
 authToken = '837pNgtH9wQ7nXUU44bp'
 headers = {
     'Authorization': 'Bearer ' + authToken,
